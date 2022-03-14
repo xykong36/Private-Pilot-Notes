@@ -11,6 +11,11 @@ Quiz:
 Order: 
 1, 3-8, 12, 14-16
 
+MIT Private Pilot Ground School 
+* Video: https://www.youtube.com/watch?v=jeI3wpulyPw&list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25&index=1 
+* Lecture Notes: https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/lecture-notes/
+
+
 ## Chapter 1. Introduction to Flying
 ## Chapter 2. Aeronautical Decision-Making
 ## Chapter 3. Aircraft Construction

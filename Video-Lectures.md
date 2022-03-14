@@ -14,20 +14,44 @@
 ### 9. Air Facts: Engine TLC
 ### 10. Propeller, Fuel and Electrical System 
 ### 11. Closer Look: Carbureted Engines
+Carburetor heat: 
+* Heated air melts ice
+* Slight power loss
+
+heat is coming from exhuast systgem
+
+pull out => full carburetor heat
+Carburetor Icing: Likely with high humidity, temperatures < 70 F and low power settings 
+
 ### 12. Air Facts: Purposeful Preflight
+
+
 ### 13. Preflight
+
 ### 14. Engine Start
+
 ### 15. Aviation Communications
+
 ### 16. Air Facts: Getting the Message
+
 ### 17. Taxi, Run-up, Traffic Pattern
+
 ### 18. Closer Look: Wind Direction Indicators
+
 ### 19. Takeoff
+
 ### 20. Closer Look: Tower Controlled Field
+
 ### 21. Air Facts: Takeoff Tips
+
 ### 22. Four Fundamentals
+
 ### 23. Air Facts: Pitching and Turning
+
 ### 24. Four Fundamentals (part 2)
+
 ### 25. Air Facts: The Proper Attitude
+
 ### 26. Conclusion 
 
 ## 2. Practicing Landings
