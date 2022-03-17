@@ -1,12 +1,20 @@
 ## Chapter 1 Basic Aerodynamics
 * Aerodynamic Terms
+  * *airfoil*: a structure or body which produces a useful reaction to air movement
+  * *chord line*
+  * *relative wind*
+  * *angle of attack*: the angle between the chord line of the airfoil and the relative wind. By manipulating the aircraft controls, the pilot can vary the angle of attack.
+  * *angle of incidence*
+  * *drag*: a rearward-acting force which resists the forward movement of an airplane through the air
+    * *parasite drag*: resistance of the air produced by any part of an airplane that does not produce lift
+    * *induced drag*: a by-product of lift.
 * Axes of Rotation and the Four Forces Acting in Flight
 * Stability
 * Turns, Loads and Load Factors
 * Maneuvers
-	* Rectangular Course
-	* Turns Around a Point
-	* S-Turns
+  * Rectangular Course
+  * Turns Around a Point
+  * S-Turns
 * Stalls and Spins
 * Flaps
 * Ground Effect
