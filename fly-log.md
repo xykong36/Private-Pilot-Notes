@@ -1,3 +1,33 @@
+3.22 Pre Solo Practice
+
+
+
+使用ForeFlight 记录训练轨迹 来进行分析 
+
+
+
+
+
+## 3.20 Pre Solo Practice
+
+bumpy weather 
+
+很难保持leve flight 因为气流上升的力道不同 有的暖气流会上升的高一些 力量大 有的地方比较冷 上升的力量小一些
+
+注意检查back door 是否锁好 今天在run up area 被提醒back door 没有锁紧 
+
+降落的时候注意找到一个spot 根据spot 的上下移动来确定自己的pitch 是否是稳定的
+
+起飞的时候注意找runway 正前方的标记来进行方向校正
+
+
+
+
+
+Next time: 
+
+use foreflight to 
+
 ## 3.13 Slow Flight + Stall + Steep Turn + Landing Practice
 
 ### Slow Flight 

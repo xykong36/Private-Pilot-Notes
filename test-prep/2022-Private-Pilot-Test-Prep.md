@@ -10,6 +10,12 @@
     * *induced drag*: a by-product of lift.
 * Axes of Rotation and the Four Forces Acting in Flight
 * Stability
+  * *stability*: the inherent ability of an airplane to return, or not return, to its original flight condition after being disturbed by an outside force, such as rough air.
+  * CG ()
+    * Forward CG
+      * Increased longitudinal stability 
+    * Aft CG
+  * 3212. What causes an airplane to pitch nosedown when power is reduced and controls are not adjusted. 
 * Turns, Loads and Load Factors
 * Maneuvers
   * Rectangular Course

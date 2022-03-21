@@ -73,6 +73,7 @@ Carburetor Icing: Likely with high humidity, temperatures < 70 F and low power s
 ### 15. Wake Turbulence Avoidance
 
 
+
 ## 3. Your First Solo
 
 ### 1. Pre-Solo Maneuvers
@@ -109,9 +110,83 @@ Carburetor Icing: Likely with high humidity, temperatures < 70 F and low power s
 
 ### 19. Drag
 
+Induced Drag: By-product of lift
+
+Parasite Drag: 
+
+* Form (profile)
+* Skin Friction
+* Interference
+
+
+
+Drag is produced by moving the airplane through the air, and is considered to act parallel to the relative wind and rearward. 
+
+
+
+Form drag increase approximately as the square of the speed increases
+
+Induced drag remains the same regardless of speed changes.
+
+
+
 ### 20. Closer Look: Reducing Drag
 
 ### 21. Thrust, Stability & Center of Gravity 
+
+Effects of the lift and the center of gravity as they relate to stability
+
+properly load an airplane vs. consequences of improper loading 
+
+
+
+maneuverable , controllable and stable  相互矛盾
+
+more stability = less maneuverable 
+
+we can affect stability by the way we load the airplane
+
+dihedral:  
+
+what is dihedral ?
+
+lateral / roll stability 
+
+directional stability: 保持直线 
+
+pitch stability: nose up / down
+
+roll stability: 从bank角度 恢复到水平
+
+fuselage: the main body of an aircraft
+
+
+
+Positive dihedral: wing tips is higher than the wing root
+
+If an airplane is banked without turning, it tends to side slip toward the lowered wing. because of the dihedral, the lowered wing has a higher angle of attack and produces more lift. This tends to return the airplane to the original wings level position. making it stable. 
+
+**Quiz:**
+
+For 
+
+Q: Lateral or roll stability is normally achieved by
+
+A: The upward pitch of the wings, called dihedral.
+
+
+
+Q: Lateral or roll stability is normally achieved by:
+
+A: The upward pitch of the wings, called dihedral.
+
+
+
+Q: For directional stability, an airplane tends to weathervane back to a stable position due to: 
+
+A: More fuselage aft of its CG.
+
+
 
 ### 22. Flight Service Weather Briefings
 
