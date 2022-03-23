@@ -16,6 +16,10 @@ which
 
 
 
+p-factor: 
+
+What is gyroscopes? 
+
 Long wing 
 
 ## Fore Flight

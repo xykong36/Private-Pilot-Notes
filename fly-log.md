@@ -6,6 +6,21 @@
 
 
 
+几个细节操作: 
+
+* 多找可以辅助定位的 坐标物 转弯 飞直线 定位方向 多观察outside
+* downwind注意保持parallel 找平行线  
+* 如果要extend downwind 先不要放flap
+* 根据runway number 来计算三个90度的坐标
+* landing approach 先做level flight 看远处坐标 不断pull back 理想状态是拉到极限的时候landing
+
+犯的错误:
+
+* 太早pull back / pull back 太快 尾巴直接贴地了 速度还没有减下来 
+* 太晚pull back直接贴地
+* drift 没有调整 pull back -> left/right 微调 -> 继续pull back 
+* 没有对准center line 跑偏了
+
 
 
 ## 3.20 Pre Solo Practice
@@ -16,7 +31,7 @@ bumpy weather
 
 注意检查back door 是否锁好 今天在run up area 被提醒back door 没有锁紧 
 
-降落的时候注意找到一个spot 根据spot 的上下移动来确定自己的pitch 是否是稳定的
+降落的时候注意找到一个spot 根据spot 的上下移动来确定自己的pitch 是否是稳定的在glide path上
 
 起飞的时候注意找runway 正前方的标记来进行方向校正
 

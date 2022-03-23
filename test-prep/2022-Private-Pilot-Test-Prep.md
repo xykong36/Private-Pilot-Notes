@@ -15,8 +15,10 @@
     * Forward CG
       * Increased longitudinal stability 
     * Aft CG
-  * 3212. What causes an airplane to pitch nosedown when power is reduced and controls are not adjusted. 
 * Turns, Loads and Load Factors
+  * horizontal lift component
+  * vertical lift component 
+  * stall speed increases in proportion to the square root of the load factor. 
 * Maneuvers
   * Rectangular Course
   * Turns Around a Point
@@ -25,6 +27,12 @@
 * Flaps
 * Ground Effect
 * Wake Turbulence
+
+### Questions Review
+
+* 1-11 3212. What causes an airplane to pitch nosedown when power is reduced and controls are not adjusted. 
+* 1-12 3211-1 center of pressure of a wing affects the aircraft's **aerodynamic balance and controllability**
+
 ## Chapter 2 Aircraft Systems
 * Reciprocating Engines
 * Ignition and Electrical Systems
