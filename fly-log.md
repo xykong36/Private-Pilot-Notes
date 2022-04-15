@@ -1,4 +1,32 @@
-3.22 Pre Solo Practice
+
+
+3.29 Crosswind Flight 技巧
+
+需要
+
+多做chair flight 
+
+
+
+## 3.27 Ground School 
+
+
+
+因为flap 出了点小问题所以没有开上飞机 上了一个多小时的理论课
+
+梳理一下 CG其实就是一个Arm的位置
+
+Vg Diagram 并不常用
+
+Weight Balance 
+
+Bank turn 的时候还需要turn back 
+
+turn 的时候会增加load factor 侧面会向外滑， 速度越快滑的越远
+
+
+
+## 3.22 Pre Solo Practice
 
 
 

@@ -1,5 +1,129 @@
 
 
+
+
+## 各种缩写
+
+* AGL: Above Ground Level 应用 6500AGL 云层
+* 
+
+
+
+## Weather
+
+Cloud can be good indicators of the type of weather going on. Clouds are the visible collection of minute ice or water particles suspended in the air. 
+
+
+
+Videos
+
+* What is a Cloud? Crash Course Geography #10 https://www.youtube.com/watch?v=EK_UOLsN72Q&list=PL8dPuuaLjXtO85Sl24rSiVQ93q7vcntNF&index=12
+
+
+
+**Words & Concept**
+
+* Cloud 
+  * stratus
+  * cumulus
+  * cumulonimbus: 积雨云 cumulus
+* Temperature inversion: the temperature increases with altitude and results in a stable atmosphere. 
+* Atmosphere
+  * Stratosphere: Second layer of the atmosphere
+  * Tropopause: boundary between troposphere and stratosphere
+  * Troposphere: temperature decreases with altitude
+* Dew point: the temperature to which air must be cooled to become saturated by the water already present in the air
+* Atmospheric Stability: the resistance of the atmosphere to vertical motion
+* 
+* Moisture: 
+  * Evaporation: liquid to vapor
+  * Condensation: vapor to liquid
+  * Sublimation: solid to vapor
+  * Deposition: vapor to solid
+  * Freezing: liquid to solid
+  * Melting: solid to liquid
+
+![Cloud Types](./screenshot/cloud-types.jpg)
+
+Cloud Wiki: https://simple.wikipedia.org/wiki/Cloud
+
+* Layered clouds: stratus 层云 indicate stable conditions, expect a relatively smooth flight, with fair to poor visibility. 
+* Cumulus clouds 卷云 are those with vetical development. A cumulonimbus cloud is a cumulus cloud which is producing precipitation. -> expect a bumpy flight with good crisp visibility. Rain or snow is usually heavy and localized. They indicate that the air is unstable, thus the bumpy ride. 
+
+
+
+Moisture: 
+
+* Moisture can be added to the air by either evaporation(liquid to vapor) / sublimation(solid to vapor)
+
+* Moisture is removed from the air by either condensation(vapor to liquid) / deposition(vapor to solid)
+
+
+
+
+
+Fog conditions that produce fog
+
+* Small temperature/dew point spread -> 形成水滴
+* Winds are calm or light -> 不能被吹散
+* Precipitation is continuous -> 持续不断新的水汽来源
+* Condensation nuclei are abundant
+* Cooling processes are active
+
+
+
+Fog Types
+
+* Radiation fog (Ground fog): forms on a clear, cold night when the surface of the earth is cooled by raidation until the temperature of the air near the surface is below initial dew point. Cooling of the air causes fog to form.  common night or early morning
+* Advection fog (Sea fog): occurs mostly along coasts and is caused by wind transporting warm moist air to a colder surface. e.g. 墨西哥湾的暖风会在美国东部形成大雾 widespread, long-lasting, day or night 
+* Upslope fog: caused by wind forcing moist stable air up a sloping land surface. 
+* Precipitation induced fog: caused by the evaporation of rain or dizzle. 
+* Ice fog
+
+
+
+Altimeter indications 
+
+altimeter measures the cahnge in atmospheric pressure and reads it out in feet of altitude.  1 inch of mercury = 1000 feeet of altitude below 10,000 feet. It's important to reset the altimeter periodically as you fly to keep it accurate. 
+
+
+
+Temperature affects the altimeter because the atmosphere expands and contacts with changes in temperature. 
+
+
+
+"High temperatures to low, look out below" because the aircraft is lower than the altimeter indicates. 
+
+"Low temperature to high, look to the sky"
+
+The reverse of high to low is also true. 
+
+* If you fly from a low pressure to a high pressure area without resetting the altimeter, you will have the aircraft higher than the altimeter indicates. 
+* Flying from cold to high temperatures will also put the aircraft higher than the altimeter indicates. 
+
+
+
+Fronts: The boundary layer between two types of air masses 
+
+Fronts Type
+
+* Warm Front:  暖锋
+* Cold front
+* Stationary front
+* Occluded front: 移动快的冷锋 把移动慢的暖锋挤掉
+
+
+
+Wind Shear
+
+
+
+Thunderstorm
+
+* 
+
+
+
 ## 1. Your First Few Hours
 
 ### 1. Into / The Flight
@@ -105,6 +229,29 @@ Carburetor Icing: Likely with high humidity, temperatures < 70 F and low power s
 ### 15. Runway Safety
 
 ### 17. Thunderstorms and Convective Forecasts
+
+
+
+**Concept**
+
+* fronts: 
+* pre-frontal squall lines
+* updrafts & downdrafts
+* hail:冰雹 hailstone:  a round ball of [ice](https://simple.wikipedia.org/wiki/Ice) which falls out of a [storm](https://simple.wikipedia.org/wiki/Storm) [cloud](https://simple.wikipedia.org/wiki/Cloud)
+
+Three conditions to create a thunderstorm:
+
+* unstable air
+* high moisture content
+* source of lift
+
+
+
+Thunderstorm lifecycle:
+
+* start as cumulus clouds and consist entirely of updrafts
+* start of the mature stage begins when the first precipitation falls from the cloud and is characterized by both updrafts and downdrafts. 
+* In the mature stage, downdrafts grow in size and occupy the entire cell, the thunderstorm starts to dissipate
 
 ### 18. Radar Imagery
 
