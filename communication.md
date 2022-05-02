@@ -1,4 +1,18 @@
-## Passanger  Briefing
+Ground
+
+Control Tower 
+
+
+
+Radio Communication and ATC: 
+
+https://www.youtube.com/watch?v=cYTkz0yKKOs 
+
+
+
+
+
+## Passenger  Briefing
 
 SAFETY
 

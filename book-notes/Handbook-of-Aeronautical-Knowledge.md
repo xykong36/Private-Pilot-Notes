@@ -40,6 +40,44 @@ Four forces:
 ## Chapter 12. Weather Theory
 ## Chapter 13. Aviation Weather Services
 ## Chapter 14. Airport Operations
+
+Types of Airports
+
+
+
+Nontowered Airport
+
+CTAF: Common Traffic Advisory Frequency
+
+UNICOM: Universal Integrated Community , is a nongovernment air/ground radio communication station that may provide airport airport information
+
+
+
+
+
+同一个方向的Runway 可以用后缀来区分 L(Left), C(Center), R(Right)
+
+
+
+Airport Markings
+
+https://www.youtube.com/watch?v=MrrL92AH23A
+
+### Airport Signage
+
+https://www.youtube.com/watch?v=VCDo9xJk4YE
+
+* Mandatory Instruction Signs
+* Location Signs
+* Direction Signs
+* Runway Distance Remaining Signs
+* Information Signs
+* Destination Signs
+
+### Airport Lighting 
+
+https://www.youtube.com/watch?v=FSl8iIpeHEk
+
 ## Chapter 15. Airspace
 ## Chapter 16. Navigation
 

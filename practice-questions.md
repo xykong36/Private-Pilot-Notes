@@ -1,4 +1,123 @@
+## 4-21 Aircraft Performance 
 
+在哪里看到max weight 是2950?
+
+* Determine the density altitude for these conditions: Altimeter setting - 30.30, Runway temperature - +25°F, Airport elevation - 3,894 it MSL  **On the Altimeter setting chart find 30.3. Its conversion factor is -348. Subtract this from the airport elevation of 3,894. (3,894-348=3546) Enter the Density Altitude chart at +25°F and go up to the 3,546pressure altitude line and read left to find density altitude of approximately 2,200feet.**
+* ![](.\screenshot\Figure-8-Density-Altitude-Chart.jpg)
+
+
+
+### Aerodynamic Forces
+
+* The movement of the air affects the speed at which aircraft move: **Over the Earth's surface**
+* The left turning tendency of an airplane caused by P-factor is the result of the **propeller blade descending on the right, producing more thrust than the ascending blade on the left.**
+
+
+
+## 4-18 Flight Safety
+
+Word & Concept 
+
+A **hangover** refers to **a set of symptoms that occur as a consequence of drinking too much**.
+
+### Questions
+
+* What can happen when a pilot experiences an illusion while approaching to land on a runway that is narrower than the typical runway width?  **The pilot will fly a lower approach, with the risk of striking objects along the approach path or possibly landing short. ** 更窄的跑道会让pilot觉得自己的高度比较高结果导致实际的高度偏低
+* Which of the substances below almost always negatively affect your flying performance? **Antibiotics**
+* What preparation should a pilot make to adapt the eyes for night flying? **Avoid bright white lights at least 30 minutes before the flight.**
+* What effect does haze have on the ability to see traffic or terrain features during flight?  **All traffic or terrain features appear to be farther away than their actual distance.**
+* How does the wake turbulence vortex circulate around each wingtip?  **Outward, upward, and around each tip.**
+
+* Wingtip vortices are created only when an aircraft is **developing lift**
+* The wind condition that requires maximum caution when avoiding wake turbulence on landing is a **light, quartering tailwind.** 可能会导致vortices很久才能消散
+* A near midair collision is defined as an incident associated with the operation of an aircraft in which a possibility of collision occurs as a result of coming less than what distance from another aircraft? **500 feet**
+* What is the minimum visibility for a pilot to receive a land and hold short (LAHSO) clearance? **3 statute miles**
+* What should you do to determine that your emergency locator transmitter (ELT) hasn’t been activated? **Monitor 121.5 before engine shutdown**
+* How can you determine if another aircraft is on a collision course with your aircraft? **There will be no apparent relative motion between your aircraft and the other aircraft.**
+* Pilots are encouraged to turn on their landing lights when operating below 10,000 feet, day or night, and when operating within: **10 miles of any airport**
+* During a night flight, you observe steady red and green lights ahead and at the same altitude. What is the general direction of movement of the other aircraft?  **The other aircraft is flying away from you.**
+* During a night flight, you observe a steady red light and a flashing red light ahead and at the same altitude. What is the general direction of movement of the other aircraft? **The other aircraft is crossing to the left.**
+
+
+
+
+
+
+
+## 4-18 Radio Communication 
+
+#### 各种缩写
+
+* Common Traffic Advisory Frequency (CTAF)
+* University Communication (UNICOM)  Chart 上面最后一个frequency
+* Automated Surface Weather Observation Service (ASOS/AWOS)
+
+Questions 
+
+* If instructed by ground control to taxi to Runway 9, the pilot may proceed **If instructed by ground control to taxi to Runway 9, the pilot may proceed**
+* he correct method of stating 5,500 feet MSL to ATC is ‘FIVE THOUSAND FIVE HUNDRED’. For reporting altitudes and flight levels, say each number followed by thousand or hundred, as in 12,000, one two thousand or 12,500, one two thousand five hundred.
+* When operating under VFR below 18,000 feet MSL, unless otherwise authorized, what transponder code should be selected?  **1200**
+* ATC advises, "traffic 2 o`clock." This advisory is relative to your: **ground track**
+* After landing at a tower-controlled airport, when should the pilot contact ground control?  **When advised by the tower to do so.**
+* When should pilots state their position on the airport when calling the tower for takeoff?  **When departing from a runway intersection.**
+* How should a VFR flight plan be closed at the completion of the flight at a controlled airport?  **The pilot must close the flight plan with the nearest FSS or other FAA facility upon landing.**
+* transponder code: 
+  * 1200 VFR U.S. and Canada
+  * 7500 hijack
+  * 7600 radio failure 
+  * 7700 flight distress / emergency
+* What ATC facility should the pilot contact to receive a special VFR departure clearance in Class D airspace? **Air Traffic Control Tower**
+* The correct method of stating 10,500 feet MSL to ATC is **TEN THOUSAND, FIVE HUNDRED FEET**
+* If faced with an emergency where Air Traffic Control (ATC) assistance is desired and not already in contact, which frequency can be used to establish communications? **121.5 MHz Emergency frequencies are 121.5 MHz and 243.0 MHz. There is also an emergency frequency guarded by the U.S. Coast Guard on 2182 kHz.**
+* Automatic Terminal Information Service (ATIS) is the continuous broadcast of recorded information concerning **noncontrol information in selected high-activity terminal**
+
+
+
+
+
+## 4-18 Airport Operation 
+
+
+
+* The 'yellow demarcation bar' marking indicates **runway with a displaced threshold that precedes the runway.**![](.\screenshot\Marking-demarcation-bar.jpg)
+
+
+
+* You are on the ground and see a steady red light signal from the tower. What does it indicate? **Stop**
+* What does a runway hold position sign indicate?  **A runway hold position sign indicates an entrance to a runway from a taxiway.**
+* What is the purpose of a runway hold position marking on a taxiway? **Identifies where aircraft hold short of the runway.** 
+
+
+
+
+
+## 4-15 Weather 
+
+
+
+* When speaking to a Flight Service weather briefer, you should state:
+* Absence of the sky condition and visibility on an ATIS broadcast indicates that **the ceiling is at least 5,000 feet and visibility is 5 miles or more.**
+* How are Significant Weather Prognostic Charts best used by a pilot?  **For determining areas to avoid (freezing levels and turbulence).** 
+* What information is contained in a CONVECTIVE SIGMET? **Tornadoes, embedded thunderstorms, and hail 3/4 inch or greater in diameter**
+* The Terminal Aerodrome Forecast (TAF) is: **Specific to an airport.**
+* To obtain current information regarding cloud tops, icing, and turbulence check the: **Pilot reports (PIREPs).**
+* To determine the freezing level and areas of probable icing aloft, the pilot should refer to the **Inflight Aviation Weather Advisories**
+* Of what value is the Weather Depiction Chart to the pilot? **For determining general weather conditions on which to base flight planning.**
+* Aviation Routine Weather reports (METARs) contain: **Wind, visibility, precipitation, cloud coverage, temperature, and altimeter setting.**
+* What can you learn about current weather conditions from this PIREP? RFD UUA /OV RFD090005/TM 1818/FL015/TP B767/RM +/- 15 KTS ON FINAL. **It is an urgent pilot report for a plus or minus 15 knot variation of airspeed on final approach.**
+
+
+
+ 
+
+True North vs. Magnetic North
+
+* over the video -> magnetic north
+* 
+
+
+
+What information is contained in a CONVECTIVE SIGMET? ****
 
 4-12
 

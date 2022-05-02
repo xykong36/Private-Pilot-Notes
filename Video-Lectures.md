@@ -4,8 +4,76 @@
 
 ## 各种缩写
 
-* AGL: Above Ground Level 应用 6500AGL 云层
-* 
+* AGL: Above Ground Level 应用 6500AGL 云层 
+* MSL: Mean Sea Level true altitude/elivation 和海平面的差 绝对海拔
+
+
+
+## Airport Operation 
+
+### Airspace
+
+https://www.youtube.com/watch?v=c6ZieuNvjHw 
+
+https://www.youtube.com/watch?v=V_AgxK9JQVU 
+
+
+
+### Airport Markings
+
+https://www.youtube.com/watch?v=MrrL92AH23A
+
+
+
+Runway number 是指向那个方向的 取最接近的十位数 273 -> Runway 27  278 -> Runway 28
+
+Magnetic 
+
+
+
+called:Runway two seven
+
+
+
+Runway edges
+
+threshold
+
+touchdown zone 
+
+pilots aiming point
+
+
+
+Displaced Threshold 
+
+![](.\screenshot\Marking-Displaced-Threshold.png)
+
+
+
+Runway 用数字
+
+Taxiway 用字母
+
+
+
+
+
+### Airport Signage
+
+https://www.youtube.com/watch?v=VCDo9xJk4YE
+
+### Airport Lighting
+
+Airport Beacon 
+
+VASI(Visual Approach Slope Indicator)
+
+
+
+runway center line: green light
+
+https://www.youtube.com/watch?v=FSl8iIpeHEk
 
 
 
@@ -21,7 +89,7 @@ Videos
 
 
 
-**Words & Concept**
+### **Words & Concept**
 
 * Cloud 
   * stratus
