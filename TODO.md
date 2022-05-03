@@ -2,9 +2,15 @@ PHAK C16 Wind Triangle
 
 
 
+Airspace
 
+Lec04 Aircraft System 
 
+Lec 12 Aircraft Performance
 
+Lec 15 Flight Planning
+
+Lec 18 Weight & Balance
 
 ## MIT Private Pilot Ground School
 

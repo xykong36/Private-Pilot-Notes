@@ -472,14 +472,72 @@ A: More fuselage aft of its CG.
     * Instrument Rating required
     * Obtain an ATC Clearance before entering Class A
     * Maintain 2-way radio contact
-
-
-
-
+* Class B Airspace (大城市机场) 29.92 pressure 
+  * Operating Requirements
+    * ATC Clearance
+    * Maintain 2-way radio contact
+    * Requires Mode C Transponder with ADS-B Out capabilities
+  * Student Pilot Operations
+    * Requires ground and flight instruction on operations in the specific Class B airspace
+    * Logbook Endorsements: 
+      * operate within specific Class B airspace
+      * to takeoff or land at specific Class B airport
+      * valid for 90 days
+  * minimum VFR visibility
+    * 3 sm + clear or clouds
+* Class C Airspace (18,000' MSL - FL600(included)) 29.92 pressure 
+  * Operating Requirements
+    * No ATC Clearance
+    * Establish communications with ATC 
+    * Minimum of a **Student Pilot Certificate**
+    * Mode C Transponder with ADS-B Out capabilities
+  * minimum VFR visibility
+    * 3 sm + 512
+* Class D
+* Class E
+  * 可能会到700 看sectional chart 是否标记出来
+  * 10,000' MSL 是VFR weather的分界线  
+* Class G
+  * uncontrolled area 1000
 
 
 
 ### 20. Special Use Airspace
+
+Prohibited Areas
+
+Restricted Areas
+
+Warning Areas: international area
+
+Military Operations Areas(MOA) 
+
+Alert Areas
+
+Controlled Firing Areas
+
+
+
+Military training routes
+
+* VR: Visual Training Route
+* IR: Instrument Training Route
+* 3 Digit Route IR109: Above 1,500
+* 4 Digit Route Below 1,500
+
+
+
+Temporary Flight Restriction(TFR): Restrict flight operations to protect persons or property in the air and on the ground
+
+
+
+TFR sources 
+
+
+
+Parachute Jump Areas
+
+
 
 ### 21. Airspace Preflight Planning 
 
