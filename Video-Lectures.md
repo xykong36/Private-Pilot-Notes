@@ -6,8 +6,13 @@
 
 * AGL: Above Ground Level 应用 6500AGL 云层 
 * MSL: Mean Sea Level true altitude/elivation 和海平面的差 绝对海拔
+* FL: Flight Level e.g. FL350: pressure altitude of 35,000'
 
 
+
+
+
+## 
 
 ## Airport Operation 
 
@@ -461,11 +466,28 @@ A: More fuselage aft of its CG.
 
 ### 19. Normal Airspace
 
+* Class A Airspace (18,000' MSL - FL600(included)) 29.92 pressure 
+  * Operating Requirements
+    * All flights must be on an **IFR flight plan**
+    * Instrument Rating required
+    * Obtain an ATC Clearance before entering Class A
+    * Maintain 2-way radio contact
+
+
+
+
+
+
+
 ### 20. Special Use Airspace
 
 ### 21. Airspace Preflight Planning 
 
 ### 22. Wrap Up - Going Places
+
+
+
+
 
 
 ## 5. Your Solo Cross Countries

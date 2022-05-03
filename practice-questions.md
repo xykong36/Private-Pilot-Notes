@@ -1,3 +1,63 @@
+## 5-2 
+
+### Airspace
+
+Class E Airspace basic VFR weather minimums
+
+* Less than 10,000 feet MSL 3sm + 512
+* At or above 10,000 feet MSL 5sm + 512
+
+Class G Airspace: 
+
+1,200 feet or less above the surface 
+
+* Day: 1 statute mile + clear of clouds 
+* Night: 3 statute miles + 5 1 2
+
+More than 1,200 feet above the surface but less than 10,000 feet MSL 
+
+* Day: 1 + 5 1 2
+* Night: 3 + 5 1 2
+
+
+
+Questions
+
+* The vertical limit of Class C airspace above the primary airport is normally **3,000 feet AGL.**
+
+* What minimum radio equipment is required to land and take off at Norfolk International?
+* All operations within Class C airspace must be in **an aircraft equipped with a 4096-code transponder with Mode C encoding capability, and ADS-B Out.**
+* The magenta transition zone around the Sandpoint indicates that Class E airspace begins at 700' AGL. 1,200' AGL is within the Class E 
+* With certain exceptions, Class E airspace extends upward from either 700 feet or 1,200 feet AGL to, but does not include **18,000 feet MSL.**
+
+Class C Requirements:
+
+* Student Pilot
+* Mode-C Transponder
+* Two-way radio communication
+
+
+
+Class E General: 1200 AGL -> 18,000 MSL (not including 18,000 MSL)
+
+
+
+### Safety of Flight
+
+hyperventilation: rapid or deep breathing, usually caused by anxiety or panic. -> A feeling of suffocation and drowsiness.
+
+
+
+* What is the antidote when a pilot has a hazardous attitude, such as 'Invulnerability'? **It could happen to me.**
+* Pilots are more subject to spatial disorientation if **visual cues are taken away, as they are in instrument meteorological conditions (IMC).**
+* What is it often called when a pilot pushes his or her capabilities and the aircraft's limits by trying to maintain visual contact with the terrain in low visibility and ceiling? **Scud running**
+* What often leads to spatial disorientation or collision with ground/obstacles when flying under Visual Flight Rules (VFR)? **Continual flight into instrument conditions.**
+* Eye movements during daytime collision avoidance scanning should: **not exceed 10 degrees and view each sector at least 1 second.**
+* What effect does haze have on the ability to see traffic or terrain features during flight?  **All traffic or terrain features appear to be farther away than their actual distance.**
+* The wind condition that requires maximum caution when avoiding wake turbulence on landing is a **light, quartering tailwind.** **explanation**: Pilots must be especially alert in calm wind or in a light tailwind situation. These cause the vortices to remain longer in the touchdown area or drift forward farther down into the touchdown area. 
+
+
+
 ## 4-21 Aircraft Performance 
 
 在哪里看到max weight 是2950?
