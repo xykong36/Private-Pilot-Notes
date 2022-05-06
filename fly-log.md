@@ -1,5 +1,13 @@
 
 
+
+
+## 5.5 Landing Practice
+
+今天终于有点熟练度了，也第一次尝试了Night flight 感觉和白天飞还是有区别的 降落的时候不容易判断高度 而且不太容易定位找方向 降落的时候level flight 还是不错的  
+
+flight simulator 的训练也慢慢体现出来了 在脑子里面不断设想自己在landing的时候 各种sight picture 以及要做什么事情
+
 ## 4.21 Landing Practice
 
 练习目标: 

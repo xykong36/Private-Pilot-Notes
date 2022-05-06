@@ -1,3 +1,62 @@
+## 5-3
+
+### Aircraft System
+
+* caution range: yellow arc
+* The pitot-static system drives the:  **Airspeed indicator, altimeter, and vertical speed indicator.**
+
+
+
+* Which factor would tend to increase the density altitude at a given airport?
+
+  **A decrease in relative humidity.**  explain: Density Altitude -> Pressure Altitude Explain https://youtu.be/cFnQFeOZzNc 
+
+* maximum structural cruising speed -> end of the green arc
+
+* Under what condition is indicated altitude the same as true altitude?  **When at sea level under standard conditions.**
+
+* Which condition would cause the altimeter to indicate a lower altitude than true altitude?  **Air temperature lower than standard.**
+
+* If it is necessary to set the altimeter from 29.15 to 29.85, what change occurs?
+
+  **700-foot increase in indicated altitude. One inch of Hg is equal to approximately 1,000' of altitude. The difference between 29.15 and 29.85 is an increase of .70" Hg, or 700' of increased altitude indication.** 
+
+* Which instrument is affected if the pitot tube is blocked?  **Airspeed indicator.**
+
+* Which color identifies the power-off stalling speed with wing flaps and landing gear in the landing configuration? **Lower limit of the white arc.**
+
+* Altimeter setting is the value to which the barometric pressure scale of the altimeter is set so the altimeter indicates ? **true altitude at field elevation.**
+
+* If a flight is made from an area of low pressure into an area of high pressure without the altimeter setting being adjusted, the altimeter will indicate **lower than the actual altitude above sea level.** 高pressure -> 低pressure 地区 需要飞的更低才有更大的pressure来维持飞行姿态
+
+* As altitude increases, the indicated airspeed at which a given airplane stalls in a particular configuration will **remain the same regardless of altitude.**
+
+
+
+关于高度的参考资料: https://flying609.wordpress.com/2020/05/10/12-%E5%BE%9E%E9%9B%B6%E5%AD%B8%E7%BF%92%E8%88%AA%E7%A9%BA%E7%9A%84%E5%90%84%E7%A8%AE%E9%AB%98%E5%BA%A6-altitudes/ 
+
+
+
+elevation 海拔
+
+Altitude 相对高度
+
+物理距离: ASL (Above Sea Level) / AGL(Above Ground Level)
+
+![img](https://flying609.files.wordpress.com/2020/05/altitude_3.jpg?w=1024)
+
+
+
+Altitude: 
+
+* True: actual height **above sea level**
+* Indicated: what is shown on altimeter
+* Absolute: height above the ground
+* Pressure: height above standard datum plane(29.93'' Hg)
+* Density: pressure alt. corrected for non standard temperature
+
+
+
 ## 5-2 
 
 ### Airspace
