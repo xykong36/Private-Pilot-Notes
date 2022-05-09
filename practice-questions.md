@@ -1,3 +1,36 @@
+## 5-6
+
+### Regulations
+
+* Normal VFR operations in Class D airspace with an operating control tower require the ceiling and visibility to be at least **1,000 feet and 3 miles.**
+* Completion of an annual condition inspection and the return of the aircraft to service should always be indicated by **an appropriate notation in the aircraft maintenance records.**
+* In addition to other preflight actions for a VFR flight away from the vicinity of the departure airport, regulations specifically require the pilot in command to **determine runway lengths at airports of intended use and the aircraft's takeoff and landing distance data.**
+* Except when necessary for takeoff or landing, what is the minimum safe altitude required for a pilot to operate an aircraft over congested areas? **An altitude of 1,000 feet above the highest obstacle within a horizontal radius of 2,000 feet of the aircraft.**
+* The minimum flight visibility required for VFR flights above 10,000 feet MSL and more than 1,200 feet AGL in controlled airspace is **3 miles**
+* An aircraft towing or refueling other aircraft has the right-of-way over all other engine-driven aircraft. 
+* An approved chair-type parachute may be carried in an aircraft for emergency use if it has been packed by an appropriately rated parachute rigger within the preceding **180 days**
+* An airplane and an airship are converging. If the airship is left of the airplane's position, which aircraft has the right-of-way?  **The airship.**
+* Except when necessary for takeoff or landing, what is the minimum safe altitude for a pilot to operate an aircraft anywhere? **An altitude of 500 feet above the highest obstacle within a horizontal radius of 1,000 feet.**
+* The airworthiness of an aircraft can be determined by a preflight inspection and a **review of the maintenance records.**
+* What is the specific fuel requirement for flight under VFR during daylight hours in an airplane? **Enough to fly to the first point of intended landing and to fly after that for 30 minutes at normal cruising speed.** 
+* What action is required when two aircraft of the same category converge, but not head-on? **The aircraft on the left shall give way.**
+* Preflight action, as required for all flights away from the vicinity of an airport, shall include **an alternate course of action if the flight cannot be completed as planned.**
+* No person may use an ATC transponder unless it has been tested and inspected within at least the preceding **24 calendar months.**
+* What are the minimum requirements for airplane operations under special VFR in Class D airspace at night? **The pilot must be instrument rated, and the airplane must be IFR equipped.**
+* The operator of an aircraft that has been involved in an accident is required to file an NTSB accident report within how many days? **10**
+
+
+
+Position (navigation) lights on an aircraft are: **Red for the left wingtip, green for the right wing tip, and white for the tail.**
+
+
+
+Light Gun Signals: 
+
+* Alternating Red and Green: Exercise extreme caution
+* Flashing White: Return to starting point on airport
+* 
+
 ## 5-3
 
 ### Aircraft System
