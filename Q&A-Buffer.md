@@ -15,3 +15,9 @@ FAA official site: https://www.faa.gov/air_traffic/flight_info/aeronav/digital_p
 Induced drag: 
 
 汽车空气阻力分量中诱导阻力的实质究竟是什么？ - 公紫小桓的回答 - 知乎 https://www.zhihu.com/question/26372617/answer/1976934531 
+
+
+
+
+
+What is the dew point ?

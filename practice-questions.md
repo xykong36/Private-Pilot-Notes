@@ -1,3 +1,9 @@
+## 5-26
+
+### Weather
+
+At approximately what altitude above the surface would the pilot expect the base of cumuliform clouds if the surface air temperature is 82 °F and the dewpoint is 38 °F? **10,000 feet AGL  （82-32）/ 4.4  , divide the difference between the temperature and dew point by 4.4 to determine the height of the cloud base. **
+
 ## 5-6
 
 ### Regulations
