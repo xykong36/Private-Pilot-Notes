@@ -324,12 +324,6 @@ Carburetor ice is most likely to occur when temperatures are: Below 70 degrees F
 
 
 
-## 各种缩写
-
-* AGL: Above Ground Level 应用 6500AGL 云层 
-* MSL: Mean Sea Level true altitude/elivation 和海平面的差 绝对海拔
-* FL: Flight Level e.g. FL350: pressure altitude of 35,000'
-
 
 
 
@@ -519,6 +513,81 @@ Thunderstorm
 
 
 
+## 各种缩写 
+
+* AGL: Above Ground Level 应用 6500AGL 云层 
+* MSL: Mean Sea Level true altitude/elivation 和海平面的差 绝对海拔
+* FL: Flight Level e.g. FL350: pressure altitude of 35,000'
+
+### Weather Report
+
+* VV: Vertical Visibility
+
+* VRB: Variable
+
+* SKC: Sky Clear
+
+* VKN: Borken
+
+* OVC: Overcase
+
+* TS: Thunderstorms
+
+* SH: Showers
+
+* FZ: Freezing
+
+* BL: Blowing
+
+* RA: Rain
+
+* DZ: Drizzle
+
+* SN: Snow
+
+* GR: Hail
+
+* FG: Fog
+
+* BR: Mist
+
+* HZ: Haze
+
+  
+
+### PIREP(Pilot Weather Reports)
+
+* /TM - Time
+* /FL - Altitude/Flight level
+* /TP - Type of Aircraft
+* /SK - Cloud Layers
+* /WX - Weather
+* /TA - Air Temperature
+* /WV - Wind
+* /TB - Turbulence
+* /IC - Icing
+* /RM - Remarks
+
+PIREP code
+
+| PIREP ELEMENT | PIREP CODE                  | CONTENTS                       |                                                              |
+| :------------ | :-------------------------- | :----------------------------- | ------------------------------------------------------------ |
+| 1             | 3−letter station identifier | XXX                            | Nearest weather reporting location to the reported phenomenon |
+| 2             | Report type                 | UA or UUA(may vary by country) | Routine or Urgent PIREP                                      |
+| 3             | Location                    | /OV                            | In relation to a VOR                                         |
+| 4             | Time                        | /TM                            | Coordinated Universal Time                                   |
+| 5             | Altitude                    | /FL                            | Essential for turbulence and icing reports                   |
+| 6             | Aircraft Type               | /TP                            | Essential for turbulence and icing reports                   |
+| 7             | Sky cover                   | /SK                            | Cloud height and coverage (sky clear, few, scattered, broken, or overcast) |
+| 8             | Weather                     | /WX                            | Flight visibility, precipitation, restrictions to visibility, etc |
+| 9             | Temperature                 | /TA                            | Degrees Celsius                                              |
+| 10            | Wind                        | /WV                            | Direction in degrees magnetic north and speed in knots       |
+| 11            | Turbulence                  | /TB                            | As per AIP definitions                                       |
+| 12            | Icing                       | /IC                            | As per AIP definitions                                       |
+| 13            | Remarks                     | /RM                            | For reporting elements not included or to clarify previously reported items |
+
+
+
 ## 易混概念
 
 ### [Altitude](https://flying609.wordpress.com/2020/05/10/12-%E5%BE%9E%E9%9B%B6%E5%AD%B8%E7%BF%92%E8%88%AA%E7%A9%BA%E7%9A%84%E5%90%84%E7%A8%AE%E9%AB%98%E5%BA%A6-altitudes/) PHAK 8-6
@@ -543,7 +612,7 @@ Thunderstorm
 * $V_{S0}$ - lower limit of white arc - the stalling speed or the minimum steady flight speed in the landing configuration
 * $V_{FE}$ - upper limit of the white arc - the maximum speed with the flaps extended
 * $V_{S1}$ - lower limit of green arc - the stalling speed or the minimum steady flight speed obtained in a specified configuration
-* $V_{N0}$ - upper limit of green arc - the maximum structual cruising speed
+* $V_{N0}$ - upper limit of green arc - the maximum structural cruising speed
 * $V_{NE}$ - red line - never exceed speed
 
 
@@ -578,13 +647,77 @@ Category vs Class
 
 
 
+Squawk Code: SQUAWK codes are **four digits** and they are used to easily identify a specific aircraft when detected on a radar, or to determine what an aircraft needs in the case of an emergency or situation in which a flight plan needs to be changed.
+
+ · 1200 — VFR · 2000 — Oceanic · 7500 — Hijacking · 7600 — Lost Comm · 7700 — Emergency.
+
+
+
 ## 读图表
 
-Sectional Chart
+### Sectional Chart
 
-Airport Markings
-
-
+### Airport Markings
 
 
 
+### ATC light signals
+
+ATC light signals have the meaning shown in the following table: 
+
+  
+
+| Color and type of signal  | Meaning with respect to aircraft on the surface |          Meaning with respect to aircraft in flight          |
+| :-----------------------: | :---------------------------------------------: | :----------------------------------------------------------: |
+|       Steady green        |               Cleared for takeoff               |                       Cleared to land.                       |
+|      Flashing green       |                 Cleared to taxi                 | Return for landing (to be followed by steady green at proper time). |
+|        Steady red         |                      Stop                       |      Give way to other aircraft and continue circling.       |
+|       Flashing red        |           Taxi clear of runway in use           |                Airport unsafe - do not land.                 |
+|      Flashing white       |       Return to starting point on airport       |                       Not applicable.                        |
+| Alternating red and green |            Exercise extreme caution             |                  Exercise extreme caution.                   |
+
+
+
+### Basic VFR weather minimums
+
+Except as provided in [paragraph (b)](https://www.ecfr.gov/current/title-14/section-91.155#p-91.155(b)) of this section and [§ 91.157](https://www.ecfr.gov/current/title-14/section-91.157), no person may operate an aircraft under VFR when the flight visibility is less, or at a distance from clouds that is less, than that prescribed for the corresponding altitude and class of airspace in the following table: 
+
+  
+
+| Airspace                                                     | Flight visibility | Distance from clouds       |
+| ------------------------------------------------------------ | ----------------- | -------------------------- |
+| Class A                                                      | Not Applicable    | Not Applicable.            |
+| Class B                                                      | 3 statute miles   | Clear of Clouds.           |
+| Class C                                                      | 3 statute miles   | 500 feet below.            |
+|                                                              |                   | 1,000 feet above.          |
+|                                                              |                   | 2,000 feet horizontal.     |
+| Class D                                                      | 3 statute miles   | 500 feet below.            |
+|                                                              |                   | 1,000 feet above.          |
+|                                                              |                   | 2,000 feet horizontal.     |
+| Class E:                                                     |                   |                            |
+| Less than 10,000 feet MSL                                    | 3 statute miles   | 500 feet below.            |
+|                                                              |                   | 1,000 feet above.          |
+|                                                              |                   | 2,000 feet horizontal.     |
+| At or above 10,000 feet MSL                                  | 5 statute miles   | 1,000 feet below.          |
+|                                                              |                   | 1,000 feet above.          |
+|                                                              |                   | 1 statute mile horizontal. |
+| Class G:                                                     |                   |                            |
+| 1,200 feet or less above the surface (regardless of MSL altitude) |                   |                            |
+| For aircraft other than helicopters:                         |                   |                            |
+| Day, except as provided in [§ 91.155(b)](https://www.ecfr.gov/current/title-14/section-91.155#p-91.155(b)) | 1 statute mile    | Clear of clouds.           |
+| Night, except as provided in [§ 91.155(b)](https://www.ecfr.gov/current/title-14/section-91.155#p-91.155(b)) | 3 statute miles   | 500 feet below.            |
+|                                                              |                   | 1,000 feet above.          |
+|                                                              |                   | 2,000 feet horizontal.     |
+|                                                              |                   |                            |
+
+
+
+## [Minimum safe altitudes: General.](https://www.ecfr.gov/current/title-14/section-91.119)
+
+Except when necessary for takeoff or landing, no person may operate an aircraft below the following altitudes: 
+
+(a) *Anywhere.*  An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface. 
+
+(b) *Over congested areas.*  Over any congested area of a city, town, or settlement, or over any open air assembly of persons, an altitude of 1,000 feet above the highest obstacle within a horizontal radius of 2,000 feet of the aircraft. 
+
+(c) *Over other than congested areas.*  An altitude of 500 feet above the surface, except over open water or sparsely populated areas. In those cases, the aircraft may not be operated closer than 500 feet to any person, vessel, vehicle, or structure.

@@ -1,8 +1,134 @@
+## 5-28
+
+### Mock Test
+
+* In what flight condition is torque effect the greatest in a single-engine airplane? **Low airspeed, high power, high angle of attack**
+* What should pilots state initially when telephoning a weather briefing facility for preflight weather information? **Identify themselves as pilots**
+* One in-flight condition necessary for structural icing to form is **visible moisture**
+* On a turn from a northerly heading the compass will: **Lag behind the airplane**
+* What is one procedure to aid in cooling an engine that is overheating? **Enrichen the fuel mixture**
+* What is the purpose of the runway/runway hold position sign? **Denotes intersecting runways**
+* Deviation in a magnetic compass is caused by the **magnetic fields within the aircraft distorting the lines of magnetic force.**
+
+
+
+### Regulations 
+
+* An airplane and a glider are on a head-on collision course. What should each pilot do? **Both pilots should give way to the right**
+* Completion of an annual condition inspection and the return of the aircraft to service should always be indicated by **an appropriate notation in the aircraft maintenance records.**
+* The definition of nighttime is **the time between the end of evening civil twilight and the beginning of morning civil twilight.**
+* When squawking the VFR code (1200) on your transponder, what is the minimum mode the transponder must be in? **Mode A**
+
+
+
+### Weather
+
+* What are the processes by which moisture is added to unsaturated air? **Evaporation and sublimation**  Sublimation is the phase transition by which a solid is changed into vapor(a gas) without passing through the liquid phase
+* SPECI KJFK 121853Z 18004KT 1/2SM FG R04/2200 OVC005 20/18 A3006 
+* For aviation purposes, ceiling is defined as the height above the Earth's surface of the **lowest broken or overcast layer or vertical visibility into an obscuration.** 
+* To obtain current information regarding cloud tops, icing, and turbulence check the: **Pilot reports (PIREPs).**
+* The FAA regulations have established specific cruising altitudes for VFR flights at more than 3,000 feet above the surface.  **On a magnetic course of 0° through 179°, odd altitudes plus 500 feet – 3,500, 5,500, 7,500.**
+* When the term 'light and variable' is used in reference to a Winds Aloft Forecast, the coded group and windspeed is **9900 and less than 5 knots.**
+* What preparation should a pilot make to adapt the eyes for night flying?  **Avoid bright white lights at least 30 minutes before the flight.**
+* Seasonal variations of solar radiation primarily occur because the axis of the Earth is tilted. During June through August the Sun is: **Higher in the sky in the northern hemisphere.**
+* AIRMETs are advisories of significant weather phenomena but of lower intensities than Sigmets and are intended for dissemination to **all pilots.**
+* How do variations in temperature affect the altimeter?  **Pressure levels are raised on warm days and the indicated altitude is lower than true altitude.**
+* Which type of weather briefing should a pilot request to supplement mass disseminated data? **An abbreviated briefing.**
+
+
+
+* When flying the crosswind leg of a rectangular course the airplane must be: Crabbed into the wind
+
+### Instrument
+
+* 
+
+### Navigation
+
+* TRSA Service in the terminal radar program provides 
+* 
+
+
+
+
+
+
+
+### Aeromedical 
+
+* Eye movements during daytime collision avoidance scanning should: **not exceed 10 degrees and view each sector at least 1 second.**
+
+* use peripheral vision by scanning small sectors and utilizing off-center viewing. -> This off-center method of scanning is most effective at night. 
+
+
+
+## 5-27
+
+### Regulations
+
+* From whom should a departing VFR aircraft request radar traffic information during ground operations?  **Ground control, on initial contact.**
+* Where may an aircraft's operating limitations be found if the aircraft has an Experimental or Special light-sport airworthiness certificate? **Attached to the Airworthiness Certificate**
+* With respect to the certification of airmen, which is a class of aircraft? **Single-engine land and sea, multiengine land and sea**
+* No person may attempt to act as a crewmember of a civil aircraft with **.04 percent by weight or more alcohol in the blood.**
+* What change occurs in the fuel/air mixture when carburetor heat is applied? **The fuel/air mixture becomes richer.** 因为warm air less dense 所以有更少的air, fuel 不变
+* A pilot convicted of the manufacture or distribution of drugs might expect: **Suspension or revocation of any certificate, rating, or authorization.**
+* As used with respect to the certification, ratings, privileges, and limitations of airmen, examples of a “category” of aircraft would be: **Airplane, rotorcraft, glider, and lighter-than-air.**
+* Except when necessary for takeoff or landing, what is the minimum safe altitude required for a pilot to operate an aircraft over congested areas? **An altitude of 500 feet above the highest obstacle within a horizontal radius of 1,000 feet of the aircraft.**
+* Which is the correct traffic pattern departure procedure to use at a non-towered airport? **Comply with any FAA traffic pattern established for the airport.**
+* How can a military airport be identified at night ? **Dual peaked(two quick) white flashes between green flashes**
+* A standard-rate turn is defined as: **A turn rate of 3 degree per second**
+
+
+
+### Aerodynamics
+
+* The amount of excess load that can be imposed on the wing of an airplane depends upon the **speed of the airplane**  explaination: At slow speeds, the maximum available lifting force of the wing is decreased. The wing will stall at lower excess loads and relieve the load. 
+* How does the wake turbulence vortex circulate around each wingtip? **outward, upward, and around each tip**
+* What causes an airplane (except a T-tail) to pitch nosedown when power is reduced and controls are not adjusted?  **The downwash on the elevators from the propeller slipstream is reduced and elevator effectiveness is reduced.**
+* Ground effect is most likely to result in which problem? **Becoming airborne before reaching recommended takeoff speed**
+* An aircraft leaving ground effect during takeoff will **experience an increase in induced drag and a decrease in performance.**
+* In slow flight, prior to a stalled condition: **The controls start to feel mushy - not as responsive**
+* If you are on approach and picking up ½ in. of rime ice on the leading edge of your wings, you should consider:  **A faster than normal approach and landing speed.**
+* What is parasite drag? **The drag caused by the fuselage and other protrusions disrupting the flow of air.**
+
+### Navigation
+
+* When an air traffic controller issues radar traffic information in relation to the 12-hour clock, the reference the controller uses is the aircraft's **ground track**
+* In order to check your progress when using dead reckoning with no radio instrumentation, make corrections by:  Using pilotage and keep track of your checkpoints
+* The angular difference between true north and magnetic north is **magnetic variation**
+
+
+
+### Weight and Balance
+
+* What determines the longitudinal stability of an airplane ? **The location of the CG with respect to the center of lift**
+* Which conditions result in the formation of frost? **The temperature of the collecting surface is at or below the dewpoint of the adjacent air and the dewpoint is below freezing.**
+
+
+
+### Weather
+
+* Of what value is the Weather Depiction Chart to the pilot? **For determining general weather conditions on which to base flight planning**
+* UA/OV KOKC-KTUL/TM 1800/FL120 ? 如何解读report ?
+
+
+
 ## 5-26
 
 ### Weather
 
-At approximately what altitude above the surface would the pilot expect the base of cumuliform clouds if the surface air temperature is 82 °F and the dewpoint is 38 °F? **10,000 feet AGL  （82-32）/ 4.4  , divide the difference between the temperature and dew point by 4.4 to determine the height of the cloud base. **
+* At approximately what altitude above the surface would the pilot expect the base of cumuliform clouds if the surface air temperature is 82 °F and the dewpoint is 38 °F? **10,000 feet AGL  （82-32）/ 4.4  , divide the difference between the temperature and dew point by 4.4 to determine the height of the cloud base. **
+* A fast moving cold front can cause:  **Thunderstorms.**
+* A temperature inversion would most likely result in which weather condition? **An increase in temperature as altitude is increased.**
+* What is pressure altitude ? **The altitude indicated when the barometric pressure scale is set to 29.92**
+* Altimeter setting is the value to which the barometric pressure scale of the altimeter is set so the altimeter indicates **true altitude at field elevation**
+* A weather briefing that is provided when the information requested is 6 or more hours in advance of the proposed departure time is **an outlook briefing.**
+* What causes variations in altimeter settings between weather reporting points? **Unequal heating of the Earth's surface**
+* The wind at 5,000 feet AGL is southwesterly while the surface wind is southerly. This difference in direction is primarily due to **friction between the wind and the surface**
+* What effect does haze have on the ability to see traffic or terrain features during flight? **All traffic or terrain features appear to be farther away than their actual distance.**
+* The Terminal Aerodrome Forecast (TAF) is: **specific to an airport**
+* One weather phenomenon which will always occur when flying across a front is a change in the **wind direction**
+* Pilots are encouraged to turn on their landing lights when operating below 10,000 feet, day or night, and when operating within: **10 miles of any airport.**
 
 ## 5-6
 

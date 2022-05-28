@@ -21,3 +21,14 @@ Induced drag:
 
 
 What is the dew point ?
+
+
+
+
+
+How do variations in temperature affect the altimeter?  **Pressure levels are raised on warm days and the indicated altitude is lower than true altitude.**
+
+
+
+Which condition would cause the altimeter to indicate a lower altitude than true altitude? **Air temperature lower than standard.**
+
