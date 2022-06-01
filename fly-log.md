@@ -1,4 +1,61 @@
+## 5.30
 
+今天是第一次cross country  
+
+在flight planning 的时候还是学到了不少新东西的，至少明白了应该如何使用E6B Computer 以及如何定位checkpoint 
+
+回来的时候阳光还是有点刺眼的，下次要记得把自己的太阳镜带上
+
+
+
+
+
+## 5.29 Solo
+
+第一次solo的感觉
+
+5.28 Landing Practice 
+
+## 5.26 Landing Practice
+
+Slow flight 的时候需要控制速度40-60之间，
+
+power on / power off stall
+
+1. 先power off slow down speed
+2. slow down speed 的同时需要pull down flap
+3. flap down之后power on 并且nose up
+
+power off, landing config 
+
+在full flap 的时候需要push power 来防止decent
+
+
+
+Full power 的power on stall 需要注意踩rudder来coordinate  
+
+nose up的时候也要注意保证coordinate 状态 wing level + ball in the middle
+
+crosswind的时候
+
+* take off 需要将alieon 朝向风的来向 rotate之后先保持朝向并进行一小段的偏移 然后再回正
+* landing 之后flare 阶段需要踩rudder 来摆正nose方向，因为air speed 很低，对于风向更加敏感 alieon 来调整drift, rudder 调整nose direction
+
+
+
+对于landing的感觉
+
+pattern飞的不是很好, 因为有crosswind的影响，最后base turn的时候很容易被影响，4次里面3次都overshoot了，需要提前进行调整，之后真的solo的时候没有太多测试和调整的机会, 进行调整的思路包括
+
+
+
+减小power 可以更快速的descent 
+
+增加flap
+
+延长crosswind turn 对应的base turn也可以延长 
+
+直接将base turn 和 final turn 合并到一起
 
 
 
@@ -226,4 +283,75 @@ Procedure
 2. look and visualize a simulated landing 
 3. maintain alignment with 
 4.
-5. 
+
+
+
+
+
+
+
+Ground
+
+Control Tower 
+
+
+
+Radio Communication and ATC: 
+
+https://www.youtube.com/watch?v=cYTkz0yKKOs 
+
+
+
+
+
+## Communication 
+
+### Passenger  Briefing
+
+SAFETY
+
+* S:
+
+  * Seat belts fastened
+
+  * Shoulder harness fastened
+
+  * Seat position
+
+* A:
+  * Air vents location
+  * Action in case of any passenger discomfort
+* F:
+  * Fire extinguisher 
+* E:
+  * Exit doors
+  * Emergency evacuation plan
+  * Emergency / Survival kit
+* T:
+  * Traffic (scanning, spotting, notifying pilot)
+  * Talking
+* Y:
+  * Your questions
+
+
+
+## Radio Call 
+
+* Radio Check Call
+  * "Monroe Unicom, Radio Check"
+
+* Pre Taxi Calls:
+
+
+
+
+
+Landing: 
+
+five phases
+
+* the base leg
+* the final approach
+* the round out (flare)
+* the touchdown
+* the after-landing roll
