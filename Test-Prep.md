@@ -6,6 +6,15 @@ https://www.youtube.com/watch?v=gIdXLMVP6VU
 
 
 
+考试当天需要准备的材料：
+
+* 护照
+* certification 
+* logbook
+* e6b 计算器
+* ID 
+* 地址证明 mortgage st
+
 ## Chapter 1 Basic Aerodynamics
 
 * Aerodynamic Terms
@@ -659,6 +668,16 @@ Squawk Code: SQUAWK codes are **four digits** and they are used to easily identi
 
 ### Airport Markings
 
+![](D:\repos\Private-Pilot-Notes\screenshot\airport-markings.jpg)
+
+
+
+G是代表holding position 
+
+* dashed line 是在runway 一侧
+
+* solid line 是在taxi way 一侧, solid line必须要有permission才能cross 因为是从taxi way -> runway , 而 dashed line是不需要permission直接通过即可
+
 
 
 ### ATC light signals
@@ -721,3 +740,31 @@ Except when necessary for takeoff or landing, no person may operate an aircraft 
 (b) *Over congested areas.*  Over any congested area of a city, town, or settlement, or over any open air assembly of persons, an altitude of 1,000 feet above the highest obstacle within a horizontal radius of 2,000 feet of the aircraft. 
 
 (c) *Over other than congested areas.*  An altitude of 500 feet above the surface, except over open water or sparsely populated areas. In those cases, the aircraft may not be operated closer than 500 feet to any person, vessel, vehicle, or structure.
+
+
+
+## [91.117 Aircraft speed.](https://www.ecfr.gov/current/title-14/section-91.117)
+
+(a) Unless otherwise authorized by the Administrator, no person may operate an aircraft below 10,000 feet MSL at an indicated airspeed of more than 250 knots (288 m.p.h.). 
+
+(b) Unless otherwise authorized or required by ATC, no person may operate an aircraft at or below 2,500 feet above the surface within 4 nautical miles of the primary airport of a Class C or Class D airspace area at an indicated airspeed of more than 200 knots (230 mph.). This [paragraph (b)](https://www.ecfr.gov/current/title-14/section-91.117#p-91.117(b)) does not apply to any operations within a Class B airspace area. Such operations shall comply with [paragraph (a)](https://www.ecfr.gov/current/title-14/section-91.117#p-91.117(a)) of this section. 
+
+(c) No person may operate an aircraft in the airspace underlying a Class B airspace area designated for an airport or in a VFR corridor designated through such a Class B airspace area, at an indicated airspeed of more than 200 knots (230 mph). 
+
+(d) If the minimum safe airspeed for any particular operation is greater than the maximum speed prescribed in this section, the aircraft may be operated at that minimum speed.
+
+
+
+
+
+各种Drag
+
+
+
+* Parasite Drag
+  * Skin friction: 机体表面不光滑导致的摩擦阻力
+  * Form Drag: 机头迎风面阻力大
+  * Interference Drag: 航空器各个部件之间搞气流
+* Induced Drag
+  * 升力在水平方向产生的分力
+* 

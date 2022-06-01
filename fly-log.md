@@ -1,6 +1,20 @@
+## 5.30
+
+今天是第一次cross country  
+
+在flight planning 的时候还是学到了不少新东西的，至少明白了应该如何使用E6B Computer 以及如何定位checkpoint 
+
+回来的时候阳光还是有点刺眼的，下次要记得把自己的太阳镜带上
 
 
 
+
+
+## 5.29 Solo
+
+第一次solo的感觉
+
+5.28 Landing Practice 
 
 ## 5.26 Landing Practice
 

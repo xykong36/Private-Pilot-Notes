@@ -56,5 +56,10 @@ https://www.youtube.com/watch?v=1tbOwRiV1QQ&ab_channel=SmithsonianNationalAirand
 
 
 
+Instrument
+
+* [Gyroscopic Instruments](https://www.youtube.com/watch?v=hVsx4XWafXg): 
+* [Pitot-Static Instruments](https://www.youtube.com/watch?v=kdFGbUouE_4)
+
 
 

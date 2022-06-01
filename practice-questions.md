@@ -1,3 +1,31 @@
+## 6-1
+
+* You can expect dangerous turbulence in mountain waves and: Below rotor clouds.
+* 
+
+## 5-29
+
+### Navigation
+
+* In the Northern Hemisphere, if an aircraft is accelerated or decelerated, the magnetic compass will normally indicate **correctly when on a north or south heading.**
+
+### Weather
+
+* Steady precipitation preceding a front is an indication of **stratiform clouds with little or no turbulence.**
+* What is wake turbulence? **The counter rotating vortices off the wingtips of an airplane generating lift.**
+* The presence of ice pellets at the surface is evidence that there **has been cold frontal passage.**
+
+### Regulations
+
+*  certification of aircraft, which is a class of aircraft? **Airplane, rotorcraft, glider, balloon.** 
+* certification of aricraft, these are categories: **Normal, utility, acrobatic, limited.**
+* The operator of an aircraft that has been involved in an accident is required to file an NTSB accident report within how many days? **10**
+* If an in-flight emergency requires immediate action, the pilot in command may **deviate from any rule of 14 CFR part 91 to the extent required to meet that emergency.**
+
+
+
+Lateral or roll stability is normally achieved by: **The upward pitch of the wings, called dihedral.**
+
 ## 5-28
 
 ### Mock Test
@@ -9,6 +37,25 @@
 * What is one procedure to aid in cooling an engine that is overheating? **Enrichen the fuel mixture**
 * What is the purpose of the runway/runway hold position sign? **Denotes intersecting runways**
 * Deviation in a magnetic compass is caused by the **magnetic fields within the aircraft distorting the lines of magnetic force.**
+* When an aircraft is flying at a high AOA, the downward moving blade of the propeller has a higher resultant velocity, creating more lift than the upward moving blade causing:   left 
+
+
+
+### Mock Test 2
+
+* In the Northern Hemisphere, if an aircraft is accelerated or decelerated, the magnetic compass will normally indicate 
+* When flying in the airspace underlying Class B airspace, the maximum speed authorized is  **200knots**
+* A disconnected ground wire from a magneto to the ignition switch: 
+* For aviation purposes, ceiling is defined as the height above the Earth's surface of the 
+* You want your wind ground track and ____________to be the same.  **Course.**
+* Parasite drag increases when airspeed is: **Increased.**
+* You have completed your BasicMed requirements and plan on flying your friends to a football game. What is the maximum amount of passengers you can bring along?  **5.**
+* All operations within Class C airspace must be in **an aircraft equipped with a 4096-code transponder with Mode C encoding capability, and ADS-B Out.**
+* For aviation purposes, ceiling is defined as the height above the Earth's surface of the **lowest broken or overcast layer or vertical visibility into an obscuration.**
+* When converting from true course to magnetic heading, a pilot should **add westerly variation and subtract left wind correction angle.**
+* Under what condition may an aircraft operate from a satellite airport within Class C airspace? **The pilot must contact ATC as soon as practicable after takeoff.**
+* Which aircraft has the right-of-way over the other aircraft listed? **Aircraft towing other aircraft.**
+* If recency of experience requirements for night flight are not met and official sunset is 1830, the latest time passengers may be carried is **1929.**
 
 
 
