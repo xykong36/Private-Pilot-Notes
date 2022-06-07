@@ -1,3 +1,42 @@
+
+
+## 6.4 Cross Country 
+
+第一次不用导航进行cross counry 需要寻找waypoint 还是挺难的，而且对于map 要有一个更深入的认识，
+
+一出机场的时候
+
+
+
+包括根据runway 方向来找机场的大概位置， 自己的 并同时 因为速度较快，可能
+
+根据机场的天气情况来确定使用哪一个runway 降落，如果确定了runway 30, down wind在哪里，
+
+在哪几个位置需要进行radio call?  
+
+* before taxing to runup
+* run up -> runway
+* before takeoff
+* take off and departure the airport , departure leg at runway5, heading southease 
+* 10 miles away
+* 5 miles away
+* 3 miles away
+  * crossing midfield ?   需要看你是从哪边来的 类似左拐 和 右拐的区别，downwind 在机场东边，你从机场东边来的时候可以直接45度进入，但如果你从机场西边过来的话是需要先cross 机场来到东边之后再join 
+  * 45 join downwind 
+
+读map之后再进行
+
+犯的错误:
+
+* 出机场的时候偏航了，直接飞到了更北边一点的位置，导致没有找到辅助定位的highway
+* 查机场信息的时候查错了，应该查anson的信息结果查到了另一个机场的信息，导致设置radio frequency的时候没有任何播报
+* 45度进入的时候没有判断好和runway的举例， 需要想清楚究竟是什么样的sight picture需要start my turn 
+* landing之前没有注意看windsock 到了final 被教练提醒才注意到了crosswind, 仓促之间没有办法保证降落，直接go around
+* strong headwind 的时候没有注意加 power 来抵消影响，不要完全power out 这样的话可能会降落不到touch down point 因为head wind会减小ground speed
+* 找waypoint的时候注意向两边都看看，不要只看一边 因为你不能确定自己当前位置的时候，你以为的自己所在的位置很可能是错的
+
+
+
 ## 5.30
 
 今天是第一次cross country  
