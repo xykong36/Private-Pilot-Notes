@@ -21,7 +21,22 @@ Avoid common Mistakes
 
 Avoid the collision
 
+### When to Make a radio call 
 
+* Radio Check Call
+  * "Monroe Unicom, Radio Check"
+
+* Pre Taxi Calls:
+
+* Taxi Clearance
+
+* Taxi to runup
+
+* Pre-takeoff
+
+* 10 miles away
+
+* 3 miles away
 
 ### Location
 
