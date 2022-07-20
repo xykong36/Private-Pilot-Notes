@@ -60,11 +60,28 @@ Avoid the collision
 
 ### Letters and Numbers
 
+Each number should be pronounced **individually** 
+
+* For headings, airspeeds, altimeter settings, distances and time, zeros are pronounced
+* Altitude: Thousand, Hundred
+
+
+
+Examples: 
+
 * 8,500 -> Eight thousand, five hundred
+* Altitude 10,000 -> One Zero Thousand
 * 121.9 -> One two one point niner
 * [Runway] 18L -> One eight left
 * FL180 -> Flight level one eight zero
-* Level 7000 -> Level seven thousand
+* Level 7000 -> Level **Seven** thousand
+* 125 knots -> **One Two Five** knots
+* 500 / min -> Climbing/Descending Five hundred feet per mitnute
+* heading 30 -> Heading **Zero Three Zero**
+* South -> Heading **One Eight Zero**
+* Altimeter 30.15 -> **Three Zero One Five** Altimeter
+* Time 17:18 -> Time  **One Seven One Eight**
+* 255' radial -> **Two Five Five** degree radial
 
 
 
@@ -102,6 +119,15 @@ Avoid the collision
 * Say Again
 
   * ask the controller say again
+
+* Read back Heading
+
+  * Heading [Number]
+
+* Read back Speed 
+
+  * Speed [Number]
+  * [Number] Knots
 
   
 
@@ -296,4 +322,8 @@ Pilot: Lynchburg Tower, Cirrus 320PG, ten miles southeast at 4,500, landing with
 ATC: Cirrus 320PG, we're currently a mile and a half visibility, say intentions
 
 Pilot: Cirrus 320PG, request special VFR
+
+
+
+### Declear Emergency
 
