@@ -63,8 +63,19 @@ Avoid the collision
 * Q: Quebec
 * S: Sierra
 * T: Tango
+* U: Uniform
 * V: Victor
 * Y: Yankee
+
+
+
+### Write Down
+
+HS: Hold Short
+
+X: cross 
+
+Flight Plan 提前准备好Frequency + Airport Name + Call Sign + Runway + Taxiway
 
 
 
@@ -281,4 +292,80 @@ Pilot: Lynchburg Tower, Cirrus 320PG, ten miles southeast at 4,500, landing with
 ATC: Cirrus 320PG, we're currently a mile and a half visibility, say intentions
 
 Pilot: Cirrus 320PG, request special VFR
+
+
+
+### Airport Advisory
+
+Pilot: Frederick Unicom, Skylane 2253C, airport advisory, Frederick
+
+ATC: Frederick is reporting wind 240 at 10, advising Runway 23, left traffic
+
+
+
+VFR 
+
+VFR Flight Following
+
+VFR Flight Following to another airfield
+
+close traffic 
+
+
+
+Clearance Delivery Prior to Taxi 
+
+因为需要给IFR Flight 让路
+
+
+
+
+
+C learance: Cleared VFR to the south
+
+R outing: Fly heading 160
+
+A lititude: Maintain at or below 2,000
+
+F requency (For Departure): Contact departure on 125.5
+
+T ransponder: Squawk 0112
+
+
+
+Read back: VFR south, heading 160, A/B 2,000, 125.5, squawk 0112
+
+
+
+When do I need a taxi clearance:  从Non-movement area 出来的时候 看到黄色实线(solid line)
+
+Cross from non-movement to movement area
+
+
+
+### Taxi Clearance 
+
+Pilot: Wichta ground, cherokee 5123Y, parked general aviation ramp, taxi 19L with Y
+
+ATC: cherokee 5123Y, Wichita Ground, Taxi 14 via A6, A, R, C, Hold Short Runway 19R. 
+
+Pilot: Taxi 14, Via Alpha 6, Alpha, Romeo, Charlie, Hold Short for 19R
+
+
+
+Talk to Tower to request take off
+
+Pilot: Wichita Tower, Cherokee 5123 Y, Holding Short **14**(需要说清楚L or R 如果有两个), Ready for take off. 
+
+ATC: Cherokee 5123Y Hold Short 14 Arriving Traffic
+
+
+
+Line up and wait 是可以过线,停在Runway上等着,但是不能起飞
+
+### Intersection Take Off
+
+
+
+
 

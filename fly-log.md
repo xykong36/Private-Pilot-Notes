@@ -1,3 +1,13 @@
+## 7.16
+
+第二次night flight, 主要练习降落和起飞，晚上的降落Pattern距离不是很好掌握，而且对于风向的判断还是需要靠感觉
+
+## 7.13
+
+第一次night flight + Cross Country 到了Class C 级别的Airport, Class C 已经能够看到一些big jet, 而且Runway 的宽度已经很夸张了，并且request 了 flight following 感觉整个过程还是比较顺畅的，下一步要做的就是
+
+
+
 ## 5.30
 
 今天是第一次cross country  
