@@ -1,5 +1,59 @@
 
 
+## 7.2 Radio Call + Solo 
+
+Solo 的时间已经达到4个小时，明天如果天气顺利
+
+radio call 最关键的还是要在心里提前有预判 对于Tower 来说他们能说的很多内容都是可以提前预判的 
+
+WHERE WHO WHAT 
+
+Instrument Training 还是很晕的 只看仪表来飞的确有点累 有点违反本能
+
+今天Solo 的表现还是不错的，继续练了pattern work 为明天的 night flight 做准备
+
+
+
+
+
+## 6.26 Instrument Training II + Solo Pattern Work
+
+
+
+Instrument 飞的我还是很蒙蔽的  有点晕的够呛，solo的时候有headwind 需要增加power 
+
+而且自己一个人其实心里还是没太有底的，所以更加需要自己把理论搞清楚，对于不同情况下应该如何进行处理都想清楚
+
+
+
+
+
+
+
+## 6.19 Instrument Training
+
+Under the hood 只靠仪表来飞行的 第一part, 需要练到3个小时, 今天只是简单的进行一个适应性训练 不过感觉还是很有必要练习一下的， 包括几个unusual altitude recovery   如果是pitch up的话 需要做的 power on -> level -> pitch down  
+
+如果是pitch down的话 power off -> level -> pitch up
+
+
+
+为啥呢?  还是有点没太明白原理
+
+
+
+## 6.13 Cross Country 
+
+第二次自己做flight plan 再加上正式飞行，需要考虑的事情还是变多了一些
+
+最后已经有点迷路了的感觉，其实是正好碰到了要降落的机场而已
+
+需要提前想好在哪个跑道降落 并且要完成的
+
+
+
+
+
 ## 6.4 Cross Country 
 
 第一次不用导航进行cross counry 需要寻找waypoint 还是挺难的，而且对于map 要有一个更深入的认识，
