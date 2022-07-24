@@ -88,6 +88,13 @@ Under the hood 只靠仪表来飞行的 第一part, 需要练到3个小时, 今�
 * landing之前没有注意看windsock 到了final 被教练提醒才注意到了crosswind, 仓促之间没有办法保证降落，直接go around
 * strong headwind 的时候没有注意加 power 来抵消影响，不要完全power out 这样的话可能会降落不到touch down point 因为head wind会减小ground speed
 * 找waypoint的时候注意向两边都看看，不要只看一边 因为你不能确定自己当前位置的时候，你以为的自己所在的位置很可能是错的
+## 7.16
+
+第二次night flight, 主要练习降落和起飞，晚上的降落Pattern距离不是很好掌握，而且对于风向的判断还是需要靠感觉
+
+## 7.13
+
+第一次night flight + Cross Country 到了Class C 级别的Airport, Class C 已经能够看到一些big jet, 而且Runway 的宽度已经很夸张了，并且request 了 flight following 感觉整个过程还是比较顺畅的，下一步要做的就是
 
 
 
