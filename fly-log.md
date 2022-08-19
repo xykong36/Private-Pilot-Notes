@@ -1,6 +1,68 @@
-## 7.23
 
-今天练习了 Soft Field Landing + Short Field Landing 
+
+TODO:
+
+看 Checkride standard
+
+https://www.youtube.com/watch?v=yJRkO_6iTWs
+
+
+
+## 8.14 Stanley XC + Radio Call
+
+Good: 
+
+这一次没有用导航飞 还是
+
+Improvement:
+
+* 提前查好机场跑道信息 + 算一下4个方向 这样在飞Crosswind 和 base 的时候能够更好的找到90度的位置
+* 
+
+## 8.13 Concord XC + Radio Call 
+
+
+
+Solo in Tower Airport 
+
+需要提高的点: 
+
+* Preflight checklist walkaround的时候需要更仔细一点 从Engine + Propeller static pressure pitot flap + alieron + surface + light + rudder cable + tire + exhaust 
+* 需要提高的点 大概对目视距离要有更准确 3mile 大概是多远 需要飞多久 进行简单的计算 
+  * 120 mile = 100 nautical mile 
+  * 60 = 50 nautical
+  * 72 = 60 nautical mile / h = 1 nautical mile / min
+  * 84 =  70 nautical mile / h = 1.17 nautical mile / min -> 5.8 nautical mile / 5 min
+
+* Night flight 找机场beacon 需要对准 10 miles 目视距离就能看到了? 
+* decent 下降高度的时候 需要更稳定一点 同时要关注不要降低太多 
+* 飞pattern的时候距离跑道要近一点 可以做steep turn 
+
+
+
+哪一些数据是可以凭感觉判断 哪一些必须依靠仪表? 
+
+* 高度 - 如何寻找参照物 ? 
+* fly direction / heading  需要找一些 parallel 的参照物作为参考
+* decent 基本只能靠仪表了
+
+
+
+第一次
+
+report base 直接report 
+
+land second  可以直接turn 
+
+
+
+## 8.12 Concord XC + Radio Call 
+
+尝试recording 失败了 之后需要试一下
+
+
+
+## 7.23 Soft Field Landing + Short Field Landing 
 
 Solo的时候表现并不好, 主要是脑子在同时处理多个事情 所以能够提前准备的就是将操作形成下意识的肌肉记忆，不需要太多的思考就能搞定， 包括radio call communication 
 
