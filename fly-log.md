@@ -8,20 +8,158 @@ https://www.youtube.com/watch?v=yJRkO_6iTWs
 
 
 
-## 8.14 Stanley XC + Radio Call
+## 8.20 Stanly XC + Diversions
+
+
+
+### 飞行路线:
+
+今天是从 EQY 出发飞 Stanly County Airport (KVUJ) -> Divert KAFP 再回到 EQY
+
+
+
+### 训练科目:
+
+* Flight Planning
+* X/C Diversion
+* Soft Landing
+
+
+
+重新复习了 Flight Planning 的相关内容
+
+需要准备的工具:
+
+- Foreflight: 
+  - Weather Information
+    - Wind Direction + Wind Velocity
+    - Cloud
+
+  - Airport Information
+    - runway heading
+    - frequency
+    - taxi diagram
+
+- Paper Map
+  - Pick up checkpoints
+  - True Heading Variation (找紫色的线 W +, E -)
+
+- Plotter -> 用来量距离 + True Course
+- E6B Calculator
+  - 计算 Wind Correction Angle
+  - 计算 True Heading
+  - 计算 Ground Speed
+
+- Fule Chart
+  - 确定Fuel consumption
+
+- Performance Chart
+  - 确定Climb rate 同时计算Climb 到计划Altitude需要的时间
+
+- Weight & Balance Chart
+  - 计算重心以及是否能够安全起飞
+
+- Altitude 是根据 East odd + 500, West: even + 500 来确定
+- Checkpoint 是自己手动pick up的 大概5 - 15 nautical miles一个
+
+
+
+**Diversion Steps (ABCDEF)**
+
+**A: Airport / Alternate**
+
+- 这里的 A 一般都是教练指定的 但是如果是真实场景下需要自己来做决定的
+
+**B: Best Guess Heading**
+
+- 看地图(ForeFlight or Paper Map)
+- 先大概判断自己的位置 找目标位置 想象 360 度的范围 直接估算方位
+
+**C: Course**
+
+* ForeFlight二指禅 得到True Course -> E6B 计算True Heading
+* tips:
+  - 先优先确保已经飞到了 Guess Heading 方向上, 再去找Course heading
+  - 使用 ForeFlight 二指禅标记两个地点 如果要移动标尺需要保持手指不离开屏幕
+
+**D: Distance**
+
+- ForeFlight 上面的标尺直接读出
+
+**E: ETE (Estimated Time Enroute) / ETA(Estimated Time Arrival)**
+
+- 根据Distance 和当前的Speed, 单位全部是kts  (可以用E6B conversions来进行单位换算)
+- 先要用E6B来计算
+
+**F: Fule**
+
+- 纯计算
+- 对于 C172 来说 2500 RPM 2500 feet 保守估计是 8.5 galon / hour 可以直接转换为 0.14 galon / minute
+
+
+
+### Tips
+
+Flight Plan 上可以写很多自己需要的信息
+
+- 比如 Fuel Consumption Rate
+
+- Vx Vy 
+
+- Magnetic Heading Deviation 会根据Aircraft 的不同而有所差异，注意Flight Plan的时候查好资料
+
+- Flight Planner 上右上角的信息都是在Take off 的时候填的
+
+- 有太阳直射的时候可能不太容易看清楚较远的以及正前方的checkpoint, 可以试着观察左右两边的view
+
+- 做Flight Planning 的时候可以扩大范围多看几个check point 方便diversion的时候进行定位 以及不迷路太久
+
+- 如果能够看到Airport或者checkpoint, 可以稍微偏离原定的heading 根据目视定位的方向飞过去
+
+- Diversion的时线确定heading再确定当前位置 通过观察外面找明显的建筑物，定位了之后再继续确定去往目的地的路上还可以找哪些checkpoint 
+
+  
+
+**Soft Landing** 
+
+在Touch down之前的所有操作和Normal Landing 是一样的, 需要改变的只是在flare的状态下Add some power 尽可能不落地，同时注意一直保持pull back yoke, 不要完全stop
+
+How: Soft Takeoff 需要怎么做?  
+
+
+
+### 需要改进的地方
+
+* Flight Plan 上记得标记好出发时间 + 各个Checkpoint 的到达时间
+* Diversion 的时候需要做好计算
+* Departure radio call  Departure Leg, heading to the North 不需要报告crosswind, downwind 因为已经是在pattern altitude 更高的altitude了
+* Highway Split 没有及时观察到 判断方向的时候
+
+
+
+### 做的好的地方
+
+* 找大概在3-5nm 就可以开始找Airport了 先根据Runway heading 来确定Airport 的大概朝向，然后找空旷的长条地带 (Night的时候注意找beacon light)
+* Guess heading 还是比较准的
+* 第一次成功搞定了 Radio Call Recording 之后需要找机会再多去几次 Tower Airport 进行 Pattern Training
+
+
+
+
+## 8.14 Stanly XC + Radio Call
 
 Good: 
 
-这一次没有用导航飞 还是
+这一次没有用导航飞，完全依靠目视飞行 + checkpoint 来进行navigation
 
 Improvement:
 
-* 提前查好机场跑道信息 + 算一下4个方向 这样在飞Crosswind 和 base 的时候能够更好的找到90度的位置
-* 
+* 提前查好机场跑道信息 + 算一下4个方向 这样在飞crosswind 和 base 的时候能够更好的找到90度的位置
+* take off 的时候注意保持runway heading 尤其是在有平行的多条runway的机场, 如果偏离航向可能会撞上另一条跑道上的飞机
+
+
 
 ## 8.13 Concord XC + Radio Call 
-
-
 
 Solo in Tower Airport 
 
@@ -76,11 +214,17 @@ Short Field 核心操作在于 紧急刹车 + 快速启动
 
 ## 7.16
 
+
+
 第二次night flight, 主要练习降落和起飞，晚上的降落Pattern距离不是很好掌握，而且对于风向的判断还是需要靠感觉
 
 
 
 ## 7.13
+
+### 飞行路线: EQY - GSO
+
+### 训练科目: Night Flight
 
 第一次night flight + Cross Country 到了Class C 级别的Airport, Class C 已经能够看到一些big jet, 而且Runway 的宽度已经很夸张了，并且request 了 flight following 感觉整个过程还是比较顺畅的，下一步要做的就是
 
