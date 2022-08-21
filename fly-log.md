@@ -1,10 +1,181 @@
+
+
+TODO:
+
+看 Checkride standard
+
+https://www.youtube.com/watch?v=yJRkO_6iTWs
+
+
+
+## 8.14 Stanley XC + Radio Call
+
+Good: 
+
+这一次没有用导航飞 还是
+
+Improvement:
+
+* 提前查好机场跑道信息 + 算一下4个方向 这样在飞Crosswind 和 base 的时候能够更好的找到90度的位置
+* 
+
+## 8.13 Concord XC + Radio Call 
+
+
+
+Solo in Tower Airport 
+
+需要提高的点: 
+
+* Preflight checklist walkaround的时候需要更仔细一点 从Engine + Propeller static pressure pitot flap + alieron + surface + light + rudder cable + tire + exhaust 
+* 需要提高的点 大概对目视距离要有更准确 3mile 大概是多远 需要飞多久 进行简单的计算 
+  * 120 mile = 100 nautical mile 
+  * 60 = 50 nautical
+  * 72 = 60 nautical mile / h = 1 nautical mile / min
+  * 84 =  70 nautical mile / h = 1.17 nautical mile / min -> 5.8 nautical mile / 5 min
+
+* Night flight 找机场beacon 需要对准 10 miles 目视距离就能看到了? 
+* decent 下降高度的时候 需要更稳定一点 同时要关注不要降低太多 
+* 飞pattern的时候距离跑道要近一点 可以做steep turn 
+
+
+
+哪一些数据是可以凭感觉判断 哪一些必须依靠仪表? 
+
+* 高度 - 如何寻找参照物 ? 
+* fly direction / heading  需要找一些 parallel 的参照物作为参考
+* decent 基本只能靠仪表了
+
+
+
+第一次
+
+report base 直接report 
+
+land second  可以直接turn 
+
+
+
+## 8.12 Concord XC + Radio Call 
+
+尝试recording 失败了 之后需要试一下
+
+
+
+## 7.23 Soft Field Landing + Short Field Landing 
+
+Solo的时候表现并不好, 主要是脑子在同时处理多个事情 所以能够提前准备的就是将操作形成下意识的肌肉记忆，不需要太多的思考就能搞定， 包括radio call communication 
+
+Soft Field: 
+
+需要提前Prepare
+
+Short Field 核心操作在于 紧急刹车 + 快速启动
+
+
+
 ## 7.16
 
 第二次night flight, 主要练习降落和起飞，晚上的降落Pattern距离不是很好掌握，而且对于风向的判断还是需要靠感觉
 
+
+
 ## 7.13
 
 第一次night flight + Cross Country 到了Class C 级别的Airport, Class C 已经能够看到一些big jet, 而且Runway 的宽度已经很夸张了，并且request 了 flight following 感觉整个过程还是比较顺畅的，下一步要做的就是
+
+
+
+
+
+## 7.2 Radio Call + Solo 
+
+Solo 的时间已经达到4个小时，明天如果天气顺利
+
+radio call 最关键的还是要在心里提前有预判 对于Tower 来说他们能说的很多内容都是可以提前预判的 
+
+WHERE WHO WHAT 
+
+Instrument Training 还是很晕的 只看仪表来飞的确有点累 有点违反本能
+
+今天Solo 的表现还是不错的，继续练了pattern work 为明天的 night flight 做准备
+
+
+
+
+
+## 6.26 Instrument Training II + Solo Pattern Work
+
+
+
+Instrument 飞的我还是很蒙蔽的  有点晕的够呛，solo的时候有headwind 需要增加power 
+
+而且自己一个人其实心里还是没太有底的，所以更加需要自己把理论搞清楚，对于不同情况下应该如何进行处理都想清楚
+
+
+
+
+
+
+
+## 6.19 Instrument Training
+
+Under the hood 只靠仪表来飞行的 第一part, 需要练到3个小时, 今天只是简单的进行一个适应性训练 不过感觉还是很有必要练习一下的， 包括几个unusual altitude recovery   如果是pitch up的话 需要做的 power on -> level -> pitch down  
+
+如果是pitch down的话 power off -> level -> pitch up
+
+
+
+为啥呢?  还是有点没太明白原理
+
+
+
+## 6.13 Cross Country 
+
+第二次自己做flight plan 再加上正式飞行，需要考虑的事情还是变多了一些
+
+最后已经有点迷路了的感觉，其实是正好碰到了要降落的机场而已
+
+需要提前想好在哪个跑道降落 并且要完成的
+
+
+
+
+
+## 6.4 Cross Country 
+
+第一次不用导航进行cross counry 需要寻找waypoint 还是挺难的，而且对于map 要有一个更深入的认识，
+
+一出机场的时候
+
+
+
+包括根据runway 方向来找机场的大概位置， 自己的 并同时 因为速度较快，可能
+
+根据机场的天气情况来确定使用哪一个runway 降落，如果确定了runway 30, down wind在哪里，
+
+在哪几个位置需要进行radio call?  
+
+* before taxing to runup
+* run up -> runway
+* before takeoff
+* take off and departure the airport , departure leg at runway5, heading southease 
+* 10 miles away
+* 5 miles away
+* 3 miles away
+  * crossing midfield ?   需要看你是从哪边来的 类似左拐 和 右拐的区别，downwind 在机场东边，你从机场东边来的时候可以直接45度进入，但如果你从机场西边过来的话是需要先cross 机场来到东边之后再join 
+  * 45 join downwind 
+
+读map之后再进行
+
+犯的错误:
+
+* 出机场的时候偏航了，直接飞到了更北边一点的位置，导致没有找到辅助定位的highway
+* 查机场信息的时候查错了，应该查anson的信息结果查到了另一个机场的信息，导致设置radio frequency的时候没有任何播报
+* 45度进入的时候没有判断好和runway的举例， 需要想清楚究竟是什么样的sight picture需要start my turn 
+* landing之前没有注意看windsock 到了final 被教练提醒才注意到了crosswind, 仓促之间没有办法保证降落，直接go around
+* strong headwind 的时候没有注意加 power 来抵消影响，不要完全power out 这样的话可能会降落不到touch down point 因为head wind会减小ground speed
+* 找waypoint的时候注意向两边都看看，不要只看一边 因为你不能确定自己当前位置的时候，你以为的自己所在的位置很可能是错的
 
 
 

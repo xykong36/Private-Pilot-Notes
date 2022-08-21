@@ -1,11 +1,5 @@
 
 
-How engine works
-
-https://www.youtube.com/watch?v=gIdXLMVP6VU
-
-
-
 考试当天需要准备的材料：
 
 * 护照
