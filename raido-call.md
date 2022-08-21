@@ -32,8 +32,11 @@ Avoid the collision
 - Pre-takeoff
 
 - 10 miles away
+  - Pilot: Monroe Traffic, Skyhwak 2600L, 10 southeast, 3,000, landing Monroe, request airport advisory[land, Monroe Traffic
 
-- 3 miles away
+- 3 miles away / 45 degree entry
+  - Pilot: Monroe Traffic, Skyhawk 2600L, 45 for left downwind, Runway 23, Monroe Traffic
+
 
 ### Location
 
@@ -176,6 +179,33 @@ e.g. 10 miles north at 3,000
 ### What you want
 
 e.g. inbound to land Runway 9
+
+
+
+## Towered Airport Operations
+
+1. Radio setup
+
+2. Listening to ATIS
+   ```
+   ATIS:
+   Boston Logan Airport, departure information Oscar, 1654 Z, Wind 070 at 9. Visibility 10. Few clouds at 4,500. Temperature 24. Dewpoint 13. Altimeter 30.03. ILS Runway 4R approach and visual approach to Runway 4L in use. Departing Runway 9. All aircraft read back all hold short instructions. Advise on initial contact, you have information Oscar.
+   ```
+
+3. Initial Callup: Outbound
+
+   ```
+   Pilot: [Airport] Groud, [Call Sign](e.g. Skyhawk 2600L), [Location](e.g. general aviation ramp), [VFR], [Altitude](e.g. 4,500) to [Destination] with [Information Alphabet] (e.g. Delta)
+   ```
+
+4. Runway Incursions
+
+   ```
+   ```
+
+   
+
+5. Group
 
 ## Sample Radio Calls
 
@@ -332,5 +362,11 @@ ATC: Cherokee 5123Y Hold Short 14 Arriving Traffic
 Line up and wait 是可以过线,停在 Runway 上等着,但是不能起飞
 
 ### Intersection Take Off
+
+### En Route Considerations 
+
+穿过non-tower airport的时候可以announce position, altitude, and direction of flight, 来提醒别的pilot
+
+Pilot: Augusta Traffic, Skyhawk 505SP, seven southeast at 3,000, overflying the field northwestbound, Augusta
 
 ### Declear Emergency
