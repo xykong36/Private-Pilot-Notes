@@ -226,7 +226,11 @@ Short Field 核心操作在于 紧急刹车 + 快速启动
 
 ### 训练科目: Night Flight
 
-第一次night flight + Cross Country 到了Class C 级别的Airport, Class C 已经能够看到一些big jet, 而且Runway 的宽度已经很夸张了，并且request 了 flight following 感觉整个过程还是比较顺畅的，下一步要做的就是
+第一次night flight + Cross Country 到了Class C 级别的Airport, Class C 已经能够看到一些big jet, 
+
+
+
+而且Runway 的宽度已经很夸张了，并且request 了 flight following 感觉整个过程还是比较顺畅的，下一步要做的就是
 
 
 
@@ -335,13 +339,35 @@ Under the hood 只靠仪表来飞行的 第一part, 需要练到3个小时, 今�
 
 
 
-## 5.29 Solo
+## 5.29 First Solo !
 
 第一次solo的感觉
 
-5.28 Landing Practice 
+8-21 update: 
+
+距离自己第一次Solo已经过去快三个月时间了，目前进度处于即将 First Solo X/C，技术也已经有了明显的提高，对于飞机整体的操控稳定性也好了很多 基础的radio call 也慢慢熟悉了，但是对于一些比较快或者信息量较大的call 还是需要适应。第一次Solo的感觉可能是终生难忘的了，这算是自己一年多来不放弃挣扎持续努力的阶段结果，也让我重新找回了自己想要的是什么，让我想清楚了真正能让自己开心的是什么？这是我曾经体验过而且相信的感觉，但是中间丢掉了，就是为了一个自己认为重要的目标持续努力，完成对自己的承诺。
+
+
+
+## 5.28 Landing Practice
+
+##  
 
 ## 5.26 Landing Practice
+
+### 飞行路线: 
+
+EQY Practice Area
+
+
+
+### 训练科目:
+
+Basic Maneuvers
+
+
+
+
 
 Slow flight 的时候需要控制速度40-60之间，
 
