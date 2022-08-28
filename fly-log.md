@@ -8,6 +8,95 @@ https://www.youtube.com/watch?v=yJRkO_6iTWs
 
 
 
+Labor Day 需要重新梳理基础知识 并且进行更精细的操作控制 结合手感 + 精确计算
+
+## 8.27 FLO XC + Diversions
+
+
+
+### **飞行路线**: 
+
+KEQY -> Divert to KPYG -> KEQY
+
+### 训练科目:
+
+* X/C + Diversion
+* Emergency Procedure
+* Short Field Takeoff + Landing
+
+
+
+### 需要改进的地方:
+
+* Check point 可以选择相交点 更方便定位 注意从departure leg 今天因为是从runway 开始划线 导致一开始就跑偏了
+* VOR 的使用不太熟练, FROM / TO 分不清楚
+* Final 的高度太低 导致自己最后的降落都很平 因为最后阶段不敢把descent角度放的太低 
+* Short Field 没有碰到线 太早touch down了 需要单独进行训练 选择不同的 touch down point
+* Emergency 的时候需要大概算一下飞机能够Glide 的距离 pick up field 可能会有帮助
+
+
+
+### 做的好的地方:
+
+* 能够及时调整航线 back on track 一个checkpoint 可以通过多个landmark 辅助进行定位
+* 找机场的位置找的还是比较准的
+
+
+
+### Tips:
+
+* 飞pattern work 的时候base turn 可以不看runway 选择其他的reference point 来进行定位
+* Check point 可以选择相交点 注意从departure leg 的终点作为起始点开始划线
+* 注意观察Weather 的变化
+* Lean Fuel 是需要的 如果一直Full Rich, full power每小时的fuel comsuption 会在10-12 gal范围
+* Engine Failure 可能是因为没有Full Rich 导致的 试着看看
+* 可以使用heading bug 来固定runway 的方位来确定自己
+* calibrate compass 和 heading indicator 需要保证是在水平状态下, compass 在climbing 过程中会有误差
+* 计算距离和时间 注意用Ground Speed
+* Weather Briefing 会有一些周围Military Training Area 是否active 的提示
+* 小机场可能连Taxi way都没有 所以需要用runway 作为taxiway 
+* 注意选好了VOR Frequency 按 `CDI` button 可能是处在TEST mode (- * *** -) 这种时候可能就不能用了 因为不准确
+* Short Field Landing 可能会有Tree 或者其他Obstacle 并且需要考虑是否有乘客需要带 必须提前算好Weight & Balance 
+* 距离太近的机场可能不太容易快速descent  需要飞一个360来帮助descent 
+* downwind 的时候 观察runway 的距离, 并且根据自己的需要来调整 太远了 可以晚一些config,  一个standard pattern 就是1000 feet mark, 还要考虑到风向
+* 有的时候多等10分钟可能天气就能放晴了，不要着急take off, 一旦飞了就可能很被动
+
+
+
+Emergency: 
+
+A: Airspeed
+
+B: Best Place for landing
+
+C: Checklist (if able)
+
+D: Declare Emergency 121.5 radio call + squawk code 7700
+
+E: ELT(Emergency Locator Transmitters) on
+
+
+
+VOR heading
+
+Tune – Identify – Twist – Parallel – Intercept – Track. 
+
+先调到frequency
+
+确认Morse code 是正确的VOR
+
+Twist VOR heading 
+
+keep at the center line of the heading 
+
+![img](https://upload.wikimedia.org/wikipedia/commons/a/a6/VOR_Course_Deviation_Indicator_explanation.gif)
+
+
+
+turn final 的时候注意 选择reference point 通过reference point 的移动来选择相对位置和 判断风向和风速
+
+
+
 ## 8.20 Stanly XC + Diversions
 
 
