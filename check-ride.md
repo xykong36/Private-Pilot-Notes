@@ -14,7 +14,7 @@
 
 ### A. Pilot Qualifications
 
-### B. Airworthness Requirements
+### B. Airworthiness Requirements
 
 ### C. Weather Information
 
@@ -40,19 +40,22 @@
       * Night: VOR, City Light, high way, small lakes, single mountain
     * Heading
       * Magnetic North / True North
-    * VOR
-      * VOR 可以用来 locate + navigate 
+    * VOR: 可以用来 locate + navigate 
+      * Video: [VOR navigation EXPLAINED (easy)! by CAPTAIN JOE](https://www.youtube.com/watch?v=ZewYS4VlwNQ)
       * How to locate yourself ?
-        * Radial 是
-      * How to intercept ?
-        * 
-      * OBS 放在
-      * 保持Radial是一个基本技能，因为ATC可能会让你飞某一个特定radial 航向
+        * 确定你所在的radial
+          * 调整OBS 指到center line, centerline 是可以覆盖两个radial的 确认你的OBS显示的是`FROM`, FROM 时候向上指的就是你所在的radial 可以理解成 VOR信号从 heading 比如下面的图表示就是你现在是在220 radial 上
+          *  ![](./screenshot/VOR-example.png)
+      * How to nvaigate
+        * 需要飞到VOR那个点上
+          * 先确定你所在的radial(参考上面一步), 然后将VOR调整到TO, 向上指的就是你需要飞的heading  可以double check 应该是FROM heading 互为反向关系 (+-180) 
+          * 下面的图就代表你要把heading 调整到40 飞到VOR![](./screenshot/VOR-example-2.png)
+        * 需要飞到VOR一条特定的radial 上面: 保持Radial是IFR的基本技能，ATC可能会让你飞某一个特定radial 航向
       * radar上只能够显示你的plane location, 没有办法显示你的heading 所以Heading和Radial 之间可能有偏差 因为存在wind correction
 
 
 
-关于VOR 可能会
+关于VOR 
 
 
 
@@ -110,7 +113,7 @@
 
 
 
-## V. Peformance and Ground Reference Maneuvers
+## V. Performance and Ground Reference Maneuvers
 
 ### A. Steep Turns
 
