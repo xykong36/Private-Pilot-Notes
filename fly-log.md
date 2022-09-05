@@ -2,13 +2,47 @@
 
 TODO:
 
-看 Checkride standard
+- [ ]  看 Checkride standard https://www.youtube.com/watch?v=yJRkO_6iTWs
+- [ ]  重新复习和熟练各种基本操作 
+  - [ ] Ground Reference Maneuver
+  - [ ] Power on / off Stall
+  - [ ] Steep Turn 
+  - [ ] Short Field Takeoff + Landing 
+  - [ ] Soft Field Takeoff + Landing
+- [ ]  Solo X/C 5 hours 应该是要飞两趟的
+- [ ]  熟悉 Emergency Operation, Lost Procedure, 进行Flight Planning的细节
+- [ ] Labor Day 需要重新梳理基础知识 并且进行更精细的操作控制 结合手感 + 精确计算
+- [ ] Landing 5 Phases
+- [ ] Foward slip + Side Slip
 
-https://www.youtube.com/watch?v=yJRkO_6iTWs
+
+
+## Next Lesson 
+
+* Spin Exposure
+* Short Field Landing
+* Forward Slip + Side Slip 用来将飞机调整到 runway center line
+* Go Around at Towered Airport, Do I need to talk to ATC, Do I stay in the pattern after go around ?  Make the call for other traffic ? 
+
+## 9.4 Ground School
 
 
 
-Labor Day 需要重新梳理基础知识 并且进行更精细的操作控制 结合手感 + 精确计算
+VOR Training
+
+TO / FROM 
+
+需要保证heading 朝向 和 OBS 的center line 一致 这样 否则是reverse sensing 
+
+Base Turn Overshooting的问题
+
+因为是descent 保证速度80 的情况下是可以达到 3
+
+而且 $30^o$ 大概是1.2G, $45^o$大概是1.4G 不会太影响stall speed 可以放心
+
+
+
+
 
 ## 8.27 FLO XC + Diversions
 

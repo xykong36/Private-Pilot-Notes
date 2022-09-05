@@ -1,7 +1,6 @@
 ## 6-1
 
 * You can expect dangerous turbulence in mountain waves and: Below rotor clouds.
-* 
 
 ## 5-29
 
@@ -88,16 +87,11 @@ Lateral or roll stability is normally achieved by: **The upward pitch of the win
 
 ### Instrument
 
-* 
+
 
 ### Navigation
 
 * TRSA Service in the terminal radar program provides 
-* 
-
-
-
-
 
 
 
@@ -368,10 +362,6 @@ A **hangover** refers to **a set of symptoms that occur as a consequence of drin
 * Pilots are encouraged to turn on their landing lights when operating below 10,000 feet, day or night, and when operating within: **10 miles of any airport**
 * During a night flight, you observe steady red and green lights ahead and at the same altitude. What is the general direction of movement of the other aircraft?  **The other aircraft is flying away from you.**
 * During a night flight, you observe a steady red light and a flashing red light ahead and at the same altitude. What is the general direction of movement of the other aircraft? **The other aircraft is crossing to the left.**
-
-
-
-
 
 
 

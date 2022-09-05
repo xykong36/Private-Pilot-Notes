@@ -1,48 +1,30 @@
-PHAK C16 Wind Triangle
+## Books
+
+* [See How It Flies](https://www.av8n.com/how/#contents)
 
 
 
-Airspace
+## Videos
 
-Lec04 Aircraft System 
-
-Lec 12 Aircraft Performance
-
-Lec 15 Flight Planning
-
-Lec 18 Weight & Balance
-
-## MIT Private Pilot Ground School
-
-### Links
-
-* Lecture notes: https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/lecture-notes/index.htm
-
-### Lecture Notes:
+* How engine works https://www.youtube.com/watch?v=gIdXLMVP6VU
 
 
 
-[Sporty's Private Pilot Training Course](https://dl.videos.sportys.com/onlinecourse/documents/privatestudyguide.pdf)
+## Notes
+
+* MIT Private Pilot Ground School https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/lecture-notes/index.htm
+* [Sporty's Private Pilot Training Course](https://dl.videos.sportys.com/onlinecourse/documents/privatestudyguide.pdf)
 
 
 
-How engine works
+## Tools:
 
-https://www.youtube.com/watch?v=gIdXLMVP6VU
-
-
-
-https://www.wikiwand.com/en/Carburetor 
-
+* NOTAM Search: https://notams.aim.faa.gov/notamSearch/nsapp.html#/
+* Weather Information: 
+* ForeFLight
+  * [How I Use ForeFlight as a VFR Private Pilot | Part 1](https://www.youtube.com/watch?v=MFRoQrqvF30&ab_channel=MidlifePilot)
 
 
-[See How It Flies](https://www.av8n.com/how/#contents)
-
-
-
-the aspect ratio is **the ratio of width and height**
-
-which 
 
 
 
@@ -58,7 +40,7 @@ Weather
 
 Track Logging 
 
-https://www.youtube.com/watch?v=MFRoQrqvF30&ab_channel=MidlifePilot 
+
 
 
 

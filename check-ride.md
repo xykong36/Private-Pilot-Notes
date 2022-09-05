@@ -1,18 +1,26 @@
-Stall
+# Questions
 
-Landing
 
-Steep Turn
 
-Cross Country Radio Call 
+## Maneuver
 
 
 
 
 
-Flight Planing
+# Airman Certification Standards (ACS)
 
-* 基本信息
+## I. Preflight Preparation
+
+### A. Pilot Qualifications
+
+### B. Airworthness Requirements
+
+### C. Weather Information
+
+### D. Cross-Country Flight Planning
+
+* Basic Information
   * Airport 
     * Name
     * Frequency: ATIS/AWOS, Tower, Ground, Departure, Clearance
@@ -27,13 +35,179 @@ Flight Planing
     * Time: Arrival time, 
   * Navigation
     * Checkpoint
+      * First checkpoint is critical, 尽量熟悉机场周围的环境
       * Daytime: VOR,  Lake , power line, highway, factory, stadium, Shopping mall, amusement park, railroad
       * Night: VOR, City Light, high way, small lakes, single mountain
     * Heading
       * Magnetic North / True North
-    * VOR ? 
+    * VOR
+      * VOR 可以用来 locate + navigate 
+      * How to locate yourself ?
+        * Radial 是
+      * How to intercept ?
+        * 
+      * OBS 放在
+      * 保持Radial是一个基本技能，因为ATC可能会让你飞某一个特定radial 航向
+      * radar上只能够显示你的plane location, 没有办法显示你的heading 所以Heading和Radial 之间可能有偏差 因为存在wind correction
 
-VOR Navigation
+
+
+关于VOR 可能会
+
+
+
+### E. National Airspace System
+
+### F. Performance and Limitations
+
+### G. Operations of Systems
+
+### H. Human Factors
+
+### 
+
+## II. Preflight Procedures
+
+### A. Preflight Assessment
+
+### B. Flight Deck Management
+
+### C. Engine Starting
+
+### D. Taxiing
+
+### F. Before Takeoff Check
+
+
+
+## III. Airport and Seaplane Base Operations
+
+### A. Communications, Light Signals, and Runway Lighting Sytems
+
+### B. Traffic Patterns
+
+### 
+
+## IV. Takeoffs, Landings, and Go-Arounds
+
+### A. Normal Takeoff and Climb
+
+### B. Normal Approach and Landing
+
+### C. Soft-Field Takeoff and Climb 
+
+### D. Soft-Field Approach and Landing
+
+### E. Short-Field Takeoff and Maximum Performance Climb
+
+### F. Short-Field Approach and Landing
+
+
+
+### M. Forward Slip to a Landing (斜着飞 快速Descent用的)
+
+### N. Go-Around / Rejected Landing
+
+
+
+## V. Peformance and Ground Reference Maneuvers
+
+### A. Steep Turns
+
+### B. Ground Reference Maneuvers
+
+### 
+
+## VI. Navigation
+
+### A. Pilotage and Dead Reckoning
+
+### B. Navigation Systems and Radar Services
+
+### C. Diversion 
+
+### D. Lost Procedures
+
+
+
+## VII. Slow Flight and Stalls
+
+### A. Maneuvering During Slow Flight
+
+### B. Power-Off Stalls
+
+### C. Power-On Stalls
+
+Setup:
+
+* Clear the area
+* Pick a visual reference point if maintaining heading
+* Bank to maintain
+
+
+
+Procedure
+
+* Reduce power to 1500 RPM, slow to 60 MPH(Vx for short field take off) We use Vx immediately after takeoff to clear obstacles, followed by Vy to reach our cruising altitude quickly.
+* Apply power to 2200 RPM, apply **right rudder** to maintain coordination
+* Pitch up to maintain a slow, constant rate of deceleration
+* Recognize and announce the signs of the approaching stall
+* Stay coordinated, maintaining bank or heading
+* 
+
+### D. Spin Awareness
+
+
+
+## VIII. Basic Instrument Maneuvers
+
+### A. Straight-and-Level Flight
+
+### B. Constant Airspeed Climbs
+
+### C. Constant Airspeed Descents
+
+### D. Turns to Headings
+
+### E. Recovery from Unusual Flight Attitudes
+
+### F. Radio Communications, Navigation Systems/Facilities, and Radar Services
+
+
+
+## IX. Emergency Operations
+
+### A. Emergency Descent
+
+### B. Emergency Approach and Landing (Simulated)
+
+### C. Systems and Equipment Malfunctions
+
+### D. Emergency Equipment and Survival Gear
+
+### E. Engine Failure During Takeoff Before 
+
+### F. Engine Failure After Liftoff (Simulated)
+
+### G. Approach and Landing with an Inoperative Engine
+
+
+
+## XI. Night Operations
+
+### A. Night Preparation
+
+
+
+## XII. Postflight Procedures
+
+### A. After Landing, Parking and Securing
+
+
+
+
+
+
 
 
 
@@ -53,6 +227,22 @@ VOR Navigation
 * digital: (TODO: 可以使用app吗)
   * foreflight ?
   * E6B calculator
+
+
+
+## Takeoffs, Landings, and Go-Arounds
+
+
+
+## Performance and Ground Reference Maneuvers
+
+
+
+## 
+
+### Power on stall
+
+
 
 
 
