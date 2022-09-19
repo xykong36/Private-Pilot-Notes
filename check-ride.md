@@ -1,10 +1,85 @@
+
+
+# How to Prepare for a checkride 
+
+
+
+可以参考的视频
+
+yt video: https://www.youtube.com/watch?v=xOnAX9pZTo8 
+
+mock checkride video: https://www.youtube.com/watch?v=gO7sw1X7iME 
+
+
+
+需要准备的清单
+
+每次必备
+
+* 充电宝
+
+### Common Failure Points
+
+* Getting Lost
+* Following the "Megenta Line" -> especially the wrong one
+* Getting bogged down in systems, fly the plane first
+* Short Field Landings
+* Busting Minimums  ??  For IFR
+* Airspace knowledge !! 
+* Aircraft Systems
+
+
+
+### The Overlooked Failure Items
+
+* Emergency Procedures - Choosing an appropriate off-field landing site
+* Partial Power Engine Emergencies - Think loss of power from a failed cylinder
+* Non-Towered Airport Operations 
+* Forward Slips to Landing
+* VOR Navigation
+
+
+
+先从大类分章节 开始准备,最后要筛选出重难点
+
+
+
+大类包括
+
+* Weather
+* Regulations
+* Airport Lighting + Marking + Flight Planning 
+* Operation of Systems (Aircraft + Instrument)
+* Aerodynamics
+* 
+
+
+
+## 必须要背的
+
+* Flight Plan 各种variable
+* Airspace 的各种rule
+* Weather 
+  * 各种Weather的缩写
+  * 
+* 各种Manuever的动作要点, 常见错误, 评价标准
+
+
+
+
+
+## 可以翻书查的
+
+* 飞机注册相关的Regulation 
+* 一些spatial illusion的名字
+
+
+
 # Questions
 
 
 
 ## Maneuver
-
-
 
 
 
@@ -247,10 +322,6 @@ Procedure
 
 
 
-
-
-
-
 TODO:
 
 各种manuvear
@@ -262,10 +333,6 @@ TODO:
 
 
 准备
-
-
-
-
 
 Weight / Balance 可能是比较薄弱的点
 

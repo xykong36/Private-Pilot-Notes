@@ -2,6 +2,8 @@
 
 TODO:
 
+
+
 - [ ]  看 Checkride standard https://www.youtube.com/watch?v=yJRkO_6iTWs
 - [ ]  重新复习和熟练各种基本操作 
   - [ ] Ground Reference Maneuver
@@ -14,19 +16,100 @@ TODO:
 - [ ] Labor Day 需要重新梳理基础知识 并且进行更精细的操作控制 结合手感 + 精确计算
 - [ ] Landing 5 Phases
 - [ ] Foward slip + Side Slip
+- [ ]  熟悉飞机上各种仪表的工作原理 + 使用方法， radio, ads-b, gps
+- [ ]  Flight Training的全部视频重新看一遍
 
 
 
-## Next Lesson 
+Solo 必备Checklist
 
-* Spin Exposure
-* Short Field Landing
-* Forward Slip + Side Slip 用来将飞机调整到 runway center line
-* Go Around at Towered Airport, Do I need to talk to ATC, Do I stay in the pattern after go around ?  Make the call for other traffic ? 
+* 充电宝
+* 充满电的 Sentry ADS-B
+* 满电的手机: ForeFlight 导航
+* 手机支架
+* 备用电池: 耳机降噪
+* 墨镜 + 墨镜镜片(如果是下午飞的 需要带镜片，方便切换，天黑了直接把镜片拿下来)
+* Kneeboard 
+* 纸质版 Sectional Chart
+* Flight Plan: 如果是Crosscountry 最好是要填好所有机场相关信息
+* 各种证件
+* 水杯 + 吃的(如果是长途cross country)
+
+
+
+
+
+## 9.18 Solo to Another Airport
+
+### 飞行路线:
+
+上午: EQY -> AFP -> EQY
+
+下午: EQY -> LKR -> EQY
+
+### 训练科目:
+
+* Solo 飞行转场(短距离, Non-Tower Airport)
+* Steep Turn
+
+### 需要改进的
+
+* 快速找到目的地机场 
+* 快速判断需要在哪一个runway 降落+ Pattern
+* Steep Turn 掉高度的情况 
+* 从AFP 回到机场的时候 应该走Mid Field 但是刚开始没意识到 机场的Pattern需要形成肌肉记忆 如果是ATC 的Tower Airport 就还是
+* 这几次Landing 都不是很给力 我觉得目前还没有办法做到收放自如，对于高度的控制 aiming point, touch down point, flare 的时机，pull back 的力度大小
+* 下午去LKR的frequency 调错了，调到了CLT Ground, 人家提醒了两次我才反应过来 
+* 最开始的radio test 一直没有回应，可以直接问其他在Pattern的人帮忙check
+* 注意Radio Test 是和Monroe Unicom 通话
+* 控制Altitude 主要还是靠nose pitch的高度 而不能靠仪表 仪表会有延迟 一旦延迟可能就来不及了
+* 提前把装备准备好，今天就忘带墨镜 + 充电宝没电了
+* 注意看Airspace 的高度限制 比如南边就是3600的高度起步了，可能就会不小心进到Class B
+* 需要考虑局部地区的云层状况
+
+
+
+### Next Lesson
+
+- [ ]  Forward Slip 快速Descent + Side Slip 用来将飞机调整到 runway center line
+- [ ]  Go Around at Towered Airport, Do I need to talk to ATC, Do I stay in the pattern after go around ?  Make the call for other traffic ? 
+
+### 做的不错的地方
+
+* 简单体验了穿云的感觉，有点吓人，因为视觉完全被剥夺，而且没有办法确定云层的厚度，你不知道会在云里面待多久
+* 3 个飞机在EQY 扎堆降落 我的高度比较高  还是不要紧张, 需要大概对于 距离 速度 时间的敏感  (如果考试的时候需要这个情况 更加需要耐心了)
+
+
+
+在Flight Planning 的阶段就应该把进入机场可能的几种Pattern情况想清楚, 并且尽可能的不跑偏太多，直接走最佳路线
+
+
+
+## 9.12 Pattern Work (Short Field Landing) + Spin
+
+训练科目: Spin Exposure + Short Field Landing 
+
+需要找到的aiming point 
+
+Landing 的时候需要自己计算4个方向的值  Runway Heading 直接是默认的, 然后是两个90 degree
+
+Spin Recovery 如果不用Rudder 就会直接调过去
+
+
+
+PARE
+
+* Power idle
+
+* Alieon neutral
+
+* Rudder Opposite
+
+* Elevator push forward + back
+
+
 
 ## 9.4 Ground School
-
-
 
 VOR Training
 
@@ -40,7 +123,11 @@ Base Turn Overshooting的问题
 
 而且 $30^o$ 大概是1.2G, $45^o$大概是1.4G 不会太影响stall speed 可以放心
 
+### Next Lesson 
 
+- [x]  Spin Exposure
+- [x] Short Field Landing
+- [ ] 
 
 
 
