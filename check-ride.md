@@ -51,9 +51,48 @@ mock checkride video: https://www.youtube.com/watch?v=gO7sw1X7iME
 * Airport Lighting + Marking + Flight Planning 
 * Operation of Systems (Aircraft + Instrument)
 * Aerodynamics
-* 
 
 
+
+Why down elevator
+
+后面来的tail wind , correction 是全部是朝向downwind, upwind是在同侧 elevator down 防止把尾巴吹翘起来
+
+如果是前面来的 head wind, correction, upwind 是在风的来向 左边风 左边
+
+
+
+left headwind correction, neutral + left 
+
+![image-20220922203715136](/Users/xiangyukong/repos/Private-Pilot-Notes/screenshot/left-headwind-correction.png)
+
+
+
+right tailwind correction, push down + left
+
+![image-20220922203547206](./screenshot/right-tailwind-correction.png)
+
+
+
+![Taxiing in a Crosswind - PilotWorkshops](https://pilotworkshop.com/wp-content/uploads/2015/06/crosswind_taxi_UPDATED.png)
+
+
+
+
+
+
+
+Missed Knowledge Test Question
+
+
+
+* PA.I.C.K3f f. Clouds
+* PA.I.E.K3 Special use airspace (SUA), special flight rules areas (SFRA), temporary flight restrictions (TFR), and other airspace areas.
+* PA.I.F.K2f f. Weight and balance
+* PA.I.F.R2 Exceeding airplane limitations
+* PA.I.G.K1h Pitot-static, vacuum/pressure, and associated flight instruments
+* PA.II.B.K1 Passenger briefing requirements, to include operation and required use of safety restraint systems.
+* PA.III.A.K8 National Transportation Safety Board (NTSB) accident/incident reporting.
 
 ## 必须要背的
 
@@ -75,6 +114,10 @@ mock checkride video: https://www.youtube.com/watch?v=gO7sw1X7iME
 
 
 
+
+
+GARMIN 435 3-COM User Manual: https://static.garmin.com/pumac/190-01878-05_A.pdf
+
 # Questions
 
 
@@ -89,7 +132,69 @@ mock checkride video: https://www.youtube.com/watch?v=gO7sw1X7iME
 
 ### A. Pilot Qualifications
 
+
+
+**PA.I.A.K1 - Certification Requirements**
+
+* 61.103 General
+
+* 61.105 -> Ground knowledge 
+
+* 61.107(b)(1) -> Required flight and ground training areas
+
+* 61.109(a) -> How much flight time you need logged
+
+
+
+**PA.I.A.K1 - Recent Flight Experience**
+
+*  61.56 -> Flight Review
+* 61.57 -> 90-Day Currentcy
+
+
+
+**PA.I.A.K1 - Recordkeeping**
+
+* 61.51 -> Logging ground and flight time
+* 61.59 -> Logbook information falsification
+* 61.60 -> Change of address
+
+
+
+**PA.I.A.K2 Privileges and Limitations**
+
+* 61.113 -> PIC Priv's and Limitations Pro Rata 
+* 61.117 -> SIC Priv's and Limitations
+
+
+
+**PA.I.A.K3 Medical Certificates**
+
+* 61.23 Classes, Expiration Dates, Privileges, Limitations 
+
+* 61.53 -> Temporary Medical Disqualifications
+
+  
+
+**PA.I.A.K4 Documents Required to exercise**
+
+* 61.3 -> 
+  * Pilot's Certificate
+  * U.S. Government-issued photo ID
+  * BasicMed Documents / Medical Certificate
+  * Solo student must have endorsed logbook 
+
+
+
+**PA.I.A.K5 **
+
 ### B. Airworthiness Requirements
+
+Inspection: 
+
+![image-20220921192302924](./screenshot/required-aircraft-inspections.png)
+
+
 
 ### C. Weather Information
 

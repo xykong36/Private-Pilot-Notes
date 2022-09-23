@@ -16,8 +16,10 @@ TODO:
 - [ ] Labor Day 需要重新梳理基础知识 并且进行更精细的操作控制 结合手感 + 精确计算
 - [ ] Landing 5 Phases
 - [ ] Foward slip + Side Slip
-- [ ]  熟悉飞机上各种仪表的工作原理 + 使用方法， radio, ads-b, gps
+- [ ]  # 熟悉飞机上各种仪表的工作原理 + 使用方法， radio, ads-b, gps -> Watch yt videos what's inside the plane 
 - [ ]  Flight Training的全部视频重新看一遍
+- [ ]   学习如何给飞机加油 需要一个ground wire ? 
+- [ ]   Read the Pilot's Operating Handbook (POH)
 
 
 

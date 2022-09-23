@@ -117,47 +117,6 @@ https://www.youtube.com/watch?v=FSl8iIpeHEk
 * **Heading**: Direction in which the nose of the aircraft points during flight
 * **Track**: 
 
-
-* **Magnetic Deviation**:  
-### Key Points
-
-
-### Abbreviation & Acronym
-* GS: groundspeed GS determines the time the flight will take. -> gas consumption
-* TAS: true airspeed no wind -> true airspeed == ground speed
-* WCA(Wind Correction Angle):  
-### Concepts 
-* **Pilotage**: navigation by reference to landmarks or checkpoints
-* **Dead Reckoning**: navigation solely by means of computations based on time, airspeed, distance, and direction. the products derived from these variables, when adjusted by wind speed and velocity, are heading and GS.  
-* **Variation**: the angle between TN and magnetic north(MN).
-* **Course**: Intended path of an aircraft over the ground
-* **Heading**: Direction in which the nose of the aircraft points during flight
-* **Track**: 
-
-
-* **Magnetic Deviation**:  
-### Key Points
-* Timezone -> sunset time
-* Wind Triangle / Vector Analysis -> determine the heading 
-* Flight Planning
-
-
-
-## Chapter 17. Ae/ATromedical Factors 
-
-### Abbreviation & Acronym
-* GS: groundspeed GS determines the time the flight will take. -> gas consumption
-* TAS: true airspeed no wind -> true airspeed == ground speed
-* WCA(Wind Correction Angle):  
-### Concepts 
-* **Pilotage**: navigation by reference to landmarks or checkpoints
-* **Dead Reckoning**: navigation solely by means of computations based on time, airspeed, distance, and direction. the products derived from these variables, when adjusted by wind speed and velocity, are heading and GS.  
-* **Variation**: the angle between TN and magnetic north(MN).
-* **Course**: Intended path of an aircraft over the ground
-* **Heading**: Direction in which the nose of the aircraft points during flight
-* **Track**: 
-
-
 * **Magnetic Deviation**:  
 ### Key Points
 * Timezone -> sunset time
