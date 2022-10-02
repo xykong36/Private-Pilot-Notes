@@ -30,6 +30,22 @@ mock checkride video: https://www.youtube.com/watch?v=gO7sw1X7iME
 
 
 
+Look outside
+
+凭感觉来做反应 因为你有reference 哪一些感觉是不可靠的 哪一些是可靠的 而且
+
+
+
+
+
+When do you need a crosswind correction ? 
+
+Taxi
+
+Pattern work 
+
+Take off  + Landing 
+
 ### The Overlooked Failure Items
 
 * Emergency Procedures - Choosing an appropriate off-field landing site

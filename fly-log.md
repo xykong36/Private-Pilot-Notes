@@ -18,7 +18,7 @@ TODO:
 - [ ] Foward slip + Side Slip
 - [ ]  # 熟悉飞机上各种仪表的工作原理 + 使用方法， radio, ads-b, gps -> Watch yt videos what's inside the plane 
 - [ ]  Flight Training的全部视频重新看一遍
-- [ ]   学习如何给飞机加油 需要一个ground wire ? 
+- [x]   学习如何给飞机加油 需要一个ground wire ? 
 - [ ]   Read the Pilot's Operating Handbook (POH)
 
 
@@ -36,6 +36,79 @@ Solo 必备Checklist
 * Flight Plan: 如果是Crosscountry 最好是要填好所有机场相关信息
 * 各种证件
 * 水杯 + 吃的(如果是长途cross country)
+
+
+
+### 飞行路线
+
+### 训练科目
+
+### 需要改进的
+
+## 
+
+## 9.27 Solo X/C
+
+### 飞行路线
+
+* KEQY -> KUDG -> KEQY
+
+### 训练科目
+
+* Flight Planning
+* Solo X/C
+
+### 需要改进的
+
+* VOR 不太确定怎么用
+* Flight Planning 还是不够熟练 需要有一个固定的Receipe
+* 如果要挑Road 作为checkpoint, 需要
+* 感觉每一次的flight plan 都不能飞到 问题是出在checkpoint 选择, 空中定位, 还是路线确定上了? 
+* 今天从UDG返程的时候有点心急，直接沿着GDP的路线飞回来了，路上也没太关心 如何能够准确的确定 一开始出去就蒙了 
+
+
+
+
+
+Power line
+
+
+
+一个point : 确定这个点的位置 需要依靠其他辅助的地标来标记
+
+* 可以
+
+一片区域: City 不是一个好的check point
+
+一条线 : 确定防线
+
+
+
+NWKRAFT
+
+* NOTAMS: Runway Closed, Taxiway closed, Towers nearby
+* Weather: ENroute, 20 Miles away from the thunderstorm, turbulence, icing, wind direction(headwind, tailwind)
+* Know ATC Delays: Maybe it's a very big day , rush hour time , late night 
+* Runway Lengths 
+* Alternates: plenty of alternates selected along your route, to get extra fuel, or get weathered out, have some sort of maintenance issue, bathroom break or to stretch your legs
+* Fuel Requirements: How much fuel needed, how much you will burn, your fuel in reserve
+* T: Takeoff and Landing information distance, have an extra passanger, fuel 
+
+
+
+
+
+How to know my personal Minimums 
+
+
+
+
+
+## 9.26 Check Ride Preparation 
+
+### 训练科目
+
+* Steep Turn
 
 
 
