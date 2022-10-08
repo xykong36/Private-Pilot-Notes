@@ -7,19 +7,28 @@ TODO:
 - [ ]  看 Checkride standard https://www.youtube.com/watch?v=yJRkO_6iTWs
 - [ ]  重新复习和熟练各种基本操作 
   - [ ] Ground Reference Maneuver
+  - [ ] Basic Turn
+    - [ ]  根据外面的reference point 来确定每一次的turn 是否是coordinated 
+    - [ ]  Test shallow turn / medium turn / steep turn 
+    - [ ]  需要一些back pressure 来克服horizontal lift 
   - [ ] Power on / off Stall
   - [ ] Steep Turn 
+    - [ ]  左右的Sight Picture 是不一样的
+      - [ ]  Left tend to 
   - [ ] Short Field Takeoff + Landing 
   - [ ] Soft Field Takeoff + Landing
-- [ ]  Solo X/C 5 hours 应该是要飞两趟的
-- [ ]  熟悉 Emergency Operation, Lost Procedure, 进行Flight Planning的细节
+- [ ] Solo X/C 5 hours 应该是要飞两趟的
+
+  - [ ]  finish the first solo X/C 1.8 hrs
+
+- [ ] 熟悉 Emergency Operation, Lost Procedure, 进行Flight Planning的细节
 - [ ] Labor Day 需要重新梳理基础知识 并且进行更精细的操作控制 结合手感 + 精确计算
 - [ ] Landing 5 Phases
 - [ ] Foward slip + Side Slip
-- [ ]  # 熟悉飞机上各种仪表的工作原理 + 使用方法， radio, ads-b, gps -> Watch yt videos what's inside the plane 
-- [ ]  Flight Training的全部视频重新看一遍
-- [x]   学习如何给飞机加油 需要一个ground wire ? 
-- [ ]   Read the Pilot's Operating Handbook (POH)
+- [ ] # 熟悉飞机上各种仪表的工作原理 + 使用方法， radio, ads-b, gps -> Watch yt videos what's inside the plane 
+- [ ] Flight Training的全部视频重新看一遍
+- [x] 学习如何给飞机加油 需要一个ground wire ? 
+- [ ] Read the Pilot's Operating Handbook (POH)
 
 
 

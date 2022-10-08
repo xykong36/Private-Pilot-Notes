@@ -30,6 +30,18 @@ mock checkride video: https://www.youtube.com/watch?v=gO7sw1X7iME
 
 
 
+
+
+adverse yaw: the airplane will initially yaw in the opposite direction of the bank 
+
+in turning flight, the rudder's only function is to counteract the adverse yaw which happens when the airplane is rolled into a turn and when it's rolled back to  wings level flight 
+
+flaps: the panels on the trailing edge of the inboard parts of the wings. 
+
+flaps change the chord of the wing and increases both lift and drag. extending the flaps allows the landing approach to be steeper and slower. 
+
+
+
 Look outside
 
 凭感觉来做反应 因为你有reference 哪一些感觉是不可靠的 哪一些是可靠的 而且
@@ -118,6 +130,164 @@ Missed Knowledge Test Question
   * 各种Weather的缩写
   * 
 * 各种Manuever的动作要点, 常见错误, 评价标准
+
+
+
+# Q&A
+
+
+
+
+
+## Airworthiness Requirements
+
+* Q: What are the required documents that must be onboard the aircraft before you can fly ? 
+  * A: Airworthiness Certificate
+  * R: Registration Certificate
+  * R: Radio Station License (international flight only)
+  * O: Operating Limitations
+  * W: Weight and Balance Data
+* What are the required inspections for your aircraft ? Show me that your aircraft meets inspection requirements and tell me when each inspection is due next. 
+  * Annual Inspection
+  * VOR Check
+  * 100-Hour Inspection
+  * Altimeter / Pitot-Static System Inspection
+  * Transponder
+  * Emergency Locator Transmitter (ELT)
+  * Airworthiness Directives
+  * Be able to go through the maintenance logs annd show all necessary inspections and next inspection dates
+* Do you need a heading indicator for your flight ? How about an altimeter ? 
+  * **ATOMATOFLAMES**: for Day VFR flight - A heading indicator is not required, but an altimeter is required
+
+
+
+## Weather 
+
+* What weather sources did you use to obtain your briefing for this flight ? What are other ways to obtain weather briefings ? 
+  * 1-800-WXBRIEF (phone or website), Aviation Weather Center, ForeFlight
+* Walk me throught your weather briefing
+  * Be expected to run through your weather briefing, explaining TFRs, NOTAMS, AIRMETs, SIGMETs, PIREPs, METARs, TAFs
+* What happens if the temperature and dew point are close together
+  * Likely formation of visible moisture - fog, clouds, or dew  
+* What kind of weather can you expect in a low-pressure system vs. a high-pressure system ? 
+  * Low -> bad weather (cloudiness / precipitation)
+  * High -> good weather (dissipation of cloudiness)
+
+* What types of briefings can you obtain ? 
+
+* What are some ways you can get weather information in-flight ? 
+
+* Name and describe three different types of fog
+
+* Describe the types of clouds, turbulence, precipitation, and visibility characteristic of stable and unstable air
+
+* What conditions are necessary for structural icing to occur ? 
+
+* Is frost on the wings dangerous ? Why ? 
+
+* What factors are necessary for a thunderstorm to form ? 
+
+* What do closely-spaced together isobards indicate ?
+
+  
+
+  
+
+## Hunman Factors
+
+* What is hypoxia ? What are the symptoms of hypoxia and how do you correct for it ? 
+  * State of oxygen deficiency
+  * Impaired judgment, memory, alertness, coordination. Headache, drowsiness, and dizziness
+  * Descend or use supplemental oxygen
+
+* What would you do if one of your passengers becomes extremely airsick?
+  * Open up air vents, loosen clothing, use supplemental oxygen (if available), keep eyes on a point outside the aircraft
+  * LAND
+
+* What do you use to assess your fitness to fly ? 
+  * I: Illness
+  * M: Medication
+  * S: Stress
+  * A: Alcohol
+    * 8 hours
+    * No more than .04% BAC
+  * Fatigue
+  * Emotion / Eating
+
+* What would you do if you accidentally entered a cloud and became disoriented
+* Talk to me about how you can identify risks during your pre-flight planning process ? (PAVE) ? 
+
+
+
+
+
+## Performance and Limitations
+
+* Walk me through your takeoff and landing distance calculations
+* Let's say your aircraft is overweight. What will this do to your aircraft's performance ? 
+  * Higher takeoff speed
+  * Longer takeoff run
+  * Reduced rate and angle of climb
+  * Lower maximum altitude
+  * Shorter range
+  * Reduced cruising speed / maneuverability
+  * Higher stalling speed
+* What will happend if your aircraft's CG is too far forward ? Too far aft ? Which is more dangerous ? 
+  * Forward CG
+    * Higher stall speed
+    * Slower cruise speed
+    * More stable
+    * Greater back elevator pressure required
+  * Aft CG (more dangerous)
+    * Lower stall speed
+    * Higher cruise speed
+    * Less stable
+* How does an airplane stall ? What are some common situations where you could accidentally stall an airplane ? 
+  * Exceeding critical angle of attack (any airspeed, weight, load factor, or density altitude)
+    * Over-rotation on takeoff or go-around (too much nose up trim)
+    * Base to final turn
+    * Impossible turn (engine failure after takeoff)
+
+* Let's say you're on final at Ocean City but your controls suddenly feel very mushy and you hear a warning horn go off. What's happening ? 
+* What is density altitude and why is it important to us ? What factors affect density altitude ? 
+* Let's say there's an obstacle at the end of the runway. What speed would you pitch for after takeoff ? 
+* What is the importance of the white arc on your airspeed indicator ? How about the red line ? Define each and also give values ? 
+* Your airplane likes to turn left. Talk to me about the left-turning tendencies
+* What is a spin ? How do you recover from one ? 
+
+
+
+## Operations of Systems
+
+* Talk to me about your aircraft's engine ?
+  * Horizontally Opposed
+  * Air Cooled 
+  * Normally aspirated  
+  * Direct Drive
+  * Four-stoke, internal combustion, [reciprocating engines](https://en.wikipedia.org/wiki/Reciprocating_engine) that convert the back and forth motion of the pistons to the rotary motion of the [crankshaft](https://en.wikipedia.org/wiki/Crankshaft) 
+* What is the vacuum system ? How does it work ? What instruments use it ? 
+  * 2 vacuum pumps suck filtered air from the cabin through the gyroscopes of the attitude and heading indicators to allow the instruments to function correctly
+  * Be able to walk through the diagram in the POH
+* What is the pitot-static system ? How does it work ? What instruments use it ? 
+* How is your cabin heated ? Are there any dangers about this system ? 
+* What kind of fuel can your aircraft take ? What color is it ? 
+* What does it mean if your ammeter is indicating a continuous discharge ? 
+* What would you do if you have an engine failure during cruise ? 
+
+
+
+## X/C Flight Planning and National Airspace System
+
+
+
+* Besides completing a weather briefing to obtain NOTAMs and weather, what other pre-flight actions are required ? What actions do you personally do ? 
+  * NOTAM
+  * Weather reports and forecasts
+  * Known ATC delays
+  * Runway lengths of intended use
+  * Alternatives available
+  * Fuel requirements
+  * Takeoff and landing distances
 
 
 

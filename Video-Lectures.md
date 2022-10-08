@@ -27,6 +27,8 @@ heat is coming from exhuast systgem
 pull out => full carburetor heat
 Carburetor Icing: Likely with high humidity, temperatures < 70 F and low power settings 
 
+small drop in engine RPM , less dense air. roughly first, after the ice has melted, and the water is exhausted from the engine, the RPM will increase . use carburetor heat routinely when operating the engine at lower RPMs, like ruing descent, approach and landing. This is done as a preventative measure to ensure carburetor ice does not form at the reduced throttle settings. 
+
 ### 12. Air Facts: Purposeful Preflight
 
 
@@ -34,13 +36,75 @@ Carburetor Icing: Likely with high humidity, temperatures < 70 F and low power s
 
 ### 14. Engine Start
 
+确保飞机后面没人 没有遮挡 风大可能会有damage
+
+a matter of courtesy and safety as well
+
 ### 15. Aviation Communications
+
+nine -> niner
+
+five -> fif
+
+three -> tree 
+
+Altitudes, ceiling heights, and large numbers are pronounced in hundreds and thousands
+
+*  9,500' `Niner Thousands Fife Hundred`
+* 12,500' `One Two Thousands, Fife Hundred`
+
+
+
+Altitude above eighteen thousand feet are indicated as a flight level: 
+
+* e.g. FL350 -> 35,000'  Flight Level Tree Fife Zero
+
+
+
+Course / Heading / Wind Direction 一个一个蹦
+
+Heading 180: One Eight Zero
+
+Wind Direction: 270 Two Seven Zero 
+
+Airspeed: 120 knots -> One Two Zero knots 
+
+
+
+直接读数字的情况
+
+* Traffic Clock： Twelve O'Clock 
+* IFR Vector: Vector 12 -> Vector Twelve\
+
+
+
+Roger 只是表示你收到了上一条消息，不能回答YES / NO 等需要确认的问题, 如果要回答YES -> Affirmative , 回答No -> Negative
+
+
+
+CTAF: Common Traffic Advisory Frequency: 
+
+
 
 ### 16. Air Facts: Getting the Message
 
 ### 17. Taxi, Run-up, Traffic Pattern
 
+
+
+Runway Magnetic Heading
+
+rounded off to the nearest ten degrees, and dropping the last zero
+
+Each direction is referenced to the north, northeast is 45 degrees,  
+
 ### 18. Closer Look: Wind Direction Indicators
+
+Wind Sock: funnel shape device, the large open end faces into the wind -> think of the airplane taking off and landing from the small to the large end of the wind sock.  That would equate to flying into the wind. 
+
+Wind Tee: same direction as wind tee is pointing 
+
+Wind Tetrahedron: narrow tip of the tetrahedron points into the wind 
 
 ### 19. Takeoff
 
@@ -48,7 +112,55 @@ Carburetor Icing: Likely with high humidity, temperatures < 70 F and low power s
 
 ### 21. Air Facts: Takeoff Tips
 
-### 22. Four Fundamentals
+* make sure the sky is clear
+* directional control 
+* achieve the proper pitch altitude
+
+
+
+### 【核心重点】22. Four Fundamentals
+
+Turns / Straight & Level / Climb / Descent
+
+
+
+Airplane Control:
+
+* pitch
+* bank
+* Power 
+
+
+
+Shallow bank turn(less than 20 degree): less than 20 bank -> require the holding of control pressure to keep the airplane from returning to wings level flight 
+
+Medium bank turn (between 20 and 45 degree) -> the airplane will tend to stay in the bank without aileron pressure
+
+Steep turns (over 45 degree) -> the overbanking tendency of the airplane requires holding aileron pressure against a steep turn to prevent the bank from increasing. 
+
+
+
+![image-20221006190159615](./screenshot/steep-turn-sight-picture.png)
+
+
+
+Roll out
+
+* Shallow: 10 
+* Medium: 15
+* Steep: 25 
+
+
+
+Balance the turn:
+
+* Rudder too soon -> nose turns before the bank starts
+
+* Rudder too late -> nose doesn't turn (or turns in the opposite direction)
+* Elevator too much back pressure -> pitch attitude moves up when entering a bank
+* Elevator not enough elevator -> nose moves down when entering a bank 
+
+
 
 ### 23. Air Facts: Pitching and Turning
 
@@ -58,20 +170,126 @@ Carburetor Icing: Likely with high humidity, temperatures < 70 F and low power s
 
 ### 26. Conclusion 
 
+
+
 ## 2. Practicing Landings
 
 ### 1. Ground Reference Maneuvers
+
+TODO: 重新练习和思考 如何crab the airplane 
+
+
+
 ### 2. Closer Look: Taxi Tips
+concentrate eyes outside
+
+* 提前设定好GPS / Radio / Phone 不要在taxi的时候干别的
+
 ### 3. Engines
+
+越高的altitude 空气越少 需要lean the mixture 来维持更好的油气燃烧比
+
+![image-20221006211438055](./screenshot/relative-air-density.png)
+
+用75 % 或者 80% max 的power 然后再lean
+
+enrich the mixture before full power, 右到左
+
+detonation + pre-ignition 提前点火了 都可以通过power loss 来发现问题 通过cool the engine 来解决
+
 ### 4. Air Facts: Engine Suspicion
+
 ### 5. Aerodynamics
+
+* 考点: 
+  * Angle of Attack 
+  * Stall
+  * left tendency 
+    * spiraling slipstream
+    * P-factor: Asymmetric propeller loading:  右边向下打的螺旋桨有更高的 AOA  Desceding propeller blade has higher AoA than ascending blade in a climb -> high AoA means high thrust 向前的力更大 右半边更容易向前移动 
+
+where it's moving 和 where it's pointing to 之间的夹角
+
+![image-20221006212938834](./screenshot/angle-of-attack.png)
+
 ### 6. Closer Look: Angle of Attack
 ### 7. Slow Flight
 ### 8. Closer Look: Change of Scenery 
 ### 9. Stalls
+
+Imminent Stall: 刚刚感觉到了Stall 就进行recover 没有Nose down
+
+Full Stall: 整个的nose down + lose altitude 
+
+
+
+影响Stall Airspeed 和 Pitch Level的因素:
+
+* weight
+* bank level
+* power setting
+* load factor
+
+
+
+Stall angle of attack 是保持一致的
+
+
+
 ### 10. Air Facts: Stall Rhetoric
 ### 11. Normal Landings
+
+进入Pattern的方式
+
+* Cross midfield 500 feet above pattern altitude,  turn right 270 and join downwind
+
+  ![image-20221007102344025](./screenshot/cross-midfield-270.png)
+
+* Cross midfiled at pattern altitude, turn left 90 and join downwind
+
+  ![image-20221007102436340](./screenshot/cross-midfield-90.png)
+
+* fly at pattern altitude and 45 entry join downwind![image-20221007102315504](./screenshot/45-entry-pattern.png)
+
+
+
+
+
+从Downwind 到 Base turn 是要大于90度的 因为有Crosswind 
+
+![image-20221007103159558](./screenshot/crap-in-base.png)
+
+Key position: 在Base 45度的位置 可以判断是否要 Begin the Turn or Delay the turn
+
+
+
+![image-20221007103258526](./screenshot/base-key-position.png)
+
+
+
+![image-20221007103318015](./screenshot/base-to-final-turn.png)
+
+
+
+一进final 立刻Full Flap 来固定glide path 根据Aiming Point 来进行调整
+
+Pitch for altitude, Power for airspeed. 
+
+never below approach airspeed
+
+Variables
+
+* Wind: 
+* 
+
+
+
+
+
+什么时候不要Full Flap ?  Crosswind 10 degree on downwind, 20 degree flap on final 
+
 ### 12. Air Facts: Down to Earth
+
 ### 13. Takeoff & Landing Variations
 ### 14. Nontowered Airport Communications
 ### 15. Wake Turbulence Avoidance
