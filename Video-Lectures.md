@@ -459,6 +459,34 @@ A: More fuselage aft of its CG.
 
 ### 3. Publications and Charts
 
+Aeronautical Information Manual (AIM)
+
+*  
+
+Chart Supplement
+
+* Pilot's guide to airports and facilities
+
+Notices to Air Missions (NOTAMs) (notams.aim.faa.gov)
+
+* Contain time-sensitive information essential for the safety of flight  
+
+Sectional Chart
+
+1 inch = 6.86 NM (8 SM)
+
+Terminal Area Charts (TAC)  Terminal Area
+
+
+
+VFR Waypoint 
+
+Visual Checkpoint 
+
+
+
+
+
 ### 4. Air Facts: Where Is It Really
 
 ### 5. Flight Planning and Computations
@@ -469,7 +497,7 @@ A: More fuselage aft of its CG.
 
 ### 8. VOR Navigation
 
-### 9. Global Positioning System(GPS)
+### 9. Global Position ing System(GPS)
 
 ### 10. Glass Cockpit Flight Instruments
 

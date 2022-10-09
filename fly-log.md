@@ -41,9 +41,9 @@ Solo 必备Checklist
 * 备用电池: 耳机降噪
 * 墨镜 + 墨镜镜片(如果是下午飞的 需要带镜片，方便切换，天黑了直接把镜片拿下来)
 * Kneeboard 
-* 纸质版 Sectional Chart
-* Flight Plan: 如果是Crosscountry 最好是要填好所有机场相关信息
-* 各种证件
+* 纸质版 Sectional Chart (Back up + 用来训练无GPS情况下 Navigation)
+* Flight Plan: 如果是Crosscountry 最好是要填好所有机场相关信息(各种Frequency + Altitude + Service)
+* 各种证件(Medical + Driver Liscence + Certificate)
 * 水杯 + 吃的(如果是长途cross country)
 
 
@@ -54,7 +54,28 @@ Solo 必备Checklist
 
 ### 需要改进的
 
-## 
+
+
+## 10.9. Long Solo X/C
+
+### 飞行路线
+
+* KEQY -> 
+
+### 训练科目
+
+* Radio Communication
+  * Class D Airspace -> Two way communication
+* Pattern + Normal Landing 
+* No Flap Landing
+* Short Field Landing
+* Ground Reference Maneuver
+  * Fly around a point
+  * Rectangular 
+
+### 需要改进的
+
+
 
 ## 9.27 Solo X/C
 

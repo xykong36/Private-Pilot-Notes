@@ -106,7 +106,13 @@ right tailwind correction, push down + left
 
 
 
+![img](./screenshot/airport-signs)
 
+
+
+Right of Way Rules:
+
+https://www.youtube.com/watch?v=Xak2gkqX6wQ
 
 
 
@@ -117,10 +123,25 @@ Missed Knowledge Test Question
 * PA.I.C.K3f f. Clouds
 * PA.I.E.K3 Special use airspace (SUA), special flight rules areas (SFRA), temporary flight restrictions (TFR), and other airspace areas.
 * PA.I.F.K2f f. Weight and balance
+  * CG
+
 * PA.I.F.R2 Exceeding airplane limitations
+  * Normal / Utility
+
 * PA.I.G.K1h Pitot-static, vacuum/pressure, and associated flight instruments
+  * Altitude Indicator
+  * Airspeed Indicator
+  * Vertical Speed Indicator
+  * Heading Indicator
+  * Turn Coordinator
+  * Attitude Indicator
+
 * PA.II.B.K1 Passenger briefing requirements, to include operation and required use of safety restraint systems.
 * PA.III.A.K8 National Transportation Safety Board (NTSB) accident/incident reporting.
+
+
+
+
 
 ## 必须要背的
 
