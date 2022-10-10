@@ -65,17 +65,30 @@ Solo 必备Checklist
 ### 训练科目
 
 * Radio Communication
-  * Class D Airspace -> Two way communication
+  * Class D Airspace -> Two way communication 
 * Pattern + Normal Landing 
-* No Flap Landing
-* Short Field Landing
-* Ground Reference Maneuver
-  * Fly around a point
+* Short Field Landing (Feel more confident)
+* Ground Reference Maneuver (Base to final turn)
   * Rectangular 
+
+### 做的不错的地方
+
+* 直接告诉Tower 自己是Student Pilot X/C flight 重复飞了两个180进行转向 没啥大不了的 反正机场也没啥人
+* 用Dji 记录了飞行过程
+* 记录时间 来提前预判下一个checkpoint何时出现，不用提前太多来找，可能还没到地方呢 TOC 和 TOD 确实会复杂一些 因为受到风向和位置影响比较大，提前多选几个备用的check point 多个点位来确定 一开始找到位置 后面就会容易 River 真的是一个很好的checkpoint 足够宽的river 能够划出边界而且能够帮助定位当前位置
+* 看到了checkpoint 就直接飞过去 不用按照plan的heading
 
 ### 需要改进的
 
-
+* 一出EQY 找到Express highway 之后又迷路了 而且把方向完全搞错了直接往西边飞了，彻底晕了，主要原因还是check point 选的有问题 找highway intersection  找线作为check point 一定要注意走向 通过线段两端点的heading 坐标来确定 而且选择 线段作为checkpoint 容易出现滑动的问题，你不确定你究竟在线段的哪一部分上，这会导致自我怀疑 尽量避免选择线段 加重心理负担
+* 今天飞 Stanley County Airport 的时候听错Radio 了 这个Tower 喜欢说一个 midfield downwind 而且Runway Number  Right Pattern 还是 Left Pattern
+* 飞不熟悉的机场 不仅要想好 Runway number, 还要提前准备好每一个leg 上的具体位置和高度, 提前准备好半个Pattern (Midfield Downwind + Base + Final) 或者 1/4 Pattern的飞行(Base + Final) 甚至直接Final
+* 飞到 Concord的时候正好遇到了 TFP, 机场旁边的 Speedway 正在举办NASCAR 的比赛，不接受我的降落请求，这个貌似可以在出发前查好，虽然是当天临时的请求, 从1PM -> 9PM，也要多加注意而且如果不是ForeFlight 提醒我可能就根本不会注意 所以调好ForeFlight的各种辅助功能显示还是很重要的
+* 尽量不要再TOC 之前设置check point, nose up的状态很难看清楚前方的horizon，只能靠两边的side picture来找check point很麻烦，Solo情况下视野可能损失50%以上 
+* 再Descent 的时候也要注意调整Trim 来relieve pressure, 保持一个stablize 的glide path, 不要过于依靠指示灯，指示灯可能是不准的
+* 注意查好跑道的长度和宽度，宽度会影响到你的final approach中跑道的形状, 窄的跑道会显得你位置虚高，宽的跑道会有虚低，需要进行对应的调整
+* 如果需要Extend 尽量多留出一部分用来转弯的空余量 算好转弯的半径
+* 自助加油的时候直接把飞机头正着怼过去 ？ 也不要太近  注意飞机是没有倒车挡位的 提前想好加完油怎么离开
 
 ## 9.27 Solo X/C
 
@@ -96,7 +109,7 @@ Solo 必备Checklist
 * 感觉每一次的flight plan 都不能飞到 问题是出在checkpoint 选择, 空中定位, 还是路线确定上了? 
 * 今天从UDG返程的时候有点心急，直接沿着GDP的路线飞回来了，路上也没太关心 如何能够准确的确定 一开始出去就蒙了 
 
-
+* 
 
 
 
