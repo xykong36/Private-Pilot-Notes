@@ -291,10 +291,33 @@ Variables
 ### 12. Air Facts: Down to Earth
 
 ### 13. Takeoff & Landing Variations
+
+
+
+When to do go around ? 
+
+* 接近Final 的时候 仍然是high airspeed
+* 距离Runway的垂直距离 太高了 1/3 是一个标准
+* Flare的时候back pressure 给多了 又飘起来没办法及时touch down
+
+
+
+需要对于跑道长度有正确的估计，尽量在1000 foot marker touch down 比较稳妥
+
+
+
+
+
 ### 14. Nontowered Airport Communications
 ### 15. Wake Turbulence Avoidance
 
+Class B 会有Wake Turbulence的问题, 在大飞机rotate的位置之前rotate 并且偏离runway 来躲避 (turn into wind) 因为你的rate of climb 一定是比大飞机低的  并且不要cross large airplane path
 
+
+
+parallel runway
+
+![image-20221010215624156](./screenshot/wake-turbulence-avoidance)
 
 ## 3. Your First Solo
 
@@ -303,6 +326,13 @@ Variables
 ### 2. Closer Look: International Flight Training
 
 ### 3. Steep Turns
+
+Bank vs. Load factor
+
+* 30 -> 1G
+* 45 -> 1.41
+* 60 -> 2G
+* 69 -> 2.91 G
 
 ### 4. Closer Look: Touch and Go
 
@@ -315,6 +345,13 @@ Variables
 ### 8. Closer Look: Atmospheric Pressure
 
 ### 9. The Pitot Static System
+
+* Different Airspeed
+  * lower bound of green arc: Vs Power-Off Stalling Speed  Flaps up, maximum weight
+  * upper bound of green arc: Vno Maximum Structural Cruising Speed 
+    * 
+* Different Types of Altitude
+  * 
 
 ### 10. Closer Look: Pilot's Operating Handbook
 

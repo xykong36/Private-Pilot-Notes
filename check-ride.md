@@ -314,6 +314,8 @@ Missed Knowledge Test Question
 
 
 
+
+
 ## 可以翻书查的
 
 * 飞机注册相关的Regulation 
@@ -552,6 +554,16 @@ Procedure
 ## VIII. Basic Instrument Maneuvers
 
 ### A. Straight-and-Level Flight
+
+How to level the airplane? 
+
+level的前置动作一定是climb / descent 在 climb 或 descent过程中会有trim的调整，正确的做法是 快要level的时候 push / pull yoke 达到你想要的速度，调整power 
+
+yoke -> power -> trim  最后的状态是松手之后还是level flight
+
+
+
+不要在低头的时候 把手放在yoke上 会不自觉的让飞机转向
 
 ### B. Constant Airspeed Climbs
 
