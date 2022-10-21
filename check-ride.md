@@ -2,15 +2,29 @@
 
 # How to Prepare for a checkride 
 
-
-
-可以参考的视频
-
 yt video: https://www.youtube.com/watch?v=xOnAX9pZTo8 
-
 mock checkride video: https://www.youtube.com/watch?v=gO7sw1X7iME 
 
+# Oral
 
+
+## Notes
+
+* MIT Private Pilot Ground School https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/lecture-notes/index.htm
+* [Sporty's Private Pilot Training Course](https://dl.videos.sportys.com/onlinecourse/documents/privatestudyguide.pdf)
+
+
+
+## Q & A
+
+## Tools
+* NOTAM Search: https://notams.aim.faa.gov/notamSearch/nsapp.html#/
+* ForeFLight
+  * [How I Use ForeFlight as a VFR Private Pilot | Part 1](https://www.youtube.com/watch?v=MFRoQrqvF30&ab_channel=MidlifePilot)
+
+Chair Fly:
+
+* blue angels https://www.youtube.com/watch?v=KlAPamTbryg&ab_channel=CharlesAtkeison 
 
 需要准备的清单
 
@@ -151,13 +165,6 @@ Missed Knowledge Test Question
   * 各种Weather的缩写
   * 
 * 各种Manuever的动作要点, 常见错误, 评价标准
-
-
-
-# Q&A
-
-
-
 
 
 ## Airworthiness Requirements
@@ -668,11 +675,11 @@ Aviation Weather 应该是可以访问的
 
 TODO:
 
-需要更加精确的计算和控制 
 
 
 
-先要熟悉基本参数 再加上临场的 各种动态参数
+
+
 
 Sentry ADS-B 
 
@@ -686,3 +693,12 @@ Radio failure: declare emergency
 
 
 
+# Practical
+
+How to use ForeFlight when you are in the air? 
+
+Weather
+Track Logging 
+Flight Plan
+
+先要熟悉基本参数(performance, 各种V speed) 再加上临场环境的各种动态参数(wind direction, reference point, altimeter) 来进行精确的操作
