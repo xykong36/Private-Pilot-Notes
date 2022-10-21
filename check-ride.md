@@ -661,3 +661,16 @@ TODO:
 
 
 先要熟悉基本参数 再加上临场的 各种动态参数
+
+Sentry ADS-B 
+
+
+
+Circuit braker:
+
+Pop out 
+
+Radio failure: declare emergency 
+
+
+

@@ -56,6 +56,23 @@ Solo 必备Checklist
 
 
 
+TODO:
+
+* 
+
+
+
+## 10.16 
+
+Training Plan
+
+* 培养对于飞机的感觉 feeling 感受force, air, engine, 加速 减速 steep bank shallow bank, engine 
+* Turn around the point
+* high altitude work: slow flight + steep turn + power off stall + power on stall 
+* 尝试stablize the pattern work
+
+
+
 ## 10.9. Long Solo X/C
 
 ### 飞行路线

@@ -485,8 +485,6 @@ Visual Checkpoint
 
 
 
-
-
 ### 4. Air Facts: Where Is It Really
 
 ### 5. Flight Planning and Computations
