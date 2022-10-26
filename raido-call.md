@@ -1,9 +1,11 @@
 Online courses:
 
 - [Say it Right - AOPA](https://www.aopa.org/training-and-safety/online-learning/online-courses/say-it-right)
--
 
 ## Basics
+- [ATC Communications and Radio Basics](https://www.youtube.com/watch?v=zBWVfz6GEgk)
+
+
 
 Message:
 

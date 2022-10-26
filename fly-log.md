@@ -12,7 +12,7 @@ TODO:
     - [ ]  Test shallow turn / medium turn / steep turn 
     - [ ]  需要一些back pressure 来克服horizontal lift 
   - [ ] Power on / off Stall
-  - [ ] Steep Turn 
+  - [x] Steep Turn 
     - [ ]  左右的Sight Picture 是不一样的
       - [ ]  Left tend to 
   - [ ] Short Field Takeoff + Landing 
@@ -29,6 +29,71 @@ TODO:
 - [ ] Flight Training的全部视频重新看一遍
 - [x] 学习如何给飞机加油 需要一个ground wire ? 
 - [ ] Read the Pilot's Operating Handbook (POH)
+
+
+
+
+
+PHAK C16 Wind Triangle
+
+```gfm
+- [ ] This task is incomplete.
+```
+
+
+
+- [ ] This task is incomplete
+
+
+
+Knowledge
+
+- [ ] MIT Lectures
+- [ ] 
+
+Airspace
+
+Lec04 Aircraft System 
+
+Lec 12 Aircraft Performance
+
+Lec 15 Flight Planning
+
+Lec 18 Weight & Balance
+
+## MIT Private Pilot Ground School
+
+### Links
+
+* Lecture notes: https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/lecture-notes/index.htm
+
+### Lecture Notes:
+
+
+
+the aspect ratio is **the ratio of width and height**
+
+which 
+
+
+
+p-factor: 
+
+What is gyroscopes? 
+
+Long wing 
+
+## Fore Flight
+
+Weather
+
+Track Logging 
+
+https://www.youtube.com/watch?v=MFRoQrqvF30&ab_channel=MidlifePilot 
+
+## Weight & Balance
+
+
 
 
 
@@ -59,6 +124,22 @@ Solo 必备Checklist
 TODO:
 
 * 
+
+## 10.22
+
+### 训练科目 
+
+* Fly around a point 
+* Steep Turn
+* Power off landing 
+
+
+
+### 需要改进的
+
+* power off landing 距离还是短了，第一次的时候直接在final go around , 而且best glide speed好像记错了
+* 注意放flap的时候是会先有lift 升高的情况，会先climb一小段然后再开始 steeper descent
+* fly around a point的时候 在不同角度的需要有不同的bank angel
 
 
 

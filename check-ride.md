@@ -1,11 +1,147 @@
+# How to Prepare for a check-ride 
+
+* [How to prepare and pass your checkride – tips from a pilot examiner](https://www.youtube.com/watch?v=xOnAX9pZTo8 )
+* MIT Private Pilot Ground School 
+  * [Lecture Videos]( https://www.youtube.com/watch?v=jeI3wpulyPw&list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25&index=1) 
+  * [Lecture Notes](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/lecture-notes/)
 
 
-# How to Prepare for a checkride 
 
-yt video: https://www.youtube.com/watch?v=xOnAX9pZTo8 
-mock checkride video: https://www.youtube.com/watch?v=gO7sw1X7iME 
+
+参考资料准备
+
+* paper: 
+  * 查regulation
+  * 查基本词汇: MIT notes + handbook
+  * 各种chart
+    * aircraft performance chart 
+    * airport supplement chart
+    * sectional chart 
+* digital
+  * Foreflight
+  * E6B calculator
+
+## For Fun
+
+* [Rare: U.S. Navy Blue Angels Preflight Brief in HD (July 2021)](https://www.youtube.com/watch?v=KlAPamTbryg&ab_channel=CharlesAtkeison) 
+* [Aerobatic Champion Demonstrates Loops and Spins](https://www.youtube.com/watch?v=1tbOwRiV1QQ&ab_channel=SmithsonianNationalAirandSpaceMuseum)
+
+
+
+Quiz: 
+
+* In a turn, you must **apply back pressure on the elevator**
+
+* **Attitude indicator** is used to verify and crosscheck the attitude of the airplane
+
+* **The relationship between a point on the airplane and the horizon** is the primary reference for attitude when looking outside the airplane
+
+* **The attitude** is the position of the airplane relative to the horizon.
+
+* **The wings of the miniature airplane of the turn coordinator** is the primary reference for attitude when looking inside the airplane.
+
+  
+
+## Chapter 6. Flight Controls
+
+* Primary Flight Controls
+  	* alierons - Roll
+  	* elevator / stabilator - Pitch
+  	* rudder - Yaw 
+
+## 
+
+Types of Airports
+
+Nontowered Airport
+
+同一个方向的Runway 可以用后缀来区分 L(Left), C(Center), R(Right)
+
+
+
+[Airport Markings](https://www.youtube.com/watch?v=MrrL92AH23A)
+
+[Airport Signage](https://www.youtube.com/watch?v=VCDo9xJk4YE)
+
+* Mandatory Instruction Signs
+* Location Signs
+* Direction Signs
+* Runway Distance Remaining Signs
+* Information Signs
+* Destination Signs
+
+[Airport Lighting](https://www.youtube.com/watch?v=FSl8iIpeHEk)
+
+
+
+
+
+* * 
+
+
+
+## Abbreviation & Acronym
+
+* **GS**: groundspeed GS determines the time the flight will take. -> gas consumption
+
+* **TAS**: true airspeed no wind -> true airspeed == ground speed
+
+* **WCA**(Wind Correction Angle):  
+
+* **CTAF**: Common Traffic Advisory Frequency
+
+* **UNICOM**: Universal Integrated Community , is a nongovernment air/ground radio communication station that may provide airport airport information
+
+  
+
+## Concepts 
+
+* **Pilotage**: navigation by reference to landmarks or checkpoints
+* **Dead Reckoning**: navigation solely by means of computations based on time, airspeed, distance, and direction. the products derived from these variables, when adjusted by wind speed and velocity, are heading and GS.  
+* **Variation**: the angle between TN and magnetic north(MN).
+* **Course**: Intended path of an aircraft over the ground
+* **Heading**: Direction in which the nose of the aircraft points during flight
+* **Track**: 
+
+* **Magnetic Deviation**:  
+
+### Key Points
+
+* Timezone -> sunset time
+* Wind Triangle / Vector Analysis -> determine the heading 
+* Flight Planning
+
+
+
+## Q & A Buffer
+
+
+
+Q: What is High pressure / Low pressure area ?
+
+Q: How to crank the engine ? 
+
+Q: Magnetic Heading 和 True Heading 有什么区别？ 
+
+Q: set the high intensity runway lights 是直接可以由pilot进行的? 
+
+A: Yes, press the radio call button 
+
+Q: What is the induced drag: 
+
+[汽车空气阻力分量中诱导阻力的实质究竟是什么？ - 公紫小桓的回答 - 知乎](https://www.zhihu.com/question/26372617/answer/1976934531)
+
+Q: What is the dew point ?
+
+Q: How do variations in temperature affect the altimeter?  
+
+**Pressure levels are raised on warm days and the indicated altitude is lower than true altitude.**
+
+
 
 # Oral
+
+* [Private Pilot Checkride - Oral Exam - Full Version W/ Chapters](https://www.youtube.com/watch?v=eer36BT_V5I&list=WL&index=2&t=3223s)
 
 
 ## Notes
@@ -17,32 +153,99 @@ mock checkride video: https://www.youtube.com/watch?v=gO7sw1X7iME
 
 ## Q & A
 
+### Weather
+
+METAR example
+
+![img](D:\repos\Private-Pilot-Notes\screenshot\METAR.jpg)
+
+Q: Describe the different types of fronts
+
+A:
+
+* Cold front: occurs when a mass of cold, dense, and stable air advances and replaces a body of warmer air
+* Occluded front: A frontal occlusion occurs when a fast-moving cold front catches up with a slow-moving warm front.
+* Warm front: The boundary area formed when a warm air mass contacts and flows over a colder air mass
+* Stationery front: when the forces of two air masses are relatively equal
+
+
+
+Q:What weather sources did you use to obtain your briefing for this flight ? What are other ways to obtain weather briefings ? 
+
+* 1-800-WXBRIEF (phone or website), Aviation Weather Center, ForeFlight
+
+Q: Walk me throught your weather briefing
+
+* Be expected to run through your weather briefing, explaining TFRs, NOTAMS, AIRMETs, SIGMETs, PIREPs, METARs, TAFs
+
+
+
+Q: What happens if the temperature and dew point are close together
+
+A: Likely formation of visible moisture - fog, clouds, or dew  
+
+
+
+Q: What kind of weather can you expect in a low-pressure system vs. a high-pressure system ? 
+
+A; Low -> bad weather (cloudiness / precipitation) High -> good weather (dissipation of cloudiness)
+
+
+
+Q: What types of briefings can you obtain ? 
+
+
+
+Q: What are some ways you can get weather information in-flight ? 
+
+Q: Name and describe three different types of fog
+
+* Describe the types of clouds, turbulence, precipitation, and visibility characteristic of stable and unstable air
+* What conditions are necessary for structural icing to occur ? 
+* Is frost on the wings dangerous ? Why ? 
+* What factors are necessary for a thunderstorm to form ? 
+* What do closely-spaced together isobards indicate ?
+
+
+
+
+
+Airport Lighting + Marking + Signage
+
+### Operation of Systems (Aircraft + Instrument)
+
+Q: What is magneto and what is spark ? 
+
+![engine](.\screenshot\engine-spark-magneto.jpg)
+
+
+
+
+
+
+
+![img](.\screenshot\parts-of-a-piston-engine.jpg)
+
+### Aerodynamics
+
+Q: Four forces 
+
+A:
+
+* Thrust
+* Drag
+* Lift:
+* Weight
+
+
+
 ## Tools
 * NOTAM Search: https://notams.aim.faa.gov/notamSearch/nsapp.html#/
 * ForeFLight
   * [How I Use ForeFlight as a VFR Private Pilot | Part 1](https://www.youtube.com/watch?v=MFRoQrqvF30&ab_channel=MidlifePilot)
+* GARMIN 435 3-COM User Manual: https://static.garmin.com/pumac/190-01878-05_A.pdf
 
-Chair Fly:
-
-* blue angels https://www.youtube.com/watch?v=KlAPamTbryg&ab_channel=CharlesAtkeison 
-
-需要准备的清单
-
-每次必备
-
-* 充电宝
-
-### Common Failure Points
-
-* Getting Lost
-* Following the "Megenta Line" -> especially the wrong one
-* Getting bogged down in systems, fly the plane first
-* Short Field Landings
-* Busting Minimums  ??  For IFR
-* Airspace knowledge !! 
-* Aircraft Systems
-
-
+* FAA official site: https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/ 
 
 
 
@@ -54,14 +257,9 @@ flaps: the panels on the trailing edge of the inboard parts of the wings.
 
 flaps change the chord of the wing and increases both lift and drag. extending the flaps allows the landing approach to be steeper and slower. 
 
-
-
 Look outside
 
-凭感觉来做反应 因为你有reference 哪一些感觉是不可靠的 哪一些是可靠的 而且
-
-
-
+凭感觉来做反应 因为你有reference 但是需要区分一下哪些感觉是不可靠的 哪些是可靠的 而且
 
 
 When do you need a crosswind correction ? 
@@ -71,6 +269,22 @@ Taxi
 Pattern work 
 
 Take off  + Landing 
+
+Common Mistakes:
+
+
+
+## Common Failure Points
+
+* Getting Lost
+* Following the "Megenta Line" -> especially the wrong one
+* Getting bogged down in systems, fly the plane first
+* Short Field Landings
+* Busting Minimums  ??  For IFR
+* Airspace knowledge !! 
+* Aircraft Systems
+
+
 
 ### The Overlooked Failure Items
 
@@ -82,41 +296,14 @@ Take off  + Landing
 
 
 
-先从大类分章节 开始准备,最后要筛选出重难点
 
 
 
-大类包括
 
-* Weather
-* Regulations
-* Airport Lighting + Marking + Flight Planning 
-* Operation of Systems (Aircraft + Instrument)
-* Aerodynamics
+* 
 
+Why down elevator ? 
 
-
-Why down elevator
-
-后面来的tail wind , correction 是全部是朝向downwind, upwind是在同侧 elevator down 防止把尾巴吹翘起来
-
-如果是前面来的 head wind, correction, upwind 是在风的来向 左边风 左边
-
-
-
-left headwind correction, neutral + left 
-
-![image-20220922203715136](/Users/xiangyukong/repos/Private-Pilot-Notes/screenshot/left-headwind-correction.png)
-
-
-
-right tailwind correction, push down + left
-
-![image-20220922203547206](./screenshot/right-tailwind-correction.png)
-
-
-
-![Taxiing in a Crosswind - PilotWorkshops](https://pilotworkshop.com/wp-content/uploads/2015/06/crosswind_taxi_UPDATED.png)
 
 
 
@@ -128,11 +315,7 @@ Right of Way Rules:
 
 https://www.youtube.com/watch?v=Xak2gkqX6wQ
 
-
-
 Missed Knowledge Test Question
-
-
 
 * PA.I.C.K3f f. Clouds
 * PA.I.E.K3 Special use airspace (SUA), special flight rules areas (SFRA), temporary flight restrictions (TFR), and other airspace areas.
@@ -152,8 +335,6 @@ Missed Knowledge Test Question
 
 * PA.II.B.K1 Passenger briefing requirements, to include operation and required use of safety restraint systems.
 * PA.III.A.K8 National Transportation Safety Board (NTSB) accident/incident reporting.
-
-
 
 
 
@@ -187,38 +368,12 @@ Missed Knowledge Test Question
 * Do you need a heading indicator for your flight ? How about an altimeter ? 
   * **ATOMATOFLAMES**: for Day VFR flight - A heading indicator is not required, but an altimeter is required
 
-
-
 ## Weather 
 
-* What weather sources did you use to obtain your briefing for this flight ? What are other ways to obtain weather briefings ? 
-  * 1-800-WXBRIEF (phone or website), Aviation Weather Center, ForeFlight
-* Walk me throught your weather briefing
-  * Be expected to run through your weather briefing, explaining TFRs, NOTAMS, AIRMETs, SIGMETs, PIREPs, METARs, TAFs
-* What happens if the temperature and dew point are close together
-  * Likely formation of visible moisture - fog, clouds, or dew  
-* What kind of weather can you expect in a low-pressure system vs. a high-pressure system ? 
-  * Low -> bad weather (cloudiness / precipitation)
-  * High -> good weather (dissipation of cloudiness)
-
-* What types of briefings can you obtain ? 
-
-* What are some ways you can get weather information in-flight ? 
-
-* Name and describe three different types of fog
-
-* Describe the types of clouds, turbulence, precipitation, and visibility characteristic of stable and unstable air
-
-* What conditions are necessary for structural icing to occur ? 
-
-* Is frost on the wings dangerous ? Why ? 
-
-* What factors are necessary for a thunderstorm to form ? 
-
-* What do closely-spaced together isobards indicate ?
-
+* 
   
-
+  
+  
   
 
 ## Hunman Factors
@@ -318,11 +473,6 @@ Missed Knowledge Test Question
   * Takeoff and landing distances
 
 
-
-
-
-
-
 ## 可以翻书查的
 
 * 飞机注册相关的Regulation 
@@ -331,15 +481,9 @@ Missed Knowledge Test Question
 
 
 
-
-GARMIN 435 3-COM User Manual: https://static.garmin.com/pumac/190-01878-05_A.pdf
-
 # Questions
 
-
-
 ## Maneuver
-
 
 
 # Airman Certification Standards (ACS)
@@ -347,8 +491,6 @@ GARMIN 435 3-COM User Manual: https://static.garmin.com/pumac/190-01878-05_A.pdf
 ## I. Preflight Preparation
 
 ### A. Pilot Qualifications
-
-
 
 **PA.I.A.K1 - Certification Requirements**
 
@@ -400,8 +542,6 @@ GARMIN 435 3-COM User Manual: https://static.garmin.com/pumac/190-01878-05_A.pdf
   * BasicMed Documents / Medical Certificate
   * Solo student must have endorsed logbook 
 
-
-
 **PA.I.A.K5 **
 
 ### B. Airworthiness Requirements
@@ -451,10 +591,6 @@ Inspection:
 
 
 
-关于VOR 
-
-
-
 ### E. National Airspace System
 
 ### F. Performance and Limitations
@@ -463,7 +599,7 @@ Inspection:
 
 ### H. Human Factors
 
-### 
+
 
 ## II. Preflight Procedures
 
@@ -475,6 +611,21 @@ Inspection:
 
 ### D. Taxiing
 
+后面来的tail wind , correction 是全部是朝向downwind, upwind是在同侧 elevator down 防止把尾巴吹翘起来
+
+如果是前面来的 head wind, correction, upwind 是在风的来向 左边风 左边
+
+left headwind correction, neutral + left 
+
+![image-20220922203715136](./screenshot/left-headwind-correction.png)
+
+right tailwind correction, push down + left
+
+![image-20220922203547206](./screenshot/right-tailwind-correction.png)
+
+
+![Taxiing in a Crosswind - PilotWorkshops](https://pilotworkshop.com/wp-content/uploads/2015/06/crosswind_taxi_UPDATED.png)
+
 ### F. Before Takeoff Check
 
 
@@ -485,7 +636,9 @@ Inspection:
 
 ### B. Traffic Patterns
 
-### 
+
+
+
 
 ## IV. Takeoffs, Landings, and Go-Arounds
 
@@ -501,8 +654,6 @@ Inspection:
 
 ### F. Short-Field Approach and Landing
 
-
-
 ### M. Forward Slip to a Landing (斜着飞 快速Descent用的)
 
 ### N. Go-Around / Rejected Landing
@@ -515,7 +666,9 @@ Inspection:
 
 ### B. Ground Reference Maneuvers
 
-### 
+
+
+
 
 ## VI. Navigation
 
@@ -548,11 +701,16 @@ Setup:
 Procedure
 
 * Reduce power to 1500 RPM, slow to 60 MPH(Vx for short field take off) We use Vx immediately after takeoff to clear obstacles, followed by Vy to reach our cruising altitude quickly.
+
 * Apply power to 2200 RPM, apply **right rudder** to maintain coordination
+
 * Pitch up to maintain a slow, constant rate of deceleration
+
 * Recognize and announce the signs of the approaching stall
+
 * Stay coordinated, maintaining bank or heading
-* 
+
+  
 
 ### D. Spin Awareness
 
@@ -607,89 +765,20 @@ yoke -> power -> trim  最后的状态是松手之后还是level flight
 ### A. Night Preparation
 
 
-
 ## XII. Postflight Procedures
-
-### A. After Landing, Parking and Securing
-
-
-
-
-
-
-
-
-
-基本名词解释 -> 看MIT Ground School Notes 
-
-
-
-参考资料准备
-
-* paper: 
-  * 查regulation
-  * 查基本词汇: MIT notes + handbook
-  * 各种chart
-    * aircraft performance chart 
-    * airport supplement chart
-    * sectional chart 
-* digital: (TODO: 可以使用app吗)
-  * foreflight ?
-  * E6B calculator
+### A. After Landing, Parking and Securing 
 
 
 
 ## Takeoffs, Landings, and Go-Arounds
 
-
-
 ## Performance and Ground Reference Maneuvers
-
-
-
-## 
 
 ### Power on stall
 
 
 
-TODO:
 
-各种manuvear
-
-
-
-增加
-
-
-
-准备
-
-Weight / Balance 可能是比较薄弱的点
-
-重新review之前Knowledge Test的错题 + Video 
-
-Aviation Weather 应该是可以访问的
-
-
-
-TODO:
-
-
-
-
-
-
-
-Sentry ADS-B 
-
-
-
-Circuit braker:
-
-Pop out 
-
-Radio failure: declare emergency 
 
 
 
@@ -701,4 +790,9 @@ Weather
 Track Logging 
 Flight Plan
 
-先要熟悉基本参数(performance, 各种V speed) 再加上临场环境的各种动态参数(wind direction, reference point, altimeter) 来进行精确的操作
+## Tips
+
+* 先要熟悉基本参数(performance, 各种V speed) 再加上临场环境的各种动态参数(wind direction, reference point, altimeter) 来进行精确的操作
+
+* 
+

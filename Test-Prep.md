@@ -1,21 +1,18 @@
 ## Chapter 1 Basic Aerodynamics
 
 # Concepts
-* Aerodynamic Terms
-  * *airfoil*: a structure or body which produces a useful reaction to air movement
-  * *chord line*
-  * *relative wind*
-  * *angle of attack*: the angle between the chord line of the airfoil and the relative wind. By manipulating the aircraft controls, the pilot can vary the angle of attack.
-  * *angle of incidence*
-  * *drag*: a rearward-acting force which resists the forward movement of an airplane through the air
-    * *parasite drag*: resistance of the air produced by any part of an airplane that does not produce lift
-    * *induced drag*: a by-product of lift.
+* ***airfoil***: a structure or body which produces a useful reaction to air movement
+* ***chord line****: an imaginary straight line from the leading edge to the trailing edge of an airfoil. 
+* **relative wind**: 
+* **angle of attack***: the angle between the chord line of the airfoil and the relative wind. By manipulating the aircraft controls, the pilot can vary the angle of attack.*
+* **drag**: a rearward-acting force which resists the forward movement of an airplane through the air
+  * *parasite drag*: resistance of the air produced by any part of an airplane that does not produce lift
+  * *induced drag*: a by-product of lift.
 * Axes of Rotation and the Four Forces Acting in Flight
-* Stability
-  * *stability*: the inherent ability of an airplane to return, or not return, to its original flight condition after being disturbed by an outside force, such as rough air.
-    * Forward CG
-      * Increased longitudinal stability 
-    * Aft CG
+* *stability*: the inherent ability of an airplane to return, or not return, to its original flight condition after being disturbed by an outside force, such as rough air.
+  * Forward CG
+    * Increased longitudinal stability 
+  * Aft CG
 * Turns, Loads and Load Factors
   * horizontal lift component
   * vertical lift component 
@@ -27,15 +24,11 @@
 * Stalls and Spins
 * Flaps
 * Ground Effect
-  * video: https://www.youtube.com/watch?v=JP25m4SIrJI 
+  * [What is Ground Effect?](https://www.youtube.com/watch?v=JP25m4SIrJI)
   * flying within **one wingspan or less** above the surface
 * Wake Turbulence
   * 
 
-### Questions Review
-
-* 1-11 3212. What causes an airplane to pitch nosedown when power is reduced and controls are not adjusted. 
-* 1-12 3211-1 center of pressure of a wing affects the aircraft's **aerodynamic balance and controllability**
 
 ## Chapter 2 Aircraft Systems
 * Reciprocating Engines
@@ -62,7 +55,7 @@
 * Magnetic Compass
 
 ## Chapter 4 Regulations
-... 
+
 
 ## Chapter 5 Procedures and Airport Operations
 * Uncontrolled and Tower-Controlled Airports
@@ -139,25 +132,15 @@
 * Emergency Locator Transmitter (ELT)
 
 
-
-
-
-
-
 # [Test-Prep] Aircraft Performance
 
 Q: The positive limit load factor 
 
 Vg Diagram
 
-
-
 load factor ?
-
 How to calculate moment ?
-
 PIC's responsibility ?
-
 What is ground effect ?
 
 
@@ -252,10 +235,6 @@ Stall airspeed
 
 Stall angle of attack
 
-
-
-high density alt
-
 centrifugal force ? 
 
 
@@ -321,6 +300,31 @@ https://www.youtube.com/watch?v=c6ZieuNvjHw
 https://www.youtube.com/watch?v=V_AgxK9JQVU 
 
 
+
+two categories of air
+
+Controlled Airspace
+
+
+
+Uncontrolled Airspace
+
+
+
+Special Use Airspace
+
+* Prohibited Areas
+* Restricted Areas
+* Warning Areas
+* Military Operation Areas (MOAs)
+* Alert Areas
+* Controlled Firing Areas (CFAs)
+
+Other Airspace Areas
+
+* Military training route (MTR)
+* Temporary flight restriction (TFR)
+* Air Defense Identification Zones (ADIZ)
 
 ### Airport Markings
 
