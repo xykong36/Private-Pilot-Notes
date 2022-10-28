@@ -21,6 +21,9 @@ Avoid the collision
 
 ### When to Make a radio call
 
+* Class B clearance
+  * `request clearnce into the Class Bravo`
+
 - Radio Check Call
 
   - "Monroe Unicom, Radio Check"

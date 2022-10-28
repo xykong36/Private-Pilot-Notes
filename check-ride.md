@@ -5,10 +5,18 @@
   * [Lecture Videos]( https://www.youtube.com/watch?v=jeI3wpulyPw&list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25&index=1) 
   * [Lecture Notes](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/lecture-notes/)
 
+## Tools
+
+* NOTAM Search: https://notams.aim.faa.gov/notamSearch/nsapp.html#/
+* ForeFLight
+  * [How I Use ForeFlight as a VFR Private Pilot | Part 1](https://www.youtube.com/watch?v=MFRoQrqvF30&ab_channel=MidlifePilot)
+* GARMIN 435 3-COM User Manual: https://static.garmin.com/pumac/190-01878-05_A.pdf
+
+* FAA official site: https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/ 
 
 
 
-参考资料准备
+## 参考资料准备
 
 * paper: 
   * 查regulation
@@ -28,6 +36,8 @@
 
 
 
+
+
 Quiz: 
 
 * In a turn, you must **apply back pressure on the elevator**
@@ -42,68 +52,9 @@ Quiz:
 
   
 
-## Chapter 6. Flight Controls
-
-* Primary Flight Controls
-  	* alierons - Roll
-  	* elevator / stabilator - Pitch
-  	* rudder - Yaw 
-
-## 
-
-Types of Airports
-
-Nontowered Airport
-
-同一个方向的Runway 可以用后缀来区分 L(Left), C(Center), R(Right)
+https://www.youtube.com/watch?v=FSl8iIpeHEk)
 
 
-
-[Airport Markings](https://www.youtube.com/watch?v=MrrL92AH23A)
-
-[Airport Signage](https://www.youtube.com/watch?v=VCDo9xJk4YE)
-
-* Mandatory Instruction Signs
-* Location Signs
-* Direction Signs
-* Runway Distance Remaining Signs
-* Information Signs
-* Destination Signs
-
-[Airport Lighting](https://www.youtube.com/watch?v=FSl8iIpeHEk)
-
-
-
-
-
-* * 
-
-
-
-## Abbreviation & Acronym
-
-* **GS**: groundspeed GS determines the time the flight will take. -> gas consumption
-
-* **TAS**: true airspeed no wind -> true airspeed == ground speed
-
-* **WCA**(Wind Correction Angle):  
-
-* **CTAF**: Common Traffic Advisory Frequency
-
-* **UNICOM**: Universal Integrated Community , is a nongovernment air/ground radio communication station that may provide airport airport information
-
-  
-
-## Concepts 
-
-* **Pilotage**: navigation by reference to landmarks or checkpoints
-* **Dead Reckoning**: navigation solely by means of computations based on time, airspeed, distance, and direction. the products derived from these variables, when adjusted by wind speed and velocity, are heading and GS.  
-* **Variation**: the angle between TN and magnetic north(MN).
-* **Course**: Intended path of an aircraft over the ground
-* **Heading**: Direction in which the nose of the aircraft points during flight
-* **Track**: 
-
-* **Magnetic Deviation**:  
 
 ### Key Points
 
@@ -129,7 +80,7 @@ A: Yes, press the radio call button
 
 Q: What is the induced drag: 
 
-[汽车空气阻力分量中诱导阻力的实质究竟是什么？ - 公紫小桓的回答 - 知乎](https://www.zhihu.com/question/26372617/answer/1976934531)
+A: [汽车空气阻力分量中诱导阻力的实质究竟是什么？ - 公紫小桓的回答 - 知乎](https://www.zhihu.com/question/26372617/answer/1976934531)
 
 Q: What is the dew point ?
 
@@ -144,6 +95,72 @@ Q: How do variations in temperature affect the altimeter?
 * [Private Pilot Checkride - Oral Exam - Full Version W/ Chapters](https://www.youtube.com/watch?v=eer36BT_V5I&list=WL&index=2&t=3223s)
 
 
+
+
+
+## FAR 
+
+### [Part 61.](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61)
+
+* 61.3 Requirements for certificates, ratings, and authorizations
+* 61.15 Offenses involving alcohol or drugs
+* 61.23 Medical certificates: Requirement and duration
+* 61.31 Type rating requirements, additional training, and authorization requirements
+* 61.56 Flight review
+* 61.57 Recent flight experience: Pilot in command
+* 61.60 Change of address
+* 61.69 Glider and unpowered ultralight vehicle towing: Experience and training requirements.
+* 61.95 Operations in Class B airspace and at airports located within Class B airspace.
+* 61.113 Private pilot privileges and limitations: Pilot in command.
+
+### [Part 91.](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91) 
+
+* 91.3 Responsibility and authority of the pilot in command
+* 91.7 Civil aircraft airworthiness
+* 91.9 Civil aircraft flight manual, marking, and placard requirements
+* 91.15 Dropping objects
+* 91.17 Alcohol of drugs
+* 91.103 91.103 Preflight action
+* 91.105 Flight crewmembers at stations
+* 91.107 Use of safety belts, shoulder harnesses, and child restraint systems
+* 91.111 Operating near other aircraft
+* 91.113 Right-of-way rules: Except water operations
+* 91.115 Right-of-way rules: Water operations
+* 91.117 Aircraft speed
+* 91.119 Minimum safe altitudes: General
+* 91.121 Altimeter settings
+* 91.123 Compliance with ATC clearances and instructions
+* 91.125 ATC light signals
+* 91.126 Operating on or in the vicinity of an airport in Class G airspace
+* 91.127 Operating on or in the vicinity of an airport in Class E airspace
+* 91.129 Operations in Class D airspace
+* 91.130 Operations in Class C airspace
+* 91.131 Operations in Class B airspace
+* 91.135 Operations in Class A airspace
+* 91.151 Fuel requirements for flight in VFR conditions
+* 91.155 Basic VFR weather minimums
+* 91.157 Special VFR weather minimums
+* 91.159 VFR cruising altitude or flight level
+* 91.203 Civil aircraft: Certifications required
+* 91.205 Powered civil aircraft with standard category U.S airworthiness certificates: Instrument and equipment requirements
+* 91.207 Emergency locator transmitters
+* 91.209 Aircraft lights
+* 91.211 Supplemental oxygen
+* 91.215 ATC transponder and altitude reporting equipment and use
+* 91.303 Aerobatic flight
+* 91.307 Parachutes and parachuting
+* 91.309 Towing: Gliders and unpowered ultralight vehicles
+* 91.313 Restricted category civil aircraft: Operating limitations
+* 91.319 Aircraft having experimental certificates: Operating limitations
+* 91.403 Maintenance, Preventive Maintenance, and Alterations General
+* 91.405 Maintenance required
+* 91.407 Operation after maintenance, preventive maintenance, rebuilding, or alteration
+* 91.409 Inspections
+* 91.413 ATC transponder tests and inspections
+* 91.417 Maintenance records
+
+
+
 ## Notes
 
 * MIT Private Pilot Ground School https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/lecture-notes/index.htm
@@ -151,13 +168,75 @@ Q: How do variations in temperature affect the altimeter?
 
 
 
-## Q & A
+Manual
 
-### Weather
+* GARMIN 435 3-COM User Manual: https://static.garmin.com/pumac/190-01878-05_A.pdf
+
+
+
+## Abbreviation & Acronym
+
+* **GS**: groundspeed GS determines the time the flight will take. -> gas consumption
+
+* **TAS**: true airspeed no wind -> true airspeed == ground speed
+
+* **WCA**(Wind Correction Angle):  
+
+* **CTAF**: Common Traffic Advisory Frequency
+
+* **UNICOM**: Universal Integrated Community , is a nongovernment air/ground radio communication station that may provide airport airport information
+
+* **TAF**
+
+  
+
+
+
+## Concepts 
+
+* **Pilotage**: navigation by reference to landmarks or checkpoints
+* **Dead Reckoning**: navigation solely by means of computations based on time, airspeed, distance, and direction. the products derived from these variables, when adjusted by wind speed and velocity, are heading and GS.  
+* **Variation**: the angle between TN and magnetic north(MN).
+* **Course**: Intended path of an aircraft over the ground
+* **Heading**: Direction in which the nose of the aircraft points during flight
+* **Track**: 
+
+* **Magnetic Deviation**:  
+
+
+
+## Missed Knowledge Test Question
+
+* PA.I.C.K3f f. Clouds
+* PA.I.E.K3 Special use airspace (SUA), special flight rules areas (SFRA), temporary flight restrictions (TFR), and other airspace areas.
+* PA.I.F.K2f f. Weight and balance
+  * CG
+
+* PA.I.F.R2 Exceeding airplane limitations
+  * Normal / Utility
+
+* PA.I.G.K1h Pitot-static, vacuum/pressure, and associated flight instruments
+  * Altitude Indicator
+  * Airspeed Indicator
+  * Vertical Speed Indicator
+  * Heading Indicator
+  * Turn Coordinator
+  * Attitude Indicator
+
+* PA.II.B.K1 Passenger briefing requirements, to include operation and required use of safety restraint systems.
+* PA.III.A.K8 National Transportation Safety Board (NTSB) accident/incident reporting.
+
+
+
+
+
+# Q & A
+
+## Weather
 
 METAR example
 
-![img](D:\repos\Private-Pilot-Notes\screenshot\METAR.jpg)
+![img](.\screenshot\METAR.jpg)
 
 Q: Describe the different types of fronts
 
@@ -170,7 +249,7 @@ A:
 
 
 
-Q:What weather sources did you use to obtain your briefing for this flight ? What are other ways to obtain weather briefings ? 
+Q: What weather sources did you use to obtain your briefing for this flight ? What are other ways to obtain weather briefings ? 
 
 * 1-800-WXBRIEF (phone or website), Aviation Weather Center, ForeFlight
 
@@ -194,30 +273,78 @@ A; Low -> bad weather (cloudiness / precipitation) High -> good weather (dissipa
 
 Q: What types of briefings can you obtain ? 
 
+A:
+
+* Standard briefing: most complete, this type of  
+* Outlook briefing: requested when a planned departure is 6 hours or more away. 
+* Abbreviated Briefing: a shortened version of the standard briefing. It should be requested when a departure has been delayed or when weather information is need to update the previous briefing.
+
 
 
 Q: What are some ways you can get weather information in-flight ? 
 
+
+
 Q: Name and describe three different types of fog
 
 * Describe the types of clouds, turbulence, precipitation, and visibility characteristic of stable and unstable air
+
 * What conditions are necessary for structural icing to occur ? 
+
 * Is frost on the wings dangerous ? Why ? 
+
 * What factors are necessary for a thunderstorm to form ? 
-* What do closely-spaced together isobards indicate ?
+
+  
+
+  What do closely-spaced together isobards indicate ?
+
+
+
+Q: wind drift correction
+
+* Taxi
+* Maneuvers / Pattern work 
+* Take off  + Landing 
+* Stashed changes
 
 
 
 
 
-Airport Lighting + Marking + Signage
 
-### Operation of Systems (Aircraft + Instrument)
+
+## Airport Lighting + Marking + Signage
+
+### Tips
+
+* 同一个方向的Runway 可以用后缀来区分 L(Left), C(Center), R(Right)
+
+* 注意提前看好Runway 的宽度，因为会有illusion, 宽的跑道让你感觉离地面更近，窄的跑道让你觉得离地面更高
+
+
+
+[Airport Markings](https://www.youtube.com/watch?v=MrrL92AH23A)
+
+[Airport Signage](https://www.youtube.com/watch?v=VCDo9xJk4YE)
+
+* Mandatory Instruction Signs
+* Location Signs
+* Direction Signs
+* Runway Distance Remaining Signs
+* Information Signs
+* Destination Signs
+
+
+
+## Operation of Systems (Aircraft + Instrument)
+
+
 
 Q: What is magneto and what is spark ? 
 
-![engine](.\screenshot\engine-spark-magneto.jpg)
 
+![engine](.\screenshot\engine-spark-magneto.jpg)
 
 
 
@@ -239,14 +366,6 @@ A:
 
 
 
-## Tools
-* NOTAM Search: https://notams.aim.faa.gov/notamSearch/nsapp.html#/
-* ForeFLight
-  * [How I Use ForeFlight as a VFR Private Pilot | Part 1](https://www.youtube.com/watch?v=MFRoQrqvF30&ab_channel=MidlifePilot)
-* GARMIN 435 3-COM User Manual: https://static.garmin.com/pumac/190-01878-05_A.pdf
-
-* FAA official site: https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/ 
-
 
 
 adverse yaw: the airplane will initially yaw in the opposite direction of the bank 
@@ -256,6 +375,8 @@ in turning flight, the rudder's only function is to counteract the adverse yaw w
 flaps: the panels on the trailing edge of the inboard parts of the wings. 
 
 flaps change the chord of the wing and increases both lift and drag. extending the flaps allows the landing approach to be steeper and slower. 
+
+
 
 Look outside
 
@@ -270,82 +391,33 @@ Pattern work
 
 Take off  + Landing 
 
-Common Mistakes:
 
-
-
-## Common Failure Points
-
-* Getting Lost
-* Following the "Megenta Line" -> especially the wrong one
-* Getting bogged down in systems, fly the plane first
-* Short Field Landings
-* Busting Minimums  ??  For IFR
-* Airspace knowledge !! 
-* Aircraft Systems
-
-
-
-### The Overlooked Failure Items
-
-* Emergency Procedures - Choosing an appropriate off-field landing site
-* Partial Power Engine Emergencies - Think loss of power from a failed cylinder
-* Non-Towered Airport Operations 
-* Forward Slips to Landing
-* VOR Navigation
-
-
-
-
-
-
-
-* 
 
 Why down elevator ? 
 
 
 
 
-![img](./screenshot/airport-signs)
+![img](./screenshot/airport-signs.jpg)
 
 
 
-Right of Way Rules:
+Right of Way Rules: Part 91.113 
 
 https://www.youtube.com/watch?v=Xak2gkqX6wQ
-
-Missed Knowledge Test Question
-
-* PA.I.C.K3f f. Clouds
-* PA.I.E.K3 Special use airspace (SUA), special flight rules areas (SFRA), temporary flight restrictions (TFR), and other airspace areas.
-* PA.I.F.K2f f. Weight and balance
-  * CG
-
-* PA.I.F.R2 Exceeding airplane limitations
-  * Normal / Utility
-
-* PA.I.G.K1h Pitot-static, vacuum/pressure, and associated flight instruments
-  * Altitude Indicator
-  * Airspeed Indicator
-  * Vertical Speed Indicator
-  * Heading Indicator
-  * Turn Coordinator
-  * Attitude Indicator
-
-* PA.II.B.K1 Passenger briefing requirements, to include operation and required use of safety restraint systems.
-* PA.III.A.K8 National Transportation Safety Board (NTSB) accident/incident reporting.
 
 
 
 ## 必须要背的
 
 * Flight Plan 各种variable
+
 * Airspace 的各种rule
+
 * Weather 
   * 各种Weather的缩写
-  * 
-* 各种Manuever的动作要点, 常见错误, 评价标准
+  
+  
 
 
 ## Airworthiness Requirements
@@ -459,9 +531,22 @@ Missed Knowledge Test Question
 
 
 
+
+
+Q: Different type of airspeeds
+
+A: 
+
+* Indicated Airspeed (IAS): read right off your airspeed indicator
+* True Airpseed(TAS): the speed of your aircraft relative to the air it's flying through. As you climb, true airspeed is higher than your indicated airspeed. Pressure decreases with higher altitudes, so for any given true airspeed, as you climb, fewer and fewer air molecules will enter the pitoto tubde.  1000 feet -> 2% higher
+* Groundspeed (GS): The movement of your airplane relative to the ground. It's true airspeed corrected for wind. e.g. TAS 100 knots + tailwind of 20 knots, GS = 120 knots
+* Calibrated Airspeed (CAS): indicated airspeed corrected for instrument and positional errors.  ISA conditions (15 degrees Celsius + 29.92 inches of mercury, 0% humidity)
+
+
+
 ## X/C Flight Planning and National Airspace System
 
-
+* Class B 需要clearance, 必须十分明确的表示 `request clearance into the Class Bravo`
 
 * Besides completing a weather briefing to obtain NOTAMs and weather, what other pre-flight actions are required ? What actions do you personally do ? 
   * NOTAM
@@ -477,6 +562,7 @@ Missed Knowledge Test Question
 
 * 飞机注册相关的Regulation 
 * 一些spatial illusion的名字
+
 
 
 
@@ -607,6 +693,11 @@ Inspection:
 
 ### B. Flight Deck Management
 
+* 手机Foreflight 导航
+* Kneeboard
+* Sentry ADS-B
+* 
+
 ### C. Engine Starting
 
 ### D. Taxiing
@@ -667,8 +758,11 @@ right tailwind correction, push down + left
 ### B. Ground Reference Maneuvers
 
 
+<<<<<<< Updated upstream
 
 
+=======
+>>>>>>> Stashed changes
 
 ## VI. Navigation
 
@@ -770,14 +864,6 @@ yoke -> power -> trim  最后的状态是松手之后还是level flight
 
 
 
-## Takeoffs, Landings, and Go-Arounds
-
-## Performance and Ground Reference Maneuvers
-
-### Power on stall
-
-
-
 
 
 
@@ -789,6 +875,33 @@ How to use ForeFlight when you are in the air?
 Weather
 Track Logging 
 Flight Plan
+
+Primary Flight Controls
+	* alierons - Roll
+	* elevator / stabilator - Pitch
+	* rudder - Yaw 
+
+
+
+## Common Failure Points
+
+* Getting Lost
+* Following the "Megenta Line" -> especially the wrong one
+* Getting bogged down in systems, fly the plane first
+* Short Field Landings
+* Busting Minimums  ??  For IFR
+* Airspace knowledge !! 
+* Aircraft Systems
+
+
+
+## The Overlooked Failure Items
+
+* Emergency Procedures - Choosing an appropriate off-field landing site
+* Partial Power Engine Emergencies - Think loss of power from a failed cylinder
+* Non-Towered Airport Operations 
+* Forward Slips to Landing
+* VOR Navigation
 
 ## Tips
 
