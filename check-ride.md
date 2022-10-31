@@ -120,7 +120,7 @@ Q: How do variations in temperature affect the altimeter?
 * 91.9 Civil aircraft flight manual, marking, and placard requirements
 * 91.15 Dropping objects
 * 91.17 Alcohol of drugs
-* 91.103 91.103 Preflight action
+* 91.103 Preflight action
 * 91.105 Flight crewmembers at stations
 * 91.107 Use of safety belts, shoulder harnesses, and child restraint systems
 * 91.111 Operating near other aircraft
@@ -142,7 +142,7 @@ Q: How do variations in temperature affect the altimeter?
 * 91.157 Special VFR weather minimums
 * 91.159 VFR cruising altitude or flight level
 * 91.203 Civil aircraft: Certifications required
-* 91.205 Powered civil aircraft with standard category U.S airworthiness certificates: Instrument and equipment requirements
+* 91.205 Powered civil aircraft with standard category U.S airworthiness certificates: Instrument and equipment requirements  VFR 
 * 91.207 Emergency locator transmitters
 * 91.209 Aircraft lights
 * 91.211 Supplemental oxygen
@@ -556,6 +556,28 @@ A:
   * Alternatives available
   * Fuel requirements
   * Takeoff and landing distances
+* Class G Air of 14,500 Feet MSL, everything above 14,500 feet MSL is Class E excluding everything above  17999, 
+* Airspace Cloud Requirements
+  * ![img](./screenshot/cloud-requirements.jpg)
+
+* IMSAFE Checklist
+  * Illness
+  * Medication
+  * Stress
+  * Alcohol
+  * Fatigue
+  * Eating / Emotion
+
+* PAVE Checklist
+  * Pilot
+  * Aircraft
+  * Environment
+  * External Pressures  
+
+* Cloud Ceiling: the height above the earth's surface of the lowest layer of clouds or obscuring phenomena, reported as **broken, overcast, obscuration** and not classified as thin or partial
+
+
+
 
 
 ## 可以翻书查的
@@ -758,11 +780,6 @@ right tailwind correction, push down + left
 ### B. Ground Reference Maneuvers
 
 
-<<<<<<< Updated upstream
-
-
-=======
->>>>>>> Stashed changes
 
 ## VI. Navigation
 
