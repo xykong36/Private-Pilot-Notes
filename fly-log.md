@@ -95,8 +95,6 @@ https://www.youtube.com/watch?v=MFRoQrqvF30&ab_channel=MidlifePilot
 
 
 
-
-
 Solo 必备Checklist
 
 * 充电宝
@@ -121,9 +119,33 @@ Solo 必备Checklist
 
 
 
-TODO:
+## 11.5
 
-* 
+### 训练科目 
+
+* Fly around a point
+* Steep Turn
+* Crosswind Landing
+
+
+
+### 需要改进的
+
+* 查wind condition的方式有Foreflight + Windy App  计算Crosswind Component 来保证安全 wind direction 也是一个重要的考虑因素
+* 最后Landing的时候flare 太早了, 在不断贴近runway的过程中不断抬高
+* 还是没有想清楚 S Turn / Turn around a point 的时候 bank level 和wind direction的关系
+* Taxi direction 两条对角线是同样的操作, tail wind -> push yoke, head wind -> neutral position
+* Crosswind 的天气情况下更有可能出现机身左右的摇摆 以及持续抖动 和 clear weather时候得Bumpy condition有一些区别
+* 起飞之前run up check 好像忘记把magneto 调整到both了
+* 今天停飞机的时候停错位置了 重新taxi back 
+
+
+
+几个问题
+
+* Crosswind Landing 最后的时候需要把机头摆正? 那样不会drift么?  Touchdown 的瞬间 同时要有aileron 的调整
+
+
 
 ## 10.22
 
