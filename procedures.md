@@ -99,12 +99,3 @@
 
 
 
-### Spin Recovery - PARE
-
-* P: Power back
-* A: Ailerons neutral
-* R: Rudder opposite spin
-* E: Elevator down
-
-
-

@@ -95,6 +95,8 @@ https://www.youtube.com/watch?v=MFRoQrqvF30&ab_channel=MidlifePilot
 
 
 
+
+
 Solo 必备Checklist
 
 * 充电宝
@@ -115,35 +117,77 @@ Solo 必备Checklist
 
 ### 训练科目
 
-### 需要改进的
+### 需要改进的·
 
 
 
-## 11.5
+## 11.19 
 
-### 训练科目 
+### 训练科目
 
-* Fly around a point
-* Steep Turn
-* Crosswind Landing
-
-
+* Slow Flight
+* Power On / Off Stall
+* Soft Field / Short Field Landing
 
 ### 需要改进的
 
-* 查wind condition的方式有Foreflight + Windy App  计算Crosswind Component 来保证安全 wind direction 也是一个重要的考虑因素
-* 最后Landing的时候flare 太早了, 在不断贴近runway的过程中不断抬高
-* 还是没有想清楚 S Turn / Turn around a point 的时候 bank level 和wind direction的关系
-* Taxi direction 两条对角线是同样的操作, tail wind -> push yoke, head wind -> neutral position
-* Crosswind 的天气情况下更有可能出现机身左右的摇摆 以及持续抖动 和 clear weather时候得Bumpy condition有一些区别
-* 起飞之前run up check 好像忘记把magneto 调整到both了
-* 今天停飞机的时候停错位置了 重新taxi back 
+* Short Field Landing 的时候没有注意Airspeed
+* Slow Flight 的时候没有注意控制好heading 导致了偏航 
+* Power On / Off Stall 的时候向后拉Yoke 要快速 这样可以避免高度掉太多
+* Final Approach的时候可以用Trim 来辅助stable descent angle
+* 在downwind 的时候加了太多flap 
+* downwind start configuration的时候需要加
+* 冬天的时候 Climb 的rate 会增加 
 
 
 
-几个问题
 
-* Crosswind Landing 最后的时候需要把机头摆正? 那样不会drift么?  Touchdown 的瞬间 同时要有aileron 的调整
+
+Question: 
+
+Second Nature很重要 airspeed, 操作步骤, 都是要记住的，
+
+需要临场发挥的
+
+* 保持Heading 
+* 观察Traffic
+* Wind Correction: 涉及到 Rudder, wind correction angle
+* 找路标 checkpoint 确定方位
+
+
+
+需要提前准备的
+
+* checkride 的完整流程 不能有surprise(准备全面)
+* 每个manuever 的步骤 需要避免的常见错误 
+* 各种高度 frequency 机场名称 飞机型号 飞机的performance data
+
+每一步的config set up 都是需要记住的
+
+
+
+Power On Stall: 
+
+* 1500 RPM Slow down airspeed to 60 - 65 rotate
+* Full power -> Pitch up / take off climbing 
+* No Flap
+
+Recover: 直接nose down, get airspeed and then nose up
+
+Slow Flight:
+
+* 1500 RPM 来slow down airspeed
+* 加power 来防止掉高度 加到2100 / 2200 
+
+
+
+Normal Landing 可能出现的错误
+
+* downwind 
+
+Short Field Landing 可能出现的错误 
+
+
 
 
 
@@ -155,8 +199,6 @@ Solo 必备Checklist
 * Steep Turn
 * Power off landing 
 
-
-
 ### 需要改进的
 
 * power off landing 距离还是短了，第一次的时候直接在final go around , 而且best glide speed好像记错了
@@ -166,6 +208,8 @@ Solo 必备Checklist
 
 
 ## 10.16 
+
+### 训练科目 
 
 Training Plan
 
