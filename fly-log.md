@@ -4,7 +4,8 @@ TODO:
 
 
 
-- [ ]  看 Checkride standard https://www.youtube.com/watch?v=yJRkO_6iTWs
+- [ ] 看 Checkride standard https://www.youtube.com/watch?v=yJRkO_6iTWs
+
 - [ ]  重新复习和熟练各种基本操作 
   - [ ] Ground Reference Maneuver
   - [ ] Basic Turn
@@ -17,17 +18,23 @@ TODO:
       - [ ]  Left tend to 
   - [ ] Short Field Takeoff + Landing 
   - [ ] Soft Field Takeoff + Landing
+  
 - [ ] Solo X/C 5 hours 应该是要飞两趟的
 
   - [ ]  finish the first solo X/C 1.8 hrs
 
 - [ ] 熟悉 Emergency Operation, Lost Procedure, 进行Flight Planning的细节
-- [ ] Labor Day 需要重新梳理基础知识 并且进行更精细的操作控制 结合手感 + 精确计算
+
 - [ ] Landing 5 Phases
+
 - [ ] Foward slip + Side Slip
+
 - [ ] # 熟悉飞机上各种仪表的工作原理 + 使用方法， radio, ads-b, gps -> Watch yt videos what's inside the plane 
+
 - [ ] Flight Training的全部视频重新看一遍
+
 - [x] 学习如何给飞机加油 需要一个ground wire ? 
+
 - [ ] Read the Pilot's Operating Handbook (POH)
 
 
@@ -49,7 +56,6 @@ PHAK C16 Wind Triangle
 Knowledge
 
 - [ ] MIT Lectures
-- [ ] 
 
 Airspace
 
@@ -121,6 +127,31 @@ Solo 必备Checklist
 
 
 
+## 11.29 
+
+### 训练科目
+
+* Slow Flight
+* Turn Around A Point
+* Gound School: Mock Oral Exam
+
+
+
+### 需要改进的
+
+* Extend Landing 
+* Flare 太高了 对于landing的具
+
+
+
+一个Base 直接Turn Final 快速Descent 然后再Short Field Landing 
+
+Landing的关键在于判断好你的Airspeed, 高度
+
+Emergency Descent 
+
+
+
 ## 11.19 
 
 ### 训练科目
@@ -128,6 +159,8 @@ Solo 必备Checklist
 * Slow Flight
 * Power On / Off Stall
 * Soft Field / Short Field Landing
+
+
 
 ### 需要改进的
 
