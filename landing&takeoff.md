@@ -4,9 +4,9 @@
 
 
 
+### 核心原则
+
 Power for Altitude -> If you are too high, power out, If you are too low, add power
-
-
 
 Pitch for airspeed -> Maintain stable airspeed, pitch for visibility
 
@@ -34,15 +34,12 @@ C172
 
 
 
-Landing 
-
 
 
 ### Soft Field Landing
 
 * Flap 10
-
-
+* 
 
 
 
@@ -58,11 +55,7 @@ Final: Flap 30
 
 Final 的时候airspeed 稍微低一些70 或者65 这样flare的时候distance会短一些
 
-
-
 Normal Wind Calm
-
-
 
 Maximum Brake: 
 
@@ -71,21 +64,55 @@ Maximum Brake:
 
 
 
+Final Full Flap 之后加一点Power来保持一个比较Steep 但又不会Sink 提前进行操作可以避免最后时候
+
+通过Sight Picture 来确认自己的大概位置
+
+用Number 之后的一个Strip座位Aiming Point 要考虑到自己的
+
+之后再Solo的时候需要
+
+
+
+My Approach: 
+
+* Normal landing config before final approach 10 on downwind, 20 on base turn , 30 on final turn
+* 40 flap on final + add some power + trim 
+* maintain 65 MPH(calm wind), higher airspeed if have gusty headwind 
+* Pick up the right aiming point
+* Scan from your aiming point to the horizon or other points to perceive a deviation from the desired glide path and determine if the airplane is proceeding directly toward the aiming point
+* 
+
+
+
+Soft Field Landing
+
+* Normal Approach 20-30 flaps
+* 拉杆拉到最后然后继续保持
+
 
 
 Eric:
 
 * Aiming Point 是Number
 
-* 在Number的时候如果感觉离地面较低 可以加power 然后gain altitude
+* 在Number的时候如果感觉离地面较低 可以加power 然后gain altitude 
+
+* 低了比高了容易控制，低了可以加Power 延长，高了必须要等待下降
 
 * 在Final的时候如果 Power out  
 
 
 
+Matt:
+
+* 习惯留一些Power 保持Ground Effect Flare 状态 然后再
 
 
-飞到了Aiming point 之后要做什么? 直接Flare
+
+飞到了Aiming point 之后要做什么? 先Round Out 保持一个平飞Level Flight 可以想想Slow Flight的感觉 你可以maintain altitude 在一个特定的
+
+不要给back pressure, 容易掉下去
 
 
 
@@ -147,12 +174,6 @@ Soft Field Landing
 * Normal Landing 
 * Keep the nose up 
 * 
-
-
-
-* 
-
-
 
 
 

@@ -1,9 +1,3 @@
-
-
-
-
-
-
 ## 1. Your First Few Hours
 
 ### 1. Into / The Flight

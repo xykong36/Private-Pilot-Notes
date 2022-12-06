@@ -289,7 +289,7 @@ Carburetor ice is most likely to occur when temperatures are: Below 70 degrees F
 
 
 
-## 
+
 
 ## Airport Operation 
 
@@ -409,7 +409,6 @@ Videos
   * Troposphere: temperature decreases with altitude
 * Dew point: the temperature to which air must be cooled to become saturated by the water already present in the air
 * Atmospheric Stability: the resistance of the atmosphere to vertical motion
-* 
 * Moisture: 
   * Evaporation: liquid to vapor
   * Condensation: vapor to liquid
@@ -490,12 +489,6 @@ Fronts Type
 * Occluded front: 移动快的冷锋 把移动慢的暖锋挤掉
 
 
-
-Wind Shear
-
-
-
-Thunderstorm
 
 * 
 

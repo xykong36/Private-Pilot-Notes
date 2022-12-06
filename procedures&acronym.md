@@ -108,9 +108,11 @@
 * O: Operating Handbook
 * W: Weight and Balance Chart
 
-### Spin Recovery - PARE
+### Spin Recovery - [PARE](https://www.boldmethod.com/learn-to-fly/maneuvers/the-four-steps-of-spin-recovery-explained-pare-fly-it-safely-to-recovery/)
 
-* P: Power back
+
+
+* P: Power Idle
 * A: Ailerons neutral
 * R: Rudder opposite spin
 * E: Elevator down
