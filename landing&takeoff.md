@@ -34,6 +34,32 @@ C172
 
 
 
+Obstacle:
+
+
+
+earlier float 
+
+Climb slower 
+
+No obstacle -> 10 degree flap 
+
+Soft Field: 可以更快的进入Ground Effect 离开runway
+
+Short Field: 
+
+Have obstacle 
+
+
+
+10 degree flaps increase our lift, reduce stall speed, reduce ground roll.
+
+https://aviation.stackexchange.com/questions/79885/why-not-always-take-off-with-10-degree-flaps-in-a-cessna-172 
+
+
+
+
+
 
 
 ### Soft Field Landing

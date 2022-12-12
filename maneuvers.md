@@ -8,7 +8,19 @@ Power On
 
 Power Off Stall
 
+12.11
 
+Use the right rudder to keep the turn coordinated, especially during the roll out
+
+Left turn -> roll out right 
+
+Pick up the aiming point, find the spot  更精确的考虑flare的距离 和aiming point之间的关系 我的flare 都有点太远了 三次都没有hit到那个spot 提前hit了 power too much 
+
+比较适合加power的时机是在flare 之后 Ground Effect的时候
+
+Soft field Landing, 先pull yoke 然后再进行 Target for 65 Vx, clear the obstacle 然后Target for Vy 
+
+you get the 
 
 
 
