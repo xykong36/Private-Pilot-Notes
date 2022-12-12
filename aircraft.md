@@ -181,3 +181,29 @@ Engine ignition is independent of the electronic system, supplied by two engine 
 AOPA: Aircraft Owners and Pilots Association. The AOPA is the world's largest civil aviation organization, representing people who own or fly general aviation aircraft. 
 The AOPA fights to maintain the freedom of flight.
 EAA: Experiment Aircraft Association
+
+
+
+
+
+VA: maneuvering
+
+Vc: cruise
+
+VFE: 
+
+VNE: 
+
+VNO:
+
+VR: rotation 
+
+VS0: landing configuration
+
+VS: clean configuration
+
+Vx: best angle of climb
+
+Vy: best rate of climb
+
+Vg: best glide
