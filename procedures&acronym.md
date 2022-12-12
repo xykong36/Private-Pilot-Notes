@@ -21,11 +21,10 @@
   * Before Maneuver Checklist & Before Maneuver Setup & Best landing field if engine failure is encountered
     * Fuel - Both
     * Mixture - Rich
-    * Adjust RPMo
     * Beacon + Landing Lights - On
     * Power - Desired for maneuver 
     * Seat belts - On
-
+  
 * C
   * Clearing Turns & Radio Calls
   
@@ -109,8 +108,6 @@
 * W: Weight and Balance Chart
 
 ### Spin Recovery - [PARE](https://www.boldmethod.com/learn-to-fly/maneuvers/the-four-steps-of-spin-recovery-explained-pare-fly-it-safely-to-recovery/)
-
-
 
 * P: Power Idle
 * A: Ailerons neutral

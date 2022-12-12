@@ -127,6 +127,36 @@ Solo 必备Checklist
 
 
 
+## 12.11 
+
+20997 with Garrett
+
+### 训练科目 TODO
+
+* Slow Flight
+* Power on Stall
+* Power off Stall
+* Short Field Takeoff / Landing Landing
+* Soft Field Takeoff / Landing
+* Turn around the point
+* Forward Slip / Side Slip Demonstrate 
+
+
+
+不过extend downwind
+
+之后还是忘记看airspeed 直接弄flap 了 
+
+不管在哪个位置都是要把Pattern work 的config按步骤弄完
+
+
+
+Forward Slip
+
+
+
+
+
 ## 11.29 
 
 ### 训练科目

@@ -2,34 +2,17 @@
 
 
 
+
+
 Practical
 
 Power On 
-
 Power Off Stall
-
-12.11
-
-Use the right rudder to keep the turn coordinated, especially during the roll out
-
-Left turn -> roll out right 
-
-Pick up the aiming point, find the spot  更精确的考虑flare的距离 和aiming point之间的关系 我的flare 都有点太远了 三次都没有hit到那个spot 提前hit了 power too much 
-
-比较适合加power的时机是在flare 之后 Ground Effect的时候
-
-Soft field Landing, 先pull yoke 然后再进行 Target for 65 Vx, clear the obstacle 然后Target for Vy 
-
-you get the 
-
-
 
 # Landing & Takeoff
 
 
-
 Power for Altitude -> If you are too high, power out, If you are too low, add power
-
 
 
 Pitch for airspeed -> Maintain stable airspeed, pitch for visibility
@@ -169,17 +152,7 @@ Aiming Point 要在Touch down 之前 可以用两个Strip
 Soft Field Landing
 
 * Normal Landing 
-* Keep the nose up 
-* 
-
-
-
-* 
-
-
-
-
-
+* Keep the nose up
 
 
 ![Slips](http://flighttrainingcenters.com/wp-content/uploads/2015/02/Slips.gif)
@@ -210,17 +183,9 @@ Extend Final 什么时候开始Config
 
 Aiming Point 移动来判断Final 是高是低
 
-
-
-
-
 今天extend downwind 
 
-
-
 进行radio call 
-
-
 
 https://www.boldmethod.com/learn-to-fly/maneuvers/how-to-fly-a-forward-slip-to-landing-if-you-are-high-on-final/
 
@@ -266,10 +231,3 @@ Landing 犯过的错误
 * Strong headwind 可以少用Flap
 * Mess up the radio call
   * 多发生在towered airport 没有听清楚command 没有搞清楚runway number
-
-
-
-
-
-
-
