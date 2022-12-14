@@ -149,8 +149,6 @@ temperature vs. density altitude vs. pressure altitude ?
 
 Q: What is the effect of a temperature increase from 25 to 50 °F on the density altitude if the pressure altitude remains at 5,000 feet?
 
-![](D:\repos\Private-Pilot-Notes\screenshot\Density-Altitude-Chart.jpg)
-
 
 
 Stall Speed ? How to determine ?
@@ -195,9 +193,9 @@ Weight & Balance
 
 Empty Weight 
 
-Weight * Arm = Weight 
+Weight * Arm = Moment
 
-1 Gallon = 6 pound
+1 Gallon Fuel 100 = 6 pound
 
 High density altitude is equivalent to lower air density = 
 
@@ -588,23 +586,7 @@ PIREP code
 
 
 
-### Airspeed Indicator Markings
-
-* $V_{S0}$ - lower limit of white arc - the stalling speed or the minimum steady flight speed in the landing configuration
-* $V_{FE}$ - upper limit of the white arc - the maximum speed with the flaps extended
-* $V_{S1}$ - lower limit of green arc - the stalling speed or the minimum steady flight speed obtained in a specified configuration
-* $V_{N0}$ - upper limit of green arc - the maximum structural cruising speed
-* $V_{NE}$ - red line - never exceed speed
-
-
-
-### Other Airspeed Limitations
-
-* $V_A$ - design maneuvering speed
-* $V_{LO}$ - the maximum speed for extending or retracting the landing gear if flying an aircraft with retractable landing gear
-* $V_{LE}$ - the maximum speed at which an aircraft can be safely flown with the landing gear extended
-* $V_{X}$ - best angle-of-climb speed - most altitude gain in a given distance
-* $V_{Y}$ - best rate-of-climb speed - most altitude gain in a given period of time
+* 
 
 
 
