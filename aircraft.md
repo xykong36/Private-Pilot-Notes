@@ -235,3 +235,36 @@ if it's not
 * Diable
 * put it in the maintainance record
 
+
+
+## Center of Gravity (CG)
+
+https://www.youtube.com/watch?v=Eag32PMV1eQ&t=263s 
+
+### Forward CG (nose down / heavy nose)
+
+* Higher Stall speed
+* Lower Cruise speed
+* More stable
+* Easy to recover from the stall
+
+### Rearward CG (nose up)
+
+* Less stable
+* Less controllable
+* Lower Stall speed
+* Higher Cruise speed (less drag)
+* Hard to recover from the stall
+
+
+
+
+
+## [Left Turning Tendencies](https://www.aopa.org/news-and-media/all-news/2014/october/flight-training-magazine/technique--left-turning-tendencies#:~:text=Torque%2C%20spiraling%20slipstream%2C%20P%2D,works%20in%20a%20unique%20way.) 
+
+
+
+* Torque
+* Gyroscopic Precession
+* Asymmetrical Thrust P-factor
+* Spiraling Slipstream

@@ -4,68 +4,64 @@
 
 
 
+## Landing
+
+
+
 ### 核心原则
 
-Power for Altitude -> If you are too high, power out, If you are too low, add power
+Power for Altitude -> If you are too high, power out, If you are too low, add power  aiming point 向上移动了
 
 Pitch for airspeed -> Maintain stable airspeed, pitch for visibility
 
+Establish a stable approach: downwind -> base -> final 一个
 
+如果飞到Final的时候落地对于crosswind没信心/aiming point 感觉不对 / 明显too high, too low，直接Go Around 
 
-Establish the approach
-
-Altimeter 
-
-Performance:
-
-Landing Distance / Takeoff Distance 
+只要开始了Flare的向后拉杆就不要再向前推杆了，会nose wheel 触地，很危险
 
 
 
-Calculator
+### Go Around
+
+Steps
+
+* Full Power
+* Nose up
+* Look for climbing airspeed
+* Retract flap gradually
 
 
 
-Visualization 
+如果too low
 
-Runway 
+No:  不要retract flap, Lift 会变小, 你会直接settle 触底
 
-C172
-
-
-
-Obstacle:
-
-
-
-earlier float 
-
-Climb slower 
-
-No obstacle -> 10 degree flap 
-
-Soft Field: 可以更快的进入Ground Effect 离开runway
-
-Short Field: 
-
-Have obstacle 
-
-
-
-10 degree flaps increase our lift, reduce stall speed, reduce ground roll.
-
-https://aviation.stackexchange.com/questions/79885/why-not-always-take-off-with-10-degree-flaps-in-a-cessna-172 
+Yes: 先加power 有了climb之后再加flap
 
 
 
 
+
+### Normal Landing
+
+* Round out + Flare: Stop the descent + Transition to climb attitude 
+
+* Flare 的时候必须要看一个middle range point 来避免flare too high 如果too close 大脑会有一个幻觉 too far away会丢掉很多的细节 没有办法帮助你准确判断
+
+
+
+### Crosswind Landing 
+
+* 用Bank 来shift到Runway Center Line 
+* 用Rudder 保持Nose 朝向
 
 
 
 ### Soft Field Landing
 
-* Flap 10
-* 
+* Normal Approach 20-30 flaps
+* 拉杆拉到最后然后继续保持
 
 
 
@@ -92,11 +88,15 @@ Maximum Brake:
 
 Final Full Flap 之后加一点Power来保持一个比较Steep 但又不会Sink 提前进行操作可以避免最后时候
 
-通过Sight Picture 来确认自己的大概位置
+Too high 是没有操作空间的
 
-用Number 之后的一个Strip座位Aiming Point 要考虑到自己的
+Too low 是可以进行加power的操作的
 
-之后再Solo的时候需要
+眼睛的余光瞄Sight Picture 来确认自己的大概位置
+
+用Number 之后的一个Strip座位Aiming Point
+
+Aiming point 和 Touch down point 大概 2-3个Strip
 
 
 
@@ -107,14 +107,6 @@ My Approach:
 * maintain 65 MPH(calm wind), higher airspeed if have gusty headwind 
 * Pick up the right aiming point
 * Scan from your aiming point to the horizon or other points to perceive a deviation from the desired glide path and determine if the airplane is proceeding directly toward the aiming point
-* 
-
-
-
-Soft Field Landing
-
-* Normal Approach 20-30 flaps
-* 拉杆拉到最后然后继续保持
 
 
 
@@ -132,41 +124,17 @@ Eric:
 
 Matt:
 
-* 习惯留一些Power 保持Ground Effect Flare 状态 然后再
+* 习惯留一些Power 保持Ground Effect Flare 状态 然后再接近touchdown point的地方直接power out 然后settle
 
 
 
 飞到了Aiming point 之后要做什么? 先Round Out 保持一个平飞Level Flight 可以想想Slow Flight的感觉 你可以maintain altitude 在一个特定的
 
-不要给back pressure, 容易掉下去
-
-
-
-在Final的时候 
-
-Oral + Ride 
-
-Power out
-
-
-
-
-
-touch down: 1000 feet mark, ai
-
-开始flare nose up ? 
-
 
 
 45度 Runway进行Base Turn
 
-Final Turn
-
-Question
-
-Aiming Point 要在Touch down 之前 可以用两个Strip
-
-
+什么时候power idle 看感觉，基本上Level + 向后拉杆的时候就可以
 
 
 
@@ -193,15 +161,7 @@ Aiming Point 要在Touch down 之前 可以用两个Strip
 
 
 
-
-
-Soft Field Landing
-
-* Normal Landing 
-* Keep the nose up 
-* 
-
-
+### Forward Slip & Side Slip
 
 
 
@@ -217,8 +177,6 @@ Forward Slip:
 * Descent Rate 能够达到15 甚至20
 
 
-
-Crosswind Landing 
 
 Side Slip
 
@@ -237,27 +195,9 @@ Aiming Point 移动来判断Final 是高是低
 
 
 
-今天extend downwind 
 
 
 
-进行radio call 
-
-
-
-https://www.boldmethod.com/learn-to-fly/maneuvers/how-to-fly-a-forward-slip-to-landing-if-you-are-high-on-final/
-
-还是会有
-
-Takeoff 犯过的错误
-
-* 没有crosswind correction
-* 偏离run way
-* 没有maintain $V_y$ Or $V_x$
-* Rotate 过慢
-  * Strong head wind的时候 可以早rotate
-* Rotate 过快
-  * 被groud effect 托起来之后有一些错觉
 
 
 
@@ -289,6 +229,85 @@ Landing 犯过的错误
 * Strong headwind 可以少用Flap
 * Mess up the radio call
   * 多发生在towered airport 没有听清楚command 没有搞清楚runway number
+
+
+
+## Takeoff
+
+
+
+### 核心原则
+
+* Right Rudder keep 
+* 
+
+### 技术细节
+
+
+
+### Normal Takeoff
+
+
+
+进行radio call 
+
+
+
+https://www.boldmethod.com/learn-to-fly/maneuvers/how-to-fly-a-forward-slip-to-landing-if-you-are-high-on-final/
+
+
+
+Takeoff 犯过的错误
+
+* 没有crosswind correction
+* 偏离run way
+* 没有maintain $V_y$ Or $V_x$
+* Rotate 过慢
+  * Strong head wind的时候 可以早rotate
+* Rotate 过快
+  * 被groud effect 托起来之后有一些错觉
+
+
+
+### 10' Flap?
+
+
+
+Obstacle:
+
+
+
+earlier float 
+
+Climb slower 
+
+No obstacle -> 10 degree flap 
+
+Soft Field: 可以更快的进入Ground Effect 离开runway
+
+Short Field: 
+
+Have obstacle 
+
+10 degree flaps increase our lift, reduce stall speed, reduce ground roll.
+
+https://aviation.stackexchange.com/questions/79885/why-not-always-take-off-with-10-degree-flaps-in-a-cessna-172 
+
+有obstacle -> 不要Flap
+
+没有obstacle -> 需要Flap
+
+With Flap: 
+
+* Easy to float, short takeoff rolling distance but worse climb performance 
+
+  
+
+
+
+### Soft Field Takeoff
+
+### Short Field Takeoff
 
 
 

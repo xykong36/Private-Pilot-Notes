@@ -28,7 +28,6 @@
 * C
   * Clearing Turns & Radio Calls
   
-    
 
 ### Passenger  Briefing - **SAFETY**
 
@@ -52,6 +51,21 @@
   * Traffic (scanning, spotting, notifying pilot)
   * Talking
 * Y: Your questions
+
+
+
+### Engine Fire
+
+* Fuel Shutoff
+* Master Shutoff
+* Keep the magneto -> to consume the fule
+* Carb heat / Air off
+
+### Engine Failure
+
+* A: Airspeed / Best Glide Speed
+* B: Best Landing Field
+* C: Cockpit Checks
 
 
 
