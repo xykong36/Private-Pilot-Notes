@@ -2,8 +2,6 @@
 
 TODO:
 
-
-
 - [ ] 看 Checkride standard https://www.youtube.com/watch?v=yJRkO_6iTWs
 
 - [ ]  重新复习和熟练各种基本操作 
@@ -12,14 +10,14 @@ TODO:
     - [ ]  根据外面的reference point 来确定每一次的turn 是否是coordinated 
     - [ ]  Test shallow turn / medium turn / steep turn 
     - [ ]  需要一些back pressure 来克服horizontal lift 
-  - [ ] Power on / off Stall
+  - [x] Power on / off Stall
   - [x] Steep Turn 
     - [ ]  左右的Sight Picture 是不一样的
       - [ ]  Left tend to 
   - [ ] Short Field Takeoff + Landing 
   - [ ] Soft Field Takeoff + Landing
   
-- [ ] Solo X/C 5 hours 应该是要飞两趟的
+- [x] Solo X/C 5 hours 应该是要飞两趟的
 
   - [ ]  finish the first solo X/C 1.8 hrs
 
@@ -36,70 +34,6 @@ TODO:
 - [x] 学习如何给飞机加油 需要一个ground wire ? 
 
 - [ ] Read the Pilot's Operating Handbook (POH)
-
-
-
-
-
-PHAK C16 Wind Triangle
-
-```gfm
-- [ ] This task is incomplete.
-```
-
-
-
-- [ ] This task is incomplete
-
-
-
-Knowledge
-
-- [ ] MIT Lectures
-
-Airspace
-
-Lec04 Aircraft System 
-
-Lec 12 Aircraft Performance
-
-Lec 15 Flight Planning
-
-Lec 18 Weight & Balance
-
-## MIT Private Pilot Ground School
-
-### Links
-
-* Lecture notes: https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/lecture-notes/index.htm
-
-### Lecture Notes:
-
-
-
-the aspect ratio is **the ratio of width and height**
-
-which 
-
-
-
-p-factor: 
-
-What is gyroscopes? 
-
-Long wing 
-
-## Fore Flight
-
-Weather
-
-Track Logging 
-
-https://www.youtube.com/watch?v=MFRoQrqvF30&ab_channel=MidlifePilot 
-
-## Weight & Balance
-
-
 
 
 
@@ -123,11 +57,84 @@ Solo 必备Checklist
 
 ### 训练科目
 
-### 需要改进的·
+### 需要改进的
 
 
 
+# 2023
 
+
+
+## 1.3.2023
+
+
+
+**2866L with Ashton 1.3hr** 
+
+2866L 真的太难开了，以后一定要避免预约这个飞机
+
+### 训练科目
+
+* Windy Landings (Strong headwind + Some crosswind)
+  * Wind condition: 200-220 shifting 10 kts wind + Gust 18kts
+
+
+
+### 需要改进的
+
+* 在Final Approach的时候要有nose down 这样能够更容易round out
+* Adjust the pattern for wind  
+  * Crosswind Turn的时候转一个大圈 更Shallow 同时注意要Crab
+  * Downwind 的时候会有顺风加成，可以把Power调小
+  * 提前转Base 和 Final Base 会被向外吹
+  * Final的时候增加Airspeed
+
+
+
+必须要改掉的坏毛病
+
+* 不进行Turn coordination 只依靠Aileron来转向  会出现转弯卡住的情况，风太大了转不过来了
+* 太过于关注仪表 不看窗外
+
+
+
+**20052 with Ashton**
+
+### 训练科目
+
+* Stalls
+* Slow Flight
+
+### Tips
+
+* Lean mixture on taxi 可以省油
+* 每次Takeoff Rotate 离地之后都要多踩一点Right Rudder
+* Personal minimum: 10 kts crosswind + 12kts Gust headwind 如果在checkride当天对于天气状况没有太多信心，直接在Oral结束的时候说discontinue即可
+
+### 需要改进的
+
+* Slow Flight
+  * More power every time you add flap to maintain altitude
+  * power + pitch 来控制flight altitude
+* Power on stall 
+  * 不熟悉步骤
+  * Recover之后没有控制好heading 导致了偏离
+* Clear Turn 两个90 degree的turn
+* Stall的时候也是要pick up reference point 来判断自己的heading
+* Look outside Stall 的偏向
+* Altitude 需要通过Instrument来判断
+* Refer to checklist for pre-flight check
+* Watch altitude
+  * Lost 200 altitude in slow flight set up
+  * Climb 400 feet altitude after climbing
+  * 0-179 Odd altitude + 500  180-359 Even altitude + 500
+* Lower than target airspeed during slow flight +10 / -0 是standard
+* Carb heat 只要是在Green Arc 之外都是需要打开的
+* Radio calls for inbound: 10 7 5 3
+
+
+
+# 2022
 
 ## 12.11 
 
@@ -825,9 +832,11 @@ Instrument 飞的我还是很蒙蔽的  有点晕的够呛，solo的时候有hea
 
 ## 6.19 Instrument Training
 
-Under the hood 只靠仪表来飞行的 第一part, 需要练到3个小时, 今天只是简单的进行一个适应性训练 不过感觉还是很有必要练习一下的， 包括几个unusual altitude recovery   如果是pitch up的话 需要做的 power on -> level -> pitch down  
+Under the hood 只靠仪表来飞行的 第一part, 需要练到3个小时, 今天只是简单的进行一个适应性训练 不过感觉还是很有必要练习一下的， 包括几个unusual altitude recovery   如果是pitch up的话 需要做的 
 
-如果是pitch down的话 power off -> level -> pitch up
+如果是头朝上了 power on -> level -> pitch down  
+
+如果是pitch down头朝下的话 power off -> level -> pitch up
 
 
 

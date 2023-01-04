@@ -4,8 +4,6 @@ A: [Aviation Weather - GFA Tool](https://www.aviationweather.gov/gfa) 不断拉�
 
 
 
-
-
 Condensed METAR Board
 
 - **CIG** - Ceiling

@@ -50,6 +50,12 @@ Emergency Descent
 
 
 
+## MIT Private Pilot Ground School
+
+* Lecture notes: https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-687-private-pilot-ground-school-january-iap-2019/lecture-notes/index.htm
+
+
+
 Quiz: 
 
 * In a turn, you must **apply back pressure on the elevator**

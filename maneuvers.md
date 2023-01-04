@@ -1,13 +1,52 @@
+## High Altitude Maneuvers
+
+2500AGL -> 3500 MSL for KEQY
 
 
 
+Slow Flight
+
+* 1500 RPM
+* airspeed 60
+* maintain the heading
+* Flaps down to Full Flap
+* Add some power to maintain altitude
 
 
 
-Practical
+Power Off Stall (Landing Configuration)
+
+* 前半部分和Slow Flight 完全一致 Landing approach speed
+
+* Full Flap
+
+* Recover
+  * Pitch down + Add power
+
+
+
 
 Power On 
-Power Off Stall
+
+* No Flap
+* 1700 RPM -> slow down to 
+
+
+
+Low Altitude 在哪个高度? 1500 AGL 2500 MSL for KEQY
+
+
+
+Turn Around a Point
+
+* 确定好一个点 大小要适中 
+  * 可以选择的点: 卡车 小房子 大树
+  * 不要选的点: 信号塔(空心不好观察相对位置) 湖面(面积太大)
+
+* 如果是越来越远 -> Steeper turn
+* 如果越来越近 -> Shallower turn
+
+
 
 # Landing & Takeoff
 
@@ -33,21 +72,23 @@ Calculator
 
 
 
-Visualization 
+Sight Picture:
 
-Runway 
+* Aiming Point
+* Touchdown Point
+* 接近的时候余光看两侧
+* Touch down 之前目光放远一些
 
-C172
 
-
-
-Landing 
 
 
 
 ### Soft Field Landing
 
-* Flap 10
+因为加了Flap 可以更快flare 但是climb performance会变差, more drag
+
+* Flap 10 -> no obstacle 
+* No Flap -> with obstacle 
 
 
 
@@ -65,16 +106,20 @@ Final: Flap 30
 
 Final 的时候airspeed 稍微低一些70 或者65 这样flare的时候distance会短一些
 
-
-
-Normal Wind Calm
-
-
-
 Maximum Brake: 
 
 * Flap Full
 * Brake 踩到底
+
+
+
+ The runway aiming points(commonly called the 1000 foot markers) are **150 feet long and 20 feet wide**. If a runway is shorter than 4,200 feet, the aiming points may be shortened to 100 feet in length
+
+
+
+ The threshold markings are 150 feet long and 5.75 feet wide.
+
+![image-20230103102213895](./screenshot/runway-stripe-width.png)
 
 
 
@@ -90,21 +135,15 @@ Eric:
 
 
 
-
-
 飞到了Aiming point 之后要做什么? 直接Flare
 
 
 
 在Final的时候 
 
-Oral + Ride 
+Pick up a random touchdown point
 
-Power out
-
-
-
-
+touchdown point 之前400 - 500 feet
 
 touch down: 1000 feet mark, ai
 
@@ -118,9 +157,9 @@ Final Turn
 
 Question
 
-Aiming Point 要在Touch down 之前 可以用两个Strip
+Aiming Point 要在Touch down 之前 可以用两个Stripe
 
-
+![image-20230103101631107](./screenshot/airport-runway-stripes.png)
 
 
 

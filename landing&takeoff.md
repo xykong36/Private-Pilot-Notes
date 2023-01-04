@@ -185,15 +185,13 @@ Side Slip
 
 
 
-Extend Final 什么时候开始Config 
+Extend Final 什么时候开始Config?
+
+*  大概3-4Mile away
 
 
 
 Aiming Point 移动来判断Final 是高是低
-
-
-
-
 
 
 
