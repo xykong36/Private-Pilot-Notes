@@ -63,6 +63,99 @@ Solo 必备Checklist
 
 # 2023
 
+## 1.9.23 20997 with AL 1.7hr
+
+### 训练科目
+
+* Time the flight
+  * Pattern altitude
+  * TOC
+    * Climb rate 会随着高度的增加而下降的 而且自己在飞到Pattern之后可能习惯性的忽视了maintain Vy 给出一些空余量
+  * 找到第一个check point 
+    * 如果有多条Road 注意观察走向 长宽 相对于其他landmark的位置
+  * 用Foreflight的时候会有两个heading A->B 和 B->A的 注意double check 你的point  basic 0-90 NE 90-180 SE 180-270 SW 270-360 NW
+* Simulated IFR 0.5hr
+  * level turn
+  * standard turn 2mins
+  * Climb turn
+  * Recover from unusual altitude
+    * Pitcu up 直接向前push back + level
+    * Pitch down 三步走 1. power idle 2.   
+  * navigation 
+* Emergency Landing
+  * 直接降落到AFP 机场
+  * 对于高度和距离的估计 
+    * C172 1.5 nm / 1,000 feet of altitude AGL
+  * 尽快飞到Final 如果最后altitude有些高可以直接Forward Slip 来快速降高度 或者Emergency Spiral 来盘旋降高度 或者extend base + Flap 更高的Altitude问题不大, Altitude 不够就麻烦了
+
+
+
+## 1.8.2023 144PW with AL 1.8hr
+
+144PW 的yoke 太难用了，特别钝 每次做微调都需要特别用力
+
+### 训练科目
+
+* Steep spiral 在LKR 24跑道上空
+  * 把runway number(某一个point) 放到飞机的wheel下方，盯着这个点进行360度的Steep Spiral (和Emergency Descent的区别在于 Steep Spiral 是一直保持Best glide speed 而Emergency Descent 可以到100kts) 相同点 Power idle + 45度 Steep Turn
+* Turn around a point
+* S-turn 需要评估好风向 从downwind 进入 最开始的是最steep的 中间要crab 第二个小圈的时候注意直接开始就shallow turn 不要走直线 会把圈画的很大
+
+### 
+
+## 1.8.2023 20997 with AL 1.3hr
+
+### 训练科目
+
+* Emergency Procedures
+  * ABC
+  * 需要快速反应 尽量在lose 500 feet altitude的时候就进行 restart + turn off + fly to the landing field的过程 有空余时间的话可以看checklist
+* Short-field take off
+  * Flap 是no obstacle时候才用的 因为flap会影响climb performance 让climb rate降低
+  * Take off 的时候记住先要pitch for Vx 然后再Vy
+
+
+
+## 1.6.2023 2866L with AL 2.1hr
+
+### 训练科目
+
+* XC practice navigation + Diversion
+  * Diversion 要给出Location + Distance + Fuel + Time
+  * 如果Diversion 的目的地是机场 要做好radio 的config + 查天气目的是wind -> 确定runway + Altitmeter -> 确定Elevation + Remarks 可能会有runway maintainance之类的
+* Towered airport practice (VUJ)
+  * Clear to Land Options
+  * Initial call 需要在call的结尾加上weather info
+    * AWOS 是没有代号的，直接说 we have the weather
+    * ATIS 的天气是有代号的，每小时更新从Alpha, Bravo, ... 不断增加
+  * Call you base / crosswind -> 等ATC让你Turn base / crosswind的时候 你再Turn
+* Power on stalls 
+  * Climb rate 15 - 20 度之间
+  * Hold the nose up
+* VOR tracking
+  * From 来定位你的radial
+  * To 来确认你要用哪个heading 飞向VOR
+
+
+
+## 1.6.2023 8815Z with AL 1.5hr
+
+### 训练科目
+
+* Turn around a point
+
+* S turn
+
+* Steep Turn
+
+  
+
+
+
+## 
+
+
+
 
 
 ## 1.3.2023
@@ -524,7 +617,7 @@ KEQY -> Divert to KPYG -> KEQY
 * Check point 可以选择相交点 注意从departure leg 的终点作为起始点开始划线
 * 注意观察Weather 的变化
 * Lean Fuel 是需要的 如果一直Full Rich, full power每小时的fuel comsuption 会在10-12 gal范围
-* Engine Failure 可能是因为没有Full Rich 导致的 试着看看
+* PA 可能是因为没有Full Rich 导致的 试着看看
 * 可以使用heading bug 来固定runway 的方位来确定自己
 * calibrate compass 和 heading indicator 需要保证是在水平状态下, compass 在climbing 过程中会有误差
 * 计算距离和时间 注意用Ground Speed

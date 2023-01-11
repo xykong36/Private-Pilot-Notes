@@ -11,3 +11,23 @@ Condensed METAR Board
 - **WX** - Weather (thunderstorms, freezing rain)
 - **WSpd** - Wind speed
 - **WGst** - Wind gusts
+
+
+
+
+
+Standard Briefing:
+
+https://www.aviationweather.gov/briefing 
+
+
+
+NOTAM: https://notams.aim.faa.gov/notamSearch/nsapp.html#/results 
+
+
+
+
+
+Surface Prog Charts
+
+https://www.aviationweather.gov/progchart/sfc

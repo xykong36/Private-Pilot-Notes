@@ -18,6 +18,57 @@
 
 
 
+
+
+PPL Stage Check Questions
+
+* What documents must you have with you to fly the airplane? (61.3)
+* What are your limitations as a student pilot? (61.89)
+* What privileges and limitations apply to private pilot? (61.113) (91.146)
+* What documents should be in the aircraft before flight? ARROW (91.9, 91.203)
+* How do we keep our pilot certificate current? (61.56, 61.57)
+* What are the currency requirements for carrying passengers? (61.57)
+* With respect to the certification, privileges, and limitations of airmen, what do category, class, and type mean? (61.5)
+* Discuss AVIATES. Required Inspections
+  * AVIATE
+    * Annual
+    * VOR -  every 30 days IFR Only
+    * I - 100 hour inspections, for training / hire only
+    * Altimeter / Pitot-Static
+    * T - Transponder 24 calendar months
+    * E - ELT 12 calendar months  / 1 hour cumulative use / 50 percent of battery life
+* What equipment and instruments do you need to have in the airplane for today’s flight? ATOMATOFLAMES (91.205b)
+  * A - Altimeter (height)
+  * T - Tachometer (engine time)
+  * O - Oil Temperature
+  * M - Magnetic Heading
+  * A - Airspeed Indicator
+  * T - Temperature gauge (for liquid cooled engines)
+  * O - Oil Pressure
+  * F - Fuel quantity gauge
+  * L - Landing gear indicator
+  * A - Anti-collision light (Beacon light)
+  * M - Manifold pressure gauge
+  * E - ELT
+  * S - Seat belts
+* What are the primary flight controls? (PHAK 5-3)
+  * Elevator - Pitch - Lateral Axis
+  * Rudder - Yaw - Vertical Axis
+  * Aileron - Roll - Longitudinal Axis
+* Left turning tendencies
+  * Torque – clockwise spinning prop causes airplane to roll left about the longitudinal axis. This is an example of Newton’s 3rd law.
+  * Gyroscopic Precession – During a descent the tail rises and causes a force to felt on the top of the propeller. The resultant force is therefore 90 degrees ahead in the direction of the rotation (RIGHT SIDE of propeller) causing a left yawing tendency.
+  * Asymmetrical Thrust – In a climb, the descending propeller blade (RIGHT SIDE) has a greater angle of attack and therefore creates more lift. This causes a left yawing tendency.
+  * Spiraling Slipstream – Propeller wash strikes the aircraft of the left side of the vertical stabilizer causing a left yawing tendency.
+
+
+* Five basic functions of aircraft engine oil
+  * Lubricates - engine's moving parts
+  * Cools - the engine by reducing friction
+  * Cleans - carrying off metal and carbon particles and other oil contaminants
+  * Remove - heat from the cylinders
+  * Seal - seal between cylinder walls and pistons
+
 Short Field Landing
 
 Emergency Descent

@@ -262,9 +262,9 @@ https://www.youtube.com/watch?v=Eag32PMV1eQ&t=263s
 
 ## [Left Turning Tendencies](https://www.aopa.org/news-and-media/all-news/2014/october/flight-training-magazine/technique--left-turning-tendencies#:~:text=Torque%2C%20spiraling%20slipstream%2C%20P%2D,works%20in%20a%20unique%20way.) 
 
+* 
 
-
-* Torque
-* Gyroscopic Precession
-* Asymmetrical Thrust P-factor
-* Spiraling Slipstream
+  * Torque
+  * Gyroscopic Precession
+  * Asymmetrical Thrust P-factor
+  * Spiraling Slipstream
